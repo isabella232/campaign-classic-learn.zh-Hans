@@ -10,9 +10,9 @@ tutorials-url: https://docs.adobe.com/content/help/en/campaign-classic-learn/tut
 getting-started-title: 文档
 getting-started-url: https://docs.campaign.adobe.com/doc/AC/en/PTF_Starting_with_Adobe_Campaign_About_Adobe_Campaign_Classic.html
 translation-type: tm+mt
-source-git-commit: 603a2f9eab05af9821c4074f306af57499498c66
+source-git-commit: 75c696abfd57318672bf6f8011c4a501fc6a7bc5
 workflow-type: tm+mt
-source-wordcount: '289'
+source-wordcount: '296'
 ht-degree: 3%
 
 ---
@@ -25,6 +25,7 @@ ht-degree: 3%
    + [Adobe Campaign经典简介](/help/acc/getting-started/introduction-to-adobe-campaign-classic.md)
    + [探索Adobe Campaign经典用户界面](/help/acc/getting-started/exploring-the-adobe-campaign-classic-user-interface.md)
    + [管理营销活动](/help/acc/getting-started/managing-marketing-campaigns.md)
+   + [创建营销计划、项目和活动](/help/acc/getting-started/creating-a-marketing-plan-programs-and-campaigns.md)
    + [创建活动和电子邮件](/help/acc/getting-started/creating-a-campaign-and-an-email.md)
    + [创建列表收件人](/help/acc/getting-started/creating-a-list-of-recipients.md)
    + [创建工作流](/help/acc/automating-with-workflows/creating-a-workflow.md)
