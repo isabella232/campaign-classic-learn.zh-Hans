@@ -1,6 +1,6 @@
 ---
 title: 如何导入用户档案
-description: 此视频介绍如何在Adobe Campaign经典中导入用户档案
+description: 此视频介绍如何在Adobe Campaign Classic导入用户档案
 feature: Profile Management
 topics: Data Import and Export
 kt: 2176
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 # 如何导入用户档案
 
-此视频介绍如何在Adobe Campaign经典中导入用户档案。
+此视频介绍如何在Adobe Campaign Classic导入用户档案。
 
 >[!VIDEO](https://video.tv.adobe.com/v/25608?quality=12)
 
