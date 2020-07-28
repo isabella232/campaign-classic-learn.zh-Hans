@@ -30,7 +30,7 @@ Workflow HeatMap可帮助平台管理员：
 
 * 查找要分析的特定工作流
 
-请注意： 此功能仅在Adobe Campaign经典V7（内部版本18.11.1）时可用
+请注意： 此功能仅在Adobe Campaign ClassicV7（内部版本18.11.1）起可用
 
 >[!VIDEO](https://video.tv.adobe.com/v/25558?quality=12)
 
