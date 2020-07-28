@@ -10,7 +10,7 @@ team: PM
 translation-type: tm+mt
 source-git-commit: b2820c65a88d25f9b7a4ed5005cd5083463e000a
 workflow-type: tm+mt
-source-wordcount: '161'
+source-wordcount: '167'
 ht-degree: 0%
 
 ---
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 # 如何使用审计线索
 
-[!UICONTROL Audit Trail] 实时捕获在Adobe Campaign内发生的操作和事件的全面列表。 这些 [!UICONTROL Audit Trail] 功能包括一种访问数据历史的自助服务方式，可帮助回答以下问题：
+审计线索可实时捕获在Adobe Campaign内发生的操作和事件的全面列表。 审计线索功能包括一种访问数据历史记录的自助方式，可帮助回答以下问题：
 
 * 一个物体怎么了？
 * 谁最后修改了它？
@@ -28,7 +28,7 @@ ht-degree: 0%
 >
 >审核跟踪需要Campaign Classic版本19.1或更高版本
 
-将记 [!UICONTROL Audit Trail] 录和列表操作符操作，如创建、修改和删除工作流、选项和源模式。 此外，还专门为工作流记录以下操作：
+审计线索将记录和列表运算符操作，如工作流、选项和源模式的创建、修改和删除。 此外，还专门为工作流记录以下操作：
 
 * 开始
 * 暂停
