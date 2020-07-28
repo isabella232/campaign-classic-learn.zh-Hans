@@ -1,8 +1,8 @@
 ---
 title: 创建工作流
 seo-title: '创建工作流 '
-description: 此视频介绍如何在Adobe Campaign经典中创建工作流。
-seo-description: 此视频介绍如何在Adobe Campaign经典中创建工作流。
+description: 此视频介绍如何在Adobe Campaign Classic创建工作流。
+seo-description: 此视频介绍如何在Adobe Campaign Classic创建工作流。
 uuid: 2b6be688-0569-45e7-93fe-fbfac4819198
 discoiquuid: 09f3dd78-8ef4-46d8-a9dc-5bd54cc1b60d
 feature: Workflow
@@ -32,6 +32,6 @@ Adobe Campaign使用工作流来：
 * 构建活动: 对于每个活动,“工 **作流** ”选项卡允许您构建目标并创建投放。 For more on this, refer to [Campaign workflows](https://docs.adobe.com/content/help/en/campaign-classic/using/automating-with-workflows/general-operation/building-a-workflow.html#campaign-workflows).
 * 执行Adobe Campaign技术流程： 清除、收集跟踪信息或临时计算。 For more on this, refer to [Technical workflows](https://docs.adobe.com/content/help/en/campaign-classic/using/automating-with-workflows/general-operation/building-a-workflow.html#technical-workflows).
 
-此视频介绍如何在Adobe Campaign经典中创建工作流。
+此视频介绍如何在Adobe Campaign Classic创建工作流。
 
 >[!VIDEO](https://video.tv.adobe.com/v/25559?quality=12)
