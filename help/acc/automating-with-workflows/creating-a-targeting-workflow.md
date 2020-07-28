@@ -1,6 +1,6 @@
 ---
 title: 创建定位工作流
-description: Adobe Campaign经典使用工作流进行活动定位、构建活动或执行Adobe Campaign技术流程。 在此视频中，我们将重点介绍针对工作流。 定位工作流使您能够构建多个投放目标。
+description: Adobe Campaign Classic利用工作流进行活动定位、建立活动或执行Adobe Campaign技术流程。 在此视频中，我们将重点介绍针对工作流。 定位工作流使您能够构建多个投放目标。
 feature: Workflows
 topics: Targeting Activities
 kt: 2174
