@@ -10,7 +10,7 @@ team: PM
 translation-type: tm+mt
 source-git-commit: b2820c65a88d25f9b7a4ed5005cd5083463e000a
 workflow-type: tm+mt
-source-wordcount: '134'
+source-wordcount: '135'
 ht-degree: 0%
 
 ---
@@ -24,7 +24,7 @@ ht-degree: 0%
 
 要在控制面板中访问SFTP管理，请访问：
 
-* [Experience Cloud主页](https://experience.adobe.com/#/home) >解决方案选取器： **[!DNL Campaign]** > **控制面板** 卡 **>** SFTP卡
+* [Experience Cloud主页](https://experience.adobe.com/#/home) >解决方案选取器： 活动> **控制面板** 卡 **>** SFTP卡
 
    或
 * 直接从URL: [http://experience.adobe.com/#/controlpanel/sftp](http://experience.adobe.com/#/controlpanel/sftp)
