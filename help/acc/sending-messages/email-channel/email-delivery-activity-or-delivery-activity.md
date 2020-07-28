@@ -1,5 +1,5 @@
 ---
-title: 电子邮件投放活动与Adobe Campaign经典中的投放活动
+title: 电子邮件投放活动与Adobe Campaign Classic投放活动
 description: 此视频介绍如何配置和使用投放模板。
 feature: Delivery Templates
 topics: Templates
