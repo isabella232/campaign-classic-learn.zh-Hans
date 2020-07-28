@@ -1,6 +1,6 @@
 ---
-title: 如何在Adobe Campaign经典中配置验证工作流
-seo-title: 如何在Adobe Campaign经典中配置验证工作流
+title: 如何在Adobe Campaign Classic配置验证工作流
+seo-title: 如何在Adobe Campaign Classic配置验证工作流
 description: Adobe Campaign优惠为营销人员提供了多种选项，供他们审查并提供投放内容、活动目标、数据提取和预算批准。 本教程介绍如何配置不同的批准验证工作流。
 seo-description: 此视频介绍如何在ACCAdobe活动优惠中配置和使用投放模板，为营销人员提供多个选项，供他们审阅和提供投放内容、活动目标、数据提取和预算批准。 本教程介绍如何配置不同的批准验证工作流。
 uuid: fdeb7aef-95aa-4bc1-9c51-2eb7ce802107
@@ -14,13 +14,13 @@ team: TM
 translation-type: tm+mt
 source-git-commit: b2820c65a88d25f9b7a4ed5005cd5083463e000a
 workflow-type: tm+mt
-source-wordcount: '356'
+source-wordcount: '357'
 ht-degree: 0%
 
 ---
 
 
-# 如何在Adobe Campaign经典中配置验证工作流
+# 如何在Adobe Campaign Classic配置验证工作流
 
 Adobe Campaign优惠为营销人员提供了多种选项，供他们审查并提供投放内容、活动目标、数据提取和预算批准。
 
@@ -35,7 +35,7 @@ Adobe Campaign优惠为营销人员提供了多种选项，供他们审查并提
 
 ## 为活动配置批准  {#configuring-approvals-for-campaigns}
 
-如果您的活动工作流程中所有投放都有相同的审阅人集，那么您就可以利用批准 [!DNL Campaign] 功能。 通过在活动级别设置批准和审阅者，批准任务和审阅者将在工作流执行后被推送到工作流的每个投放活动。
+如果您的活动工作流程中所有投放都有相同的审阅人集，那么您应利用活动批准功能。 通过在活动级别设置批准和审阅者，批准任务和审阅者将在工作流执行后被推送到工作流的每个投放活动。
 
 >[!VIDEO](https://video.tv.adobe.com/v/25175?quality=12)
 
