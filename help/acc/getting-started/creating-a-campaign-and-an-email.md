@@ -1,6 +1,6 @@
 ---
 title: '创建活动和电子邮件 '
-description: 此视频介绍如何在Adobe Campaign经典中创建活动和电子邮件。
+description: 此视频介绍如何在Adobe Campaign Classic创建活动和电子邮件。
 feature: Email
 topics: Getting started
 kt: 2172
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 # 创建活动和电子邮件
 
-此视频介绍如何在Adobe Campaign经典中创建活动和电子邮件。
+此视频介绍如何在Adobe Campaign Classic创建活动和电子邮件。
 
 >[!VIDEO](https://video.tv.adobe.com/v/25604?quality=12)
 
