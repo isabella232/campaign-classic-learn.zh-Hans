@@ -1,6 +1,6 @@
 ---
-title: 浏览Adobe Campaign经典用户界面
-description: 本课介绍主Adobe Campaign经典用户界面，并向您展示如何导航主功能。
+title: 浏览Adobe Campaign Classic用户界面
+description: 本课介绍Adobe Campaign Classic的主用户界面，并向您展示如何浏览主要功能。
 feature: User Interface
 topics: Getting started
 kt: 5009
@@ -18,9 +18,9 @@ ht-degree: 4%
 ---
 
 
-# 浏览Adobe Campaign经典用户界面
+# 浏览Adobe Campaign Classic用户界面
 
-本课介绍主Adobe Campaign经典用户界面，并向您展示如何导航主功能。
+本课介绍Adobe Campaign Classic的主用户界面，并向您展示如何浏览主要功能。
 
 >[!VIDEO](https://video.tv.adobe.com/v/35130?quality=12)
 
