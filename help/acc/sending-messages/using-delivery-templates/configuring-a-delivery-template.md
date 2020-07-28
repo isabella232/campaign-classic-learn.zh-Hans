@@ -1,5 +1,5 @@
 ---
-title: 在Adobe Campaign经典中配置投放模板
+title: 在Adobe Campaign Classic配置投放模板
 description: 模板可以系统地包括字体、发送者和回复地址以及基本个性化块，如镜像页面和退订链接。 它还可以包括内容、公司标志或签名以及其他投放属性，如资源有效性、批量等。 以下视频演示如何为临时投放配置模板。
 feature: Delivery Templates
 topics: Templates
