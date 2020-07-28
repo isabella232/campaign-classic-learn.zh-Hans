@@ -1,5 +1,5 @@
 ---
-title: Adobe Campaign经典中的数据分割
+title: Adobe Campaign Classic的数据分割
 description: 'Adobe Campaign允许您通过公共消费者属性的深层查询和其他数据源进行高级细分，从而创建可重用列表，根据数据的实时变化动态更新列表，甚至可以执行更复杂的活动，如对任何数据点进行多变量测试。 本教程介绍集成式客户用户档案、如何创建和更新用户档案以及如何根据这些用户档案创建客户细分。 '
 feature: Data segmentation
 topics: Data Management
@@ -36,7 +36,7 @@ Adobe Campaign的集成式用户档案使营销人员能够大规模地捕获和
 
 一旦您了解了用户档案，您就可以通过深入查询的常见消费者属性和其他数据源进行高级细分。 允许您创建可重用的列表，根据数据的实时变化动态更新列表，甚至可以执行更复杂的活动，如对这些数据点进行多变量测试。
 
-请注意： 此视频在Adobe Campaign经典V6中录制，功能完全相同，但工作流图标已更改。
+请注意： 此视频在Adobe Campaign ClassicV6中录制，功能完全相同，但工作流图标已更改。
 
 >[!VIDEO](https://video.tv.adobe.com/v/23635?quality=12)
 
