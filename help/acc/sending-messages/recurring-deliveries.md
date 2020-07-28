@@ -1,6 +1,6 @@
 ---
 title: 如何设置重复和连续的电子邮件活动
-description: 本教程介绍如何设置循环投放和连续Adobe Campaign，以及在经典(ACC)中这两种方法之间的差异。
+description: 本教程介绍如何设置循环和连续投放，以及Adobe Campaign Classic(ACC)中两种方法之间的差异。
 feature: workflows
 topics: channel activities
 kt: 1560
