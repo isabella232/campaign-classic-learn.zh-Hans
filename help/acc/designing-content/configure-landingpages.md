@@ -1,6 +1,6 @@
 ---
-title: 如何在Adobe Campaign经典中配置登陆页
-description: Adobe Campaign经典使您能够在其服务器上设计和托管各种网页，包括在线调查、首选项中心和取消订阅页面。 此视频演示如何通过创建首选项中心导航Adobe Campaign的Web应用程序编辑器。
+title: 如何在Adobe Campaign Classic配置登陆页
+description: Adobe Campaign Classic使您能够在其服务器上设计和托管各种网页，包括在线调查、首选项中心、取消订阅页面。 此视频演示如何通过创建首选项中心导航Adobe Campaign的Web应用程序编辑器。
 feature: Landing Pages
 topics: Configure
 kt: 1562
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 # 如何配置登陆页
 
-Adobe Campaign经典使您能够在其服务器上设计和托管各种网页，包括在线调查、首选项中心和取消订阅页面。
+Adobe Campaign Classic使您能够在其服务器上设计和托管各种网页，包括在线调查、首选项中心、取消订阅页面。
 
 此视频演示如何通过创建首选项中心导航Adobe Campaign的Web应用程序编辑器。
 
