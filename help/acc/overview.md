@@ -1,12 +1,12 @@
 ---
-title: Adobe Campaign经典教程——概述
+title: Adobe Campaign ClassicTutorials-概述
 description: Adobe Campaign 提供了跨渠道客户体验设计平台，并为可视化的活动编排、实时互动管理和跨渠道执行提供了环境。本用户指南包含有关Adobe Campaign Standard的众多特性和功能的视频和教程。
 product: Campaign
 sub-product: Campaign Classic
 translation-type: tm+mt
 source-git-commit: b2820c65a88d25f9b7a4ed5005cd5083463e000a
 workflow-type: tm+mt
-source-wordcount: '242'
+source-wordcount: '243'
 ht-degree: 23%
 
 ---
@@ -14,13 +14,13 @@ ht-degree: 23%
 
 # 概述
 
-Adobe Campaign 提供了跨渠道客户体验设计平台，并为可视化的活动编排、实时互动管理和跨渠道执行提供了环境。本用户指南包含有关Adobe Campaign经典的众多特性和功能的视频和教程。
+Adobe Campaign 提供了跨渠道客户体验设计平台，并为可视化的活动编排、实时互动管理和跨渠道执行提供了环境。本用户指南包含有关Adobe Campaign Classic的众多特性和功能的视频和教程。
 
 ## 新增功能
 
 * **[GPG密钥管理](/help/acc/monitoring-campaign-classic/control-panel/gpg-key-management/gpg-key-management-overview.md)**
 
-   *了解如何在指定实例上生成和安装公共／私有密钥对[!UICONTROL Campaign]以加密出站数据，以及在活动实例上导入和安装公钥以解密入站数据。*
+   *了解如何在指定的活动实例上生成和安装公钥／私钥对以加密出站数据，以及在活动实例上导入和安装公钥以解密入站数据。*
 
 * **[委派子域（测试版）](/help/acc/monitoring-campaign-classic/control-panel/subdomain-delegation.md)**
 
@@ -28,7 +28,7 @@ Adobe Campaign 提供了跨渠道客户体验设计平台，并为可视化的�
 
 * **[使用AMP定义交互式电子邮件内容](/help/acc/sending-messages/email-channel/defining-interactive-email-content-with-amp.md)**
 
-   *了解如何以AMP格式配置电子邮件内容Adobe Campaign经典(ACC)。*
+   *了解如何以AMP格式配置电子邮件内容Adobe Campaign Classic(ACC)。*
 
 ## 员工挑选
 
@@ -61,11 +61,11 @@ Adobe Campaign 提供了跨渠道客户体验设计平台，并为可视化的�
     <p>
   </td>
   <td>
-    <a href="./sending-messages/personalization-with-dynamic-content-blocks.md">
+    <a href="./sending-messages/email-channel/personalization-with-dynamic-content-blocks.md">
       <img alt="使用动态内容块个性化电子邮件（视频）" src="./assets/ACC-Personalization.png" />
     </a>
     <div>
-      <a href="./sending-messages/personalization-with-dynamic-content-blocks.md">
+      <a href="./sending-messages/email-channel/personalization-with-dynamic-content-blocks.md">
     <strong>使用动态内容块个性化电子邮件</strong>
     </a>
     </div>
