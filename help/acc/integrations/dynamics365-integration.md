@@ -1,6 +1,6 @@
 ---
-title: 如何将Dynamics 365与Adobe Campaign经典相集成
-description: 此视频演示如何将Dynamics 365与Adobe Campaign经典相集成。
+title: 如何将Dynamics 365与Adobe Campaign Classic整合
+description: 此视频演示如何将Dynamics 365与Adobe Campaign Classic集成。
 targetaudience: target-audience new;target-audience ongoing
 feature: Microsoft Dynamics 365 Connector
 topics: Configure
@@ -17,8 +17,8 @@ ht-degree: 0%
 ---
 
 
-# 如何将Dynamics 365与Adobe Campaign经典相集成
+# 如何将Dynamics 365与Adobe Campaign Classic整合
 
-此视频演示如何将Dynamics 365与Adobe Campaign经典相集成。
+此视频演示如何将Dynamics 365与Adobe Campaign Classic集成。
 
 >[!VIDEO](https://video.tv.adobe.com/v/23837?quality=12)
