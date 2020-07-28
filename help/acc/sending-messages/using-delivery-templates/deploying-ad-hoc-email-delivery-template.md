@@ -1,5 +1,5 @@
 ---
-title: 在Adobe Campaign经典中部署点对点电子邮件投放模板
+title: 在Adobe Campaign Classic部署临时电子邮件投放模板
 description: '此视频介绍如何部署临时电子邮件投放模板，并解释电子邮件投放与投放工作流程的区别。 '
 feature: Delivery Templates
 topics: Templates
