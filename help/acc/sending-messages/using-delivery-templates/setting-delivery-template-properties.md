@@ -1,6 +1,6 @@
 ---
-title: 在投放模板经典中设置Adobe Campaign属性
-description: 以下视频演示如何在投放模板经典中设置Adobe Campaign属性，并详细说明每个属性。
+title: 在Adobe Campaign Classic设置投放模板属性
+description: 以下视频演示如何在Adobe Campaign Classic设置投放模板属性，并详细说明每个属性。
 feature: Delivery Templates
 topics: Templates
 kt: 1981
