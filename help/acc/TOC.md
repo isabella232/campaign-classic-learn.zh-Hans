@@ -10,9 +10,9 @@ tutorials-url: https://docs.adobe.com/content/help/en/campaign-classic-learn/tut
 getting-started-title: 文档
 getting-started-url: https://docs.campaign.adobe.com/doc/AC/en/PTF_Starting_with_Adobe_Campaign_About_Adobe_Campaign_Classic.html
 translation-type: tm+mt
-source-git-commit: f06225ca2fa9c90998f0f5d0430db434a786b7de
+source-git-commit: 2d28efe0abc313db87610507564a08a9f7e380dc
 workflow-type: tm+mt
-source-wordcount: '319'
+source-wordcount: '323'
 ht-degree: 3%
 
 ---
@@ -26,13 +26,13 @@ ht-degree: 3%
    + [探索Adobe Campaign Classic用户界面](/help/acc/getting-started/exploring-the-adobe-campaign-classic-user-interface.md)
    + [管理营销活动](/help/acc/getting-started/managing-marketing-campaigns.md)
    + [创建营销计划、项目和活动](/help/acc/getting-started/creating-a-marketing-plan-programs-and-campaigns.md)
-   + [创建活动和电子邮件](/help/acc/getting-started/creating-a-campaign-and-an-email.md)
-   + [创建列表收件人](/help/acc/getting-started/creating-a-list-of-recipients.md)
-   + [创建工作流](https://docs.adobe.com/content/help/en/campaign-classic-learn/tutorials/getting-started/creating-a-workflow.html)
+   + [创建活动和电子邮件](https://docs.adobe.com/content/help/en/campaign-classic-learn/tutorials/getting-started/creating-a-campaign-and-an-email.html)
    + [在工作流中定位用户档案](/help/acc/getting-started/targeting-profiles-in-a-workflow.md)
 + Profile Management {#profile-management}
    + [创建和管理用户档案](/help/acc/profile-management/create-and-manage-profiles.md)
    + [导入用户档案](/help/acc/data-management/importing-profiles.md)
+   + [创建列表收件人](/help/acc/profile-management/creating-a-list-of-recipients.md)
+   + [使用工作流创建列表收件人](/help/acc/profile-management/creating-a-list-of-recipients-with-a-workflow.md)
 + 发送消息{#sending-messages}
    + 电子邮件渠道{#email-channel}
       + [创建活动和电子邮件](/help/acc/getting-started/creating-a-campaign-and-an-email.md)
@@ -85,5 +85,5 @@ ht-degree: 3%
          + [解密数据](/help/acc/monitoring-campaign-classic/control-panel/gpg-key-management/decrypting-data.md)
       + [控制面板疑难解答](/help/acc/monitoring-campaign-classic/control-panel/trouble-shooting.md)
    + 访问外部数据库(联合数据访问) {#fda}
-      + [大数据管理Snowflake](/help/acc/administrating/snowflake/big-data-segmentation-on-snowflake.md)
+      + [大数据管理 [!DNL Snowflake]](/help/acc/administrating/snowflake/big-data-segmentation-on-snowflake.md)
 
