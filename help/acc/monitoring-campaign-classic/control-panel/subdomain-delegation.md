@@ -8,10 +8,10 @@ doc-type: feature video
 activity: use
 team: PM
 translation-type: tm+mt
-source-git-commit: b2820c65a88d25f9b7a4ed5005cd5083463e000a
+source-git-commit: 2d28efe0abc313db87610507564a08a9f7e380dc
 workflow-type: tm+mt
-source-wordcount: '129'
-ht-degree: 14%
+source-wordcount: '121'
+ht-degree: 15%
 
 ---
 
@@ -19,8 +19,9 @@ ht-degree: 14%
 # 委派子域
 
 >[!NOTE]
->
->将在1月底之 [!UICONTROL Control Panel] 前推出测试版的子域委派，如有频繁更新和修改，恕不另行通知。
+
+> 来自的子域委 [!UICONTROL Control Panel] 派在测试版中并受
+> 频繁更新和修改，恕不另行通知。
 
 Adobe Campaign [!UICONTROL Control Panel] allows you to fully delegate a subdomain to Adobe Campaign.
 
@@ -28,9 +29,7 @@ Adobe Campaign [!UICONTROL Control Panel] allows you to fully delegate a subdoma
 
 要在中访问子域管 [!UICONTROL Control Panel]理，请转到：
 
-* [Experience Cloud主页](https://experience.adobe.com/#/home) >解决方案选取器： 活动> **[!UICONTROL Control Panel]** 卡> **子域和证书** 卡
-
-   或
+* [Experience Cloud主页](https://experience.adobe.com/#/home) >解决方案选取器： **[!DNL Campaign]** >卡 **[!UICONTROL Control Panel]** >子 **域和证书卡** 。
 * 直接从URL: [https://experience.adobe.com/#/controlpanel/domain](https://experience.adobe.com/#/controlpanel/domain)
 
 ## 如何委派子域
