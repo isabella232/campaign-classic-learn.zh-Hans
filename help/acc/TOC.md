@@ -10,7 +10,7 @@ tutorials-url: https://docs.adobe.com/content/help/en/campaign-classic-learn/tut
 getting-started-title: 文档
 getting-started-url: https://docs.campaign.adobe.com/doc/AC/en/PTF_Starting_with_Adobe_Campaign_About_Adobe_Campaign_Classic.html
 translation-type: tm+mt
-source-git-commit: 2edcee1cd0ecf0dd34b7320a532ab79e6d9823ee
+source-git-commit: c7505e00eaf83336a2fdd76f489674928ea22b85
 workflow-type: tm+mt
 source-wordcount: '329'
 ht-degree: 3%
@@ -53,7 +53,7 @@ ht-degree: 3%
       + [使用预定义过滤器](/help/acc/sending-messages/fatigue-management/fatigue-management-using-filters.md)
 + 编排活动 {#orchestration}
    + [创建多渠道活动](/help/acc/orchestrating-campaigns/multi-channel-campaigns.md)
-+ 报告
++ 报告 {#reporting}
    + [生成描述性分析报表](/help/acc/reporting/generating-a-descriptive-analysis-report.md)
 + 使用工作流实现自动化{#automating-with-workflows}
    + [创建工作流](/help/acc/automating-with-workflows/creating-a-workflow.md)
