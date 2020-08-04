@@ -9,9 +9,9 @@ doc-type: feature video
 activity: use
 team: WWFRE
 translation-type: tm+mt
-source-git-commit: e61d64be04034df91778ce0692f6fd406aae2743
+source-git-commit: 689807c24685e4af75ea6497f1bcfbf7cb608667
 workflow-type: tm+mt
-source-wordcount: '130'
+source-wordcount: '137'
 ht-degree: 5%
 
 ---
@@ -36,4 +36,4 @@ ht-degree: 5%
 * [在工作流中定位用户档案](/help/acc/getting-started/targeting-profiles-in-a-workflow.md)
 * [创建定位工作流](/help/acc/automating-with-workflows/creating-a-targeting-workflow.md)
 * [通过组合目标结果来优化查询](/help/acc/automating-with-workflows/refining-targets-by-combining-query-results.md)
-* [使用工作流创建列表](/help/acc/automating-with-workflows/creating-lists-with-a-workflow.md)
+* [使用更新列表活动创建具有工作流的列表](/help/acc/automating-with-workflows/using-the-update-list-activity.md)
