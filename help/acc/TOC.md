@@ -10,9 +10,9 @@ tutorials-url: https://docs.adobe.com/content/help/en/campaign-classic-learn/tut
 getting-started-title: 文档
 getting-started-url: https://docs.campaign.adobe.com/doc/AC/en/PTF_Starting_with_Adobe_Campaign_About_Adobe_Campaign_Classic.html
 translation-type: tm+mt
-source-git-commit: e61d64be04034df91778ce0692f6fd406aae2743
+source-git-commit: 689807c24685e4af75ea6497f1bcfbf7cb608667
 workflow-type: tm+mt
-source-wordcount: '346'
+source-wordcount: '353'
 ht-degree: 3%
 
 ---
@@ -60,7 +60,7 @@ ht-degree: 3%
    + [创建定位工作流](/help/acc/automating-with-workflows/creating-a-targeting-workflow.md)
    + [通过组合目标结果来优化查询](/help/acc/automating-with-workflows/refining-targets-by-combining-query-results.md)
    + [通过排除目标结果优化查询](/help/acc/automating-with-workflows/refining-targets-by-excluding-query-results.md)
-   + [使用工作流创建列表](/help/acc/automating-with-workflows/creating-lists-with-a-workflow.md)
+   + [使用更新列表活动创建具有工作流的列表](/help/acc/automating-with-workflows/using-the-update-list-activity.md)
    + [配置验证工作流](/help/acc/automating-with-workflows/validation-flow-configuration.md)
    + [配置扩充活动](/help/acc/automating-with-workflows/enrichment-activity.md)
    + [数据细分](/help/acc/data-management/data-segmentation.md)
