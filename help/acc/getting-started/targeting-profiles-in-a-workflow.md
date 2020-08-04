@@ -9,10 +9,10 @@ doc-type: feature video
 activity: use
 team: WWFRE
 translation-type: tm+mt
-source-git-commit: 582f04026f6db0823f3de1e3e0cf57c642c2e84f
+source-git-commit: e61d64be04034df91778ce0692f6fd406aae2743
 workflow-type: tm+mt
-source-wordcount: '114'
-ht-degree: 3%
+source-wordcount: '122'
+ht-degree: 7%
 
 ---
 
@@ -22,6 +22,12 @@ ht-degree: 3%
 了解活动工作流的使用情况，了解如何使用过滤条件在工作流中创建工作流和目标用户档案。
 
 >[!VIDEO](https://video.tv.adobe.com/v/35614?quality=12)
+
+## 下一位Tutorials观看
+
+* [通过组合目标结果来优化查询](/help/acc/automating-with-workflows/refining-targets-by-combining-query-results.md)
+* [通过排除目标结果优化查询](/help/acc/automating-with-workflows/refining-targets-by-excluding-query-results.md)
+* [使用工作流创建列表](/help/acc/automating-with-workflows/creating-lists-with-a-workflow.md)
 
 ## 其他资源
 
@@ -35,5 +41,3 @@ ht-degree: 3%
 
 * [创建和管理用户档案](/help/acc/profile-management/create-and-manage-profiles.md)
 * [导入用户档案](/help/acc/data-management/importing-profiles.md)
-* [创建列表收件人](/help/acc/profile-management/creating-a-list-of-recipients.md)
-* [使用工作流创建列表收件人](/help/acc/profile-management/creating-a-list-of-recipients-with-a-workflow.md)
