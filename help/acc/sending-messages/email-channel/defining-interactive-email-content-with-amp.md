@@ -4,14 +4,15 @@ description: 此视频介绍如何以AMP格式配置电子邮件内容Adobe Camp
 feature: Email Channel
 topics: Create and Send Email Deliveries
 kt: 3475
+thumbnail: 29940.jpg
 doc-type: feature video
 activity: set-up
 team: TM
 translation-type: tm+mt
-source-git-commit: e9f7405518532d9ba6a203ae846ec12eb1c2f9bd
+source-git-commit: 94732bded09a52ec5c15f6da5205f265b4e3089d
 workflow-type: tm+mt
 source-wordcount: '142'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
