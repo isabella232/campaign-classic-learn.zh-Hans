@@ -10,9 +10,9 @@ tutorials-url: https://docs.adobe.com/content/help/en/campaign-classic-learn/tut
 getting-started-title: 文档
 getting-started-url: https://docs.campaign.adobe.com/doc/AC/en/PTF_Starting_with_Adobe_Campaign_About_Adobe_Campaign_Classic.html
 translation-type: tm+mt
-source-git-commit: c7505e00eaf83336a2fdd76f489674928ea22b85
+source-git-commit: e61d64be04034df91778ce0692f6fd406aae2743
 workflow-type: tm+mt
-source-wordcount: '329'
+source-wordcount: '346'
 ht-degree: 3%
 
 ---
@@ -34,7 +34,7 @@ ht-degree: 3%
    + [创建列表收件人](/help/acc/profile-management/creating-a-list-of-recipients.md)
    + [使用工作流创建列表收件人](/help/acc/profile-management/creating-a-list-of-recipients-with-a-workflow.md)
 + 发送消息{#sending-messages}
-   + 电子邮件渠道{#email-channel}
+   + Email Channel{#email-channel}
       + [创建活动和电子邮件](/help/acc/getting-started/creating-a-campaign-and-an-email.md)
       + [通过电子邮件管理种子和验证](/help/acc/sending-messages/managing-seed-and-proofs.md)
       + [使用动态内容块个性化电子邮件](/help/acc/sending-messages/email-channel/personalization-with-dynamic-content-blocks.md)
@@ -58,6 +58,9 @@ ht-degree: 3%
 + 使用工作流实现自动化{#automating-with-workflows}
    + [创建工作流](/help/acc/automating-with-workflows/creating-a-workflow.md)
    + [创建定位工作流](/help/acc/automating-with-workflows/creating-a-targeting-workflow.md)
+   + [通过组合目标结果来优化查询](/help/acc/automating-with-workflows/refining-targets-by-combining-query-results.md)
+   + [通过排除目标结果优化查询](/help/acc/automating-with-workflows/refining-targets-by-excluding-query-results.md)
+   + [使用工作流创建列表](/help/acc/automating-with-workflows/creating-lists-with-a-workflow.md)
    + [配置验证工作流](/help/acc/automating-with-workflows/validation-flow-configuration.md)
    + [配置扩充活动](/help/acc/automating-with-workflows/enrichment-activity.md)
    + [数据细分](/help/acc/data-management/data-segmentation.md)
