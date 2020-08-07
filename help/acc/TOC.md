@@ -3,22 +3,22 @@ product: adobe campaign
 sub-product: Campaign Classic
 user-guide-title: Adobe Campaign ClassicTutorials
 user-guide-url: https://docs.adobe.com/content/help/en/campaign-classic-learn/tutorials/overview.html
-solution-title: Experience League
+solution-title: 体验联盟
 solution-hub-url: https://experienceleague.adobe.com/?tag=Campaign+Classic#recommended/solutions/campaign
 tutorials-title: 教程
 tutorials-url: https://docs.adobe.com/content/help/en/campaign-classic-learn/tutorials/overview.html
 getting-started-title: 文档
 getting-started-url: https://docs.campaign.adobe.com/doc/AC/en/PTF_Starting_with_Adobe_Campaign_About_Adobe_Campaign_Classic.html
 translation-type: tm+mt
-source-git-commit: 689807c24685e4af75ea6497f1bcfbf7cb608667
+source-git-commit: c381bc42774310cef01ecd575e0a3cb5e43147c1
 workflow-type: tm+mt
-source-wordcount: '353'
-ht-degree: 3%
+source-wordcount: '350'
+ht-degree: 19%
 
 ---
 
 
-# Adobe Campaign ClassicTutorials {#tutorials}
+# Adobe Campaign Classic Tutorials {#tutorials}
 
 + [概述](/help/acc/overview.md)
 + Getting Started {#getting-started}
@@ -74,19 +74,18 @@ ht-degree: 3%
 + 管理 {#administrating}
    + 控制面板 {#control-panel-acc}
       + [控制面板概述](/help/acc/monitoring-campaign-classic/control-panel/control-panel-overview.md)
-      + [监视服务器容量、允许列出IP地址和添加SSH密钥](/help/acc/monitoring-campaign-classic/control-panel/monitoring-server-capacity-allow-listing-adding-ssh-key.md)
-      + [生成SSH密钥](/help/acc/monitoring-campaign-classic/control-panel/generate-ssh-key.md)
-      + [连接到SFTP服务器](/help/acc/monitoring-campaign-classic/control-panel/connect-to-sftp-server.md)
+      + [监视服务器容量、允许列表 IP 地址和添加 SSH 密钥](/help/acc/monitoring-campaign-classic/control-panel/monitoring-server-capacity-allow-listing-adding-ssh-key.md)
+      + [生成 SSH 密钥](/help/acc/monitoring-campaign-classic/control-panel/generate-ssh-key.md)
+      + [连接到 SFTP 服务器](/help/acc/monitoring-campaign-classic/control-panel/connect-to-sftp-server.md)
       + [委派子域](/help/acc/monitoring-campaign-classic/control-panel/subdomain-delegation.md)
-      + [添加SSL证书](/help/acc/monitoring-campaign-classic/control-panel/adding-ssl-certificates.md)
-      + [管理SSL证书](/help/acc/monitoring-campaign-classic/control-panel/managing-ssl-certificates.md)
+      + [添加 SSL 证书](/help/acc/monitoring-campaign-classic/control-panel/adding-ssl-certificates.md)
       + [添加URL权限](/help/acc/monitoring-campaign-classic/control-panel/adding-url-permissions.md)
       + [实例访问的IP允许列表](/help/acc/monitoring-campaign-classic/control-panel/ip-allow-listing.md)
       + [Google TXT 记录管理](/help/acc/monitoring-campaign-classic/control-panel/google-txt-record-management.md)
-      + GPG密钥管理 {#gpg-key-management}
-         + [GPG密钥管理——概述](/help/acc/monitoring-campaign-classic/control-panel/gpg-key-management/gpg-key-management-overview.md)
-         + [生成和安装用于数据加密的GPG密钥](/help/acc/monitoring-campaign-classic/control-panel/gpg-key-management/generating-and-installing-gpg-keys-for-data-encryption.md)
-         + [使用GPG密钥加密数据](/help/acc/monitoring-campaign-classic/control-panel/gpg-key-management/using-a-gpg-key-to-encrypt-data.md)
+      + GPG 密钥管理 {#gpg-key-management}
+         + [GPG 密钥管理 - 概述](/help/acc/monitoring-campaign-classic/control-panel/gpg-key-management/gpg-key-management-overview.md)
+         + [生成和安装用于数据加密的 GPG 密钥](/help/acc/monitoring-campaign-classic/control-panel/gpg-key-management/generating-and-installing-gpg-keys-for-data-encryption.md)
+         + [使用 GPG 密钥加密数据](/help/acc/monitoring-campaign-classic/control-panel/gpg-key-management/using-a-gpg-key-to-encrypt-data.md)
          + [解密数据](/help/acc/monitoring-campaign-classic/control-panel/gpg-key-management/decrypting-data.md)
       + [控制面板疑难解答](/help/acc/monitoring-campaign-classic/control-panel/trouble-shooting.md)
    + 访问外部数据库(联合数据访问) {#fda}
