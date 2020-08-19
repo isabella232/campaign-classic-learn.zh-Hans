@@ -1,34 +1,34 @@
 ---
-title: Adobe Campaign ClassicTutorials-概述
-description: Adobe Campaign 提供了跨渠道客户体验设计平台，并为可视化的活动编排、实时互动管理和跨渠道执行提供了环境。本用户指南包含有关Adobe Campaign Standard的众多特性和功能的视频和教程。
+title: Adobe Campaign Classic 教程 - 概述
+description: Adobe Campaign 提供了跨渠道客户体验设计平台，并为可视化的活动编排、实时互动管理和跨渠道执行提供了环境。本用户指南包含有关 Adobe Campaign Standard 的众多特性和功能的视频和教程。
 product: Campaign
 sub-product: Campaign Classic
 translation-type: tm+mt
 source-git-commit: 94732bded09a52ec5c15f6da5205f265b4e3089d
 workflow-type: tm+mt
 source-wordcount: '246'
-ht-degree: 23%
+ht-degree: 92%
 
 ---
 
 
 # 概述
 
-Adobe Campaign 提供了跨渠道客户体验设计平台，并为可视化的活动编排、实时互动管理和跨渠道执行提供了环境。本用户指南包含有关Adobe Campaign Classic的众多特性和功能的视频和教程。
+Adobe Campaign 提供了跨渠道客户体验设计平台，并为可视化的活动编排、实时互动管理和跨渠道执行提供了环境。本用户指南包含有关 Adobe Campaign Classic 的众多特性和功能的视频和教程。
 
 ## 新增功能
 
-* **[GPG密钥管理](/help/acc/monitoring-campaign-classic/control-panel/gpg-key-management/gpg-key-management-overview.md)**
+* **[GPG 密钥管理](/help/acc/monitoring-campaign-classic/control-panel/gpg-key-management/gpg-key-management-overview.md)**
 
-   *了解如何在指定实例上生成和安装公共／私有密钥对[!UICONTROL Campaign]以加密出站数据，以及在活动实例上导入和安装公钥以解密入站数据。*
+   *了解如何在指定的[!UICONTROL Campaign]实例上生成和安装公钥/私钥对，以加密出站数据，以及在 Campaign 实例上导入和安装公钥，以解密入站数据。*
 
 * **[委派子域（测试版）](/help/acc/monitoring-campaign-classic/control-panel/subdomain-delegation.md)**
 
-   *了解如何将子域完全委派给Adobe Campaign。*
+   *了解如何将子域完全委派给 Adobe Campaign。*
 
-* **[使用AMP定义交互式电子邮件内容](/help/acc/sending-messages/email-channel/defining-interactive-email-content-with-amp.md)**
+* **[使用 AMP 定义交互式电子邮件内容](/help/acc/sending-messages/email-channel/defining-interactive-email-content-with-amp.md)**
 
-   *了解如何以AMP格式配置电子邮件内容Adobe Campaign Classic(ACC)。*
+   *了解如何以 AMP 格式配置 Adobe Campaign Classic (ACC) 电子邮件内容。*
 
 ## 员工挑选
 
@@ -49,15 +49,15 @@ Adobe Campaign 提供了跨渠道客户体验设计平台，并为可视化的�
   </td>
    <td>
     <a href="./monitoring-campaign-classic/audit-trail.md">
-      <img alt="审核跟踪（视频）" src="./assets/acc-audit-trail-thumb.png" />
+      <img alt="审核记录（视频）" src="./assets/acc-audit-trail-thumb.png" />
     </a>
     <div>
       <a href="./monitoring-campaign-classic/audit-trail.md">
-    <strong>审核跟踪</strong>
+    <strong>审核记录</strong>
     </a>
     </div> 
     <p>
-    <em>捕获在Adobe Campaign内发生的操作和事件的全面列表。</em>
+    <em>捕获在 Adobe Campaign 内发生的操作和事件的全面列表。</em>
     <p>
   </td>
   <td>
@@ -66,7 +66,7 @@ Adobe Campaign 提供了跨渠道客户体验设计平台，并为可视化的�
     </a>
     <div>
       <a href="./sending-messages/email-channel/defining-interactive-email-content-with-amp.md">
-    <strong>使用AMP定义交互式电子邮件内容</strong>
+    <strong>使用 AMP 定义交互式电子邮件内容</strong>
     </a>
     </div>
     <p>
@@ -78,4 +78,4 @@ Adobe Campaign 提供了跨渠道客户体验设计平台，并为可视化的�
 
 ## 其他资源
 
-* [文档](https://docs.campaign.adobe.com/doc/AC/en/PTF_Starting_with_Adobe_Campaign_About_Adobe_Campaign_Classic.html)
+* [文档](https://docs.adobe.com/content/help/zh-Hans/campaign-classic/using/getting-started/starting-with-adobe-campaign/about-adobe-campaign-classic.html)
