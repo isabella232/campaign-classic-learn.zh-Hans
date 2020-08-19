@@ -1,8 +1,8 @@
 ---
-title: 实例访问的IP允许列表
-seo-title: 实例访问的IP允许列表
-description: 以下视频介绍如何通过允许列出IP地址范围来设置实例的新连接。
-seo-description: 以下视频介绍如何通过允许列出IP地址范围来设置实例的新连接。
+title: 将 IP 添加到允许列表以进行实例访问
+seo-title: 将 IP 添加到允许列表以进行实例访问
+description: 以下视频介绍如何通过将 IP 地址范围添加到允许列表来设置实例的新连接。
+seo-description: 以下视频介绍如何通过将 IP 地址范围添加到允许列表来设置实例的新连接。
 feature: IP allow listing
 topics: Control Panel
 kt: 3479
@@ -13,30 +13,31 @@ translation-type: tm+mt
 source-git-commit: 2d28efe0abc313db87610507564a08a9f7e380dc
 workflow-type: tm+mt
 source-wordcount: '201'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 
-# 实例访问的IP允许列表
+# 将 IP 添加到允许列表以进行实例访问
 
-该控制面板允许您通过列出IP地址范围来设置到实例的新连接。 默认情况下，无法从各种IP地址访问Adobe Campaign Classic实例。 因此，需要允许列出IP地址：
+控制面板允许您通过将 IP 地址范围添加到允许列表来设置与实例的新连接。默认情况下，无法从各种 IP 地址访问 Adobe Campaign Classic 实例。因此，需要将 IP 地址添加到允许列表：
 
-* 允许从此IP地 [!DNL Campaign] 址访问实例
-* 将API连接到消息中心或营销实例
+* 允许从此 IP 地址访问 [!DNL Campaign] 实例
+* 将 API 连接到消息中心或营销实例
 
 ## 访问控制面板实例设置
 
 要在控制面板中访问子域管理，请转到：
 
-* [Experience Cloud主页](https://experience.adobe.com/#/home) >解决方案选取器： **[!DNL Campaign]** >卡 **[!UICONTROL Control Panel]** >实例 **设置卡** 。
-* 直接从URL: [https://experience.adobe.com/#/controlpanel/instances](https://experience.adobe.com/#/controlpanel/instances)
+* [Experience Cloud Home](https://experience.adobe.com/#/home) > Solution picker: **[!DNL Campaign]** > **[!UICONTROL Control Panel]** card > **Instances Settings** card
+或者
+* 直接从 URL 访问：[https://experience.adobe.com/#/controlpanel/instances](https://experience.adobe.com/#/controlpanel/instances)
 
-## 如何允许列表IP地址
+## 如何将 IP 地址添加到允许列表
 
-以下视频介绍如何使用控制面板允许列表IP地址。
+以下视频介绍如何使用控制面板将 IP 地址添加到允许列表。
 
 >[!VIDEO](https://video.tv.adobe.com/v/28726?quality=12)
-*IP允许列出（03:24分钟）*
+*将 IP 地址添加到允许列表（03:24 分钟）*
 
-有关IP允许列表的详细信息，请参阅详 [细的产品文档](https://helpx.adobe.com/campaign/kb/control-panel-instance-settings.html)。
+有关将 IP 地址添加到允许列表的详细信息，请参阅 [详细的产品文档](https://helpx.adobe.com/cn/campaign/kb/control-panel-instance-settings.html)。
