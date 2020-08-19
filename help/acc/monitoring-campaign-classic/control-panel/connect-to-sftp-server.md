@@ -1,6 +1,6 @@
 ---
-title: 连接到SFTP服务器
-description: 此视频介绍如何使用您存储在控制面板中的密钥，使用客户端SFTP应用程序连接到SFTP服务器。
+title: 连接到 SFTP 服务器
+description: 此视频介绍如何使用您存储在控制面板中的密钥，使用客户端 SFTP 应用程序连接到 SFTP 服务器。
 feature: SFTP Server allow listing
 topics: Control Panel
 kt: 2924
@@ -10,32 +10,32 @@ team: PM
 translation-type: tm+mt
 source-git-commit: b2820c65a88d25f9b7a4ed5005cd5083463e000a
 workflow-type: tm+mt
-source-wordcount: '160'
-ht-degree: 0%
+source-wordcount: '159'
+ht-degree: 100%
 
 ---
 
 
-# 连接到SFTP服务器
+# 连接到 SFTP 服务器
 
-## 访问控制面板SFTP管理
+## 访问控制面板 SFTP 管理
 
-要在控制面板中访问SFTP管理，请访问：
+要在控制面板中访问 SFTP 管理，请访问：
 
-* [Experience Cloud主页](https://experience.adobe.com/#/home) >解决方案选取器： 活动> **控制面板** 卡 **>** SFTP卡
+* [Experience Cloud Home](https://experience.adobe.com/#/home) > Solution picker: **[!DNL Campaign]** > **Control Panel** card > **SFTP** card
 
-   或
-* 直接从URL: [http://experience.adobe.com/#/controlpanel/sftp](http://experience.adobe.com/#/controlpanel/sftp)
+   或者
+* 直接从 URL 访问：[http://experience.adobe.com/#/controlpanel/sftp](http://experience.adobe.com/#/controlpanel/sftp)
 
-## 如何连接到SFTP服务器
+## 如何连接到 SFTP 服务器
 
-连接到SFTP服务器需要：
+连接到 SFTP 服务器需要：
 
-* 允许列出您从中连接到SFTP服务器的IP地址
-* 需要向Adobe Campaign注册的私钥／公钥对
-* 如果直接连接到SFTP服务器，您还需要SFTP客户端软件
+* 将您从其连接到 SFTP 服务器的 IP 地址添加到允许列表
+* 需要向 Adobe Campaign 注册的私钥/公钥对
+* 如果直接连接到 SFTP 服务器，您还需要 SFTP 客户端软件
 
-此视频介绍如何使用您存储在控制面板中的密钥，使用客户端SFTP应用程序连接到SFTP服务器。
+此视频介绍如何使用您存储在控制面板中的密钥，使用客户端 SFTP 应用程序连接到 SFTP 服务器。
 
 >[!VIDEO](https://video.tv.adobe.com/v/27263?quality=12)
-*连接到SFTP服务器（02:04分钟）*
+*连接到 SFTP 服务器（02:04 分钟）*
