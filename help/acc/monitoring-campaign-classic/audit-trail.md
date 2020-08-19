@@ -1,6 +1,6 @@
 ---
-title: 如何使用审计线索
-description: '审计线索可实时捕获在Adobe Campaign内发生的操作和事件的全面列表。 '
+title: 如何使用审核记录
+description: '审核记录可实时捕获在 Adobe Campaign 内发生的操作和事件的全面列表。 '
 feature: Audit Trail
 topics: Monitoring and Guardrails
 kt: 2835
@@ -10,25 +10,25 @@ team: PM
 translation-type: tm+mt
 source-git-commit: b2820c65a88d25f9b7a4ed5005cd5083463e000a
 workflow-type: tm+mt
-source-wordcount: '167'
-ht-degree: 0%
+source-wordcount: '161'
+ht-degree: 100%
 
 ---
 
 
-# 如何使用审计线索
+# 如何使用审核记录
 
-审计线索可实时捕获在Adobe Campaign内发生的操作和事件的全面列表。 审计线索功能包括一种访问数据历史记录的自助方式，可帮助回答以下问题：
+[!UICONTROL Audit Trail]可实时捕获在 Adobe Campaign 内发生的操作和事件的全面列表。这些 [!UICONTROL Audit Trail]功能包括一种访问数据历史的自助方式，可帮助回答以下问题：
 
-* 一个物体怎么了？
-* 谁最后修改了它？
-* 以前的状态是什么？
+* 对象发生了什么？
+* 谁最后修改了它以及何时？
+* 该对象之前的状态是什么？
 
 >[!NOTE]
 >
->审核跟踪需要Campaign Classic版本19.1或更高版本
+>审核记录需要 Campaign Classic 版本 19.1 或更高版本
 
-审计线索将记录和列表运算符操作，如工作流、选项和源模式的创建、修改和删除。 此外，还专门为工作流记录以下操作：
+[!UICONTROL Audit Trail]将记录和列出操作者的操作，例如创建、修改和删除工作流、选项和来源模式。此外，还专门为工作流记录以下操作：
 
 * 开始
 * 暂停
@@ -39,8 +39,8 @@ ht-degree: 0%
 * 唤醒
 * 无条件停止
 
-以下视频介绍访问审核跟踪日志的位置以及可以配置的设置。
+以下视频介绍访问审核记录日志的位置以及可以配置的设置。
 
 >[!VIDEO](https://video.tv.adobe.com/v/27425?quality=12)
 
-有关详细信息，请参阅审 [核跟踪文档](https://docs.adobe.com/content/help/en/campaign-classic/using/monitoring-campaign-classic/production-procedures/audit-trail.html)。
+有关详细信息，请参阅[审核记录文档](https://docs.adobe.com/content/help/zh-Hans/campaign-classic/using/monitoring-campaign-classic/production-procedures/audit-trail.html)。
