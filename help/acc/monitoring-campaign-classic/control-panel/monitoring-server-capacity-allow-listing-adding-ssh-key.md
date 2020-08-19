@@ -1,6 +1,6 @@
 ---
-title: 监视服务器容量、允许列出IP地址和添加SSH密钥
-description: 该控制面板允许您按实例和允许列表IP地址监视和管理SFTP存储。
+title: 监测服务器容量、将 IP 地址添加到允许列表和添加 SSH 密钥
+description: 该控制面板允许您按实例监测和管理 SFTP 存储以及将 IP 地址添加到允许列表。
 feature: SFTP Server allow listing
 topics: Control Panel
 kt: 3266
@@ -11,44 +11,44 @@ translation-type: tm+mt
 source-git-commit: 2d28efe0abc313db87610507564a08a9f7e380dc
 workflow-type: tm+mt
 source-wordcount: '233'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 
-# 监视服务器容 [!UICONTROL allow listing] 量、 IP地址和添加SSH密钥
+# 监测服务器容量、 [!UICONTROL allow listing] IP 地址和添加 SSH 密钥
 
-该控制面板允许您按实例监视和管理SFTP存储并添加 [!UICONTROL allow listing]IP地址。
+该控制面板允许您按实例监测和管理 SFTP 存储并添加 [!UICONTROL allow listing]IP 地址。
 
-## 访问 [!UICONTROL Control Panel] 子域管理
+## 访问[!UICONTROL Control Panel]子域管理
 
-要在中访问子域管 [!UICONTROL Control Panel]理，请转到：
+要在 [!UICONTROL Control Panel]中访问子域管理，请转到：
 
-* [Experience Cloud主页](https://experience.adobe.com/#/home) > [!UICONTROL Solution picker]: **[!DNL Campaign]** >卡 **[!UICONTROL Control Panel]** >卡 **[!UICONTROL Subdomains & Certificates]** >\
-   或
-* 直接从URL: [https://experience.adobe.com/#/controlpanel/domain](https://experience.adobe.com/#/controlpanel/domain)
+* [Experience Cloud Home](https://experience.adobe.com/#/home) > [!UICONTROL Solution picker]: **[!DNL Campaign]** > **[!UICONTROL Control Panel]** card > **[!UICONTROL Subdomains & Certificates]** card\
+   或者
+* 直接从 URL 访问：[https://experience.adobe.com/#/controlpanel/domain](https://experience.adobe.com/#/controlpanel/domain)
 
-## 监视服务器容 [!UICONTROL allow list] 量、IP地址和添加SSH密钥
+## 监测服务器容量、 [!UICONTROL allow list]IP 地址和添加 SSH 密钥
 
-此视频介绍如何访 [!UICONTROL Adobe Campaign Control Panel]问、监视SFTP服务器的存储 [!UICONTROL allow list] 、IP地址以及添加SSH密钥。
+此视频介绍如何访问 [!UICONTROL Adobe Campaign Control Panel]、监测 SFTP 服务器的存储、将 IP 地址添加到[!UICONTROL allow list]以及添加 SSH 密钥。
 
 >[!VIDEO](https://video.tv.adobe.com/v/27270?quality=12)
 
 ### 界面说明
 
-**实例：** 仅列出具有管理员权限的实例。
+**实例：**&#x200B;仅列出您具有管理员权限的实例。
 
-**作业日志：** 只列出中执行的 [!UICONTROL Control Panel] 作业。 在外部执行的作 [!UICONTROL Control Panel] 业不包括(例如正在执行的工作流等)
+**作业日志：**&#x200B;只列出在 [!UICONTROL Control Panel]中执行的作业。在 [!UICONTROL Control Panel]外部执行的作业不包括在内（例如正在执行的工作流等）
 
-日志只包括组织管理员执行的作业。 如果有多个组织，您将看不到作业日志中其他组织的日志
+日志只包括您的组织管理员执行的作业。如果有多个组织，您将不会在作业日志中看到其他组织的日志
 
-**存储选项卡：** 标题显示了前三台最常用的服务器（如果您有3台以上的服务器），您可以在选项卡中看到其余 [!UICONTROL Storage] 服务器。
+**存储选项卡：**&#x200B;标题显示前三个最常用的服务器，如果您有 3 个以上的服务器，您可以在[!UICONTROL Storage]选项卡中看到其余服务器。
 
 **警告消息：**
 
-* 橙色——服务器利用率为80%
-* 红色——服务器已利用90%
+* 橙色 - 服务器利用率为 80%
+* 红色 - 服务器利用率为 90%
 
 ## 其他资源
 
-* [生成SSH密钥](/help/acc/monitoring-campaign-classic/control-panel/generate-ssh-key.md)
+* [生成 SSH 密钥](/help/acc/monitoring-campaign-classic/control-panel/generate-ssh-key.md)
