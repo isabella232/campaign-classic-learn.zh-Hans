@@ -1,24 +1,25 @@
 ---
-title: '创建活动和电子邮件 '
-description: 此视频介绍如何在 Adobe Campaign Classic 中创建活动和电子邮件。
+title: 从活动创建电子邮件
+description: 了解如何直接从投放创建电子邮件活动。
 feature: Email
-topics: Getting started
+topics: null
 kt: 2172
+thumbnail: 25604.jpg
 doc-type: feature video
-activity: setup
+activity: use
 team: DOC
 translation-type: tm+mt
-source-git-commit: 8112b947cc37c6143c38f7d59787c3c6339cb5c9
+source-git-commit: 8d28a093766e0b247d00e4b3c4f8735da5bc342e
 workflow-type: tm+mt
-source-wordcount: '74'
-ht-degree: 100%
+source-wordcount: '66'
+ht-degree: 48%
 
 ---
 
 
-# 创建活动和电子邮件
+# 从活动创建电子邮件
 
-此视频介绍如何在 Adobe Campaign Classic 中创建活动和电子邮件。
+了解如何直接从投放创建电子邮件活动。
 
 >[!VIDEO](https://video.tv.adobe.com/v/25604?quality=12)
 
