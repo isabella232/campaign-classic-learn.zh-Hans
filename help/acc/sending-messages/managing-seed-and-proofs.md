@@ -1,24 +1,25 @@
 ---
 title: 如何在电子邮件中管理种子和验证
-description: 在此视频中，您将学习如何在现有电子邮件中添加种子和验证，以及如何发送。
-feature: Seed address management
-topics: Email Channel
+description: 了解如何在现有电子邮件中添加种子和验证，以及如何发送。
+feature: Email
+topics: null
 kt: 2178
+thumbnail: 25606.jpg
 doc-type: feature video
 activity: use
 team: DOC
 translation-type: tm+mt
-source-git-commit: 8112b947cc37c6143c38f7d59787c3c6339cb5c9
+source-git-commit: 8d28a093766e0b247d00e4b3c4f8735da5bc342e
 workflow-type: tm+mt
-source-wordcount: '87'
-ht-degree: 0%
+source-wordcount: '77'
+ht-degree: 9%
 
 ---
 
 
 # 如何在电子邮件中管理种子和验证
 
-在此视频中，您将学习如何在现有电子邮件中添加种子和验证，以及如何发送。
+了解如何在现有电子邮件中添加种子和验证，以及如何发送。
 
 >[!VIDEO](https://video.tv.adobe.com/v/25606?quality=12)
 
