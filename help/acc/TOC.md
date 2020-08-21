@@ -10,10 +10,10 @@ tutorials-url: https://docs.adobe.com/content/help/zh-Hans/campaign-classic-lear
 getting-started-title: 文档
 getting-started-url: https://docs.adobe.com/content/help/zh-Hans/campaign-classic/using/getting-started/starting-with-adobe-campaign/about-adobe-campaign-classic.html
 translation-type: tm+mt
-source-git-commit: c381bc42774310cef01ecd575e0a3cb5e43147c1
+source-git-commit: a5efb8f8230373b9aa3c5dd2f85305f4685e9190
 workflow-type: tm+mt
-source-wordcount: '350'
-ht-degree: 77%
+source-wordcount: '356'
+ht-degree: 76%
 
 ---
 
@@ -49,6 +49,8 @@ ht-degree: 77%
       + [配置投放模板](/help/acc/sending-messages/using-delivery-templates/configuring-a-delivery-template.md)
       + [设置投放模板属性](/help/acc/sending-messages/using-delivery-templates/setting-delivery-template-properties.md)
       + [部署临时电子邮件投放模板](/help/acc/sending-messages/using-delivery-templates/deploying-ad-hoc-email-delivery-template.md)
+   + 直邮 {#direct-mail}
+      + [创建直邮投放](help/acc/sending-messages/direct-mail/creating-direct-mail-deliveries.md)
    + 疲劳管理{#fatigue-management}
       + [使用类型规则](/help/acc/sending-messages/fatigue-management/typology-rules-for-fatigue-management.md)
       + [使用预定义过滤器](/help/acc/sending-messages/fatigue-management/fatigue-management-using-filters.md)
