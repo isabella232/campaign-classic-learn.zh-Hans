@@ -9,9 +9,9 @@ doc-type: feature video
 activity: set-up
 team: WWFRE
 translation-type: tm+mt
-source-git-commit: 119e622cb267077b12811861953030d382c47ded
+source-git-commit: 2471d1cef630d7c80aeaf43d1eef7b8583bee2d3
 workflow-type: tm+mt
-source-wordcount: '28'
+source-wordcount: '22'
 ht-degree: 0%
 
 ---
@@ -19,6 +19,6 @@ ht-degree: 0%
 
 # 创建直邮投放
 
-了解直接邮件在Adobe Campaign中的工作方式，并了解如何创建、格式化和执行直接邮件投放。
+了解工 [!UICONTROL direct mail] 作方 [!UICONTROL Adobe Campaign] 式并学习如何创建、格式化和执行 [!UICONTROL direct mail ]投放。
 
 >[!VIDEO](https://video.tv.adobe.com/v/21377?quality=12)
