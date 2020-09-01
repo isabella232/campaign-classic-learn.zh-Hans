@@ -9,8 +9,9 @@ tutorials-title: 教程
 tutorials-url: https://docs.adobe.com/content/help/zh-Hans/campaign-classic-learn/tutorials/overview.html
 getting-started-title: 文档
 getting-started-url: https://docs.adobe.com/content/help/zh-Hans/campaign-classic/using/getting-started/starting-with-adobe-campaign/about-adobe-campaign-classic.html
+type: Tutorial
 translation-type: tm+mt
-source-git-commit: faec1533178c9bd70474a682557c6a1a8ed2b535
+source-git-commit: 1f0de3205220dab1814a28070a4014d01f0b7a34
 workflow-type: tm+mt
 source-wordcount: '356'
 ht-degree: 76%
