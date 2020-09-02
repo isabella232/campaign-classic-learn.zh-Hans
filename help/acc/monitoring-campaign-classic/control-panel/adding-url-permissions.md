@@ -1,26 +1,26 @@
 ---
 title: 添加 URL 权限
-seo-title: 添加 URL 权限
-description: '下面的视频解释如何向经授权的 URL 列表添加一些外部 URL，以便您的实例可以连接到这些 URL。  '
-seo-description: '下面的视频解释如何向经授权的 URL 列表添加一些外部 URL，以便您的实例可以连接到这些 URL。 '
-feature: URl Permissions
-topics: Control Panel
+description: 了解如何建立从您的Adobe Campaign Classic持久性到外部URL的连接。
+feature: Control Panel
+topics: Instance Settings
 kt: 3259
+thumbnail: 28149.jpg
 doc-type: feature video
 activity: use
-team: PM
+team: TM
 translation-type: tm+mt
-source-git-commit: 7518219e6e6e60a558cfb9026c1f401018927028
+source-git-commit: fd0f2b11328c0f780558410277fcf6a4aa8e85d3
 workflow-type: tm+mt
-source-wordcount: '106'
-ht-degree: 100%
+source-wordcount: '51'
+ht-degree: 11%
 
 ---
 
 
 # 添加 URL 权限
 
-下面的视频解释如何向经授权的 URL 列表添加一些外部 URL，以便您的实例可以连接到这些 URL。有关详细信息，请参阅《关于 URL 权限》。有关详细信息，请参阅[关于 URL 权限](https://helpx.adobe.com/cn/campaign/kb/control-panel-instance-settings.html)。
+了解如何建立从实例到 [!UICONTROL Adobe Campaign Classic] 外部URL的连接。
 
 >[!VIDEO](https://video.tv.adobe.com/v/28149?quality=12)
-*添加 URL 权限（01:52 分钟）*
+
+For more information please see [URL permissions](https://docs.adobe.com/content/help/en/control-panel/using/instances-settings/url-permissions.html).
