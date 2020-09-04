@@ -10,10 +10,10 @@ doc-type: feature video
 activity: use
 team: PM
 translation-type: tm+mt
-source-git-commit: ca3b7933927914b9965f6f059293041dd1db1da2
+source-git-commit: 27ed8e92185c4bd162d57151fbfda30078ac11b1
 workflow-type: tm+mt
 source-wordcount: '419'
-ht-degree: 100%
+ht-degree: 98%
 
 ---
 
@@ -81,7 +81,7 @@ ht-degree: 100%
 
    *如何向经授权的 URL 列表添加一些外部 URL，以便您的实例可以连接到这些 URL。*
 
-* **[将 IP 添加到允许列表以进行实例访问](/help/acc/monitoring-campaign-classic/control-panel/ip-allow-listing.md)**
+* **[向允许列表添加IP地址](/help/acc/monitoring-campaign-classic/control-panel/ip-allow-listing.md)**
 
    *了解如何通过将 IP 地址范围添加到[!UICONTROL allow listing]来设置与实例的新连接。*
 
