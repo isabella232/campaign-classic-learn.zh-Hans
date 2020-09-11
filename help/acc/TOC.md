@@ -2,6 +2,7 @@
 product: adobe campaign
 sub-product: Campaign Classic
 user-guide-title: Adobe Campaign Classic 教程
+breadcrumb-title: Campaign Classic Tutorials
 user-guide-url: https://docs.adobe.com/content/help/en/campaign-classic-learn/tutorials/overview.html
 solution-title: 体验联盟
 solution-hub-url: https://experienceleague.adobe.com/?tag=Campaign+Classic#recommended/solutions/campaign
@@ -11,7 +12,7 @@ getting-started-title: 文档
 getting-started-url: https://docs.adobe.com/content/help/zh-Hans/campaign-classic/using/getting-started/starting-with-adobe-campaign/about-adobe-campaign-classic.html
 type: Tutorial
 translation-type: tm+mt
-source-git-commit: 8ae5f581e289175697306b4c52d840c5ef50a237
+source-git-commit: e3eeefe79669d3ea8f98f2c00c407dc550bb2448
 workflow-type: tm+mt
 source-wordcount: '356'
 ht-degree: 74%
