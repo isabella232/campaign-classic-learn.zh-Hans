@@ -3,22 +3,22 @@ title: 大数据管理Snowflake
 description: 本教程介绍如何在Adobe Campaign Classic利用Snowflake连接器
 feature: Snowflake
 topics: FDA
-kt: 4450
+kt: 4405
 doc-type: feature video
 activity: use
 team: PM
 translation-type: tm+mt
-source-git-commit: b2820c65a88d25f9b7a4ed5005cd5083463e000a
+source-git-commit: 0c330ade07ba8bcdb825a632c7ac319fa8c845e9
 workflow-type: tm+mt
-source-wordcount: '108'
-ht-degree: 0%
+source-wordcount: '107'
+ht-degree: 6%
 
 ---
 
 
 # 大数据管理Snowflake
 
-本教程介绍如何在Adobe Campaign Classic利用Snowflake连接器。
+本教程介绍如何在Adobe Campaign Classic [!DNL Snowflake] 利用连接器。
 您将学习如何
 
 * 连接到Snowflake
