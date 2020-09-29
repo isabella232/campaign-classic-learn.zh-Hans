@@ -1,6 +1,6 @@
 ---
 title: Adobe Campaign Classic 简介
-description: 此视频介绍 Adobe Campaign Classic 如何融入 Adobe Digital Experience 产品组合及其主要特性和功能。
+description: 了解Adobe Campaign Classic如何融入Adobe数字体验产品组合，并概述其主要特性和功能。
 feature: null
 topics: Getting started
 kt: 5457
@@ -10,16 +10,16 @@ activity: understand
 team: WWFRE
 role: user
 translation-type: tm+mt
-source-git-commit: f8fb68d95ea4dc2c60b997b8047251cc8eaed4ae
+source-git-commit: 49a02cd20248dbba49663bb9be380ab44e8b5062
 workflow-type: tm+mt
 source-wordcount: '54'
-ht-degree: 100%
+ht-degree: 18%
 
 ---
 
 
 # Adobe Campaign Classic 简介
 
-此视频介绍 Adobe Campaign Classic 如何融入 Adobe Digital Experience 产品组合及其主要特性和功能。
+了解Adobe Campaign Classic如何融入Adobe数字体验产品组合，并概述其主要特性和功能。
 
 >[!VIDEO](https://video.tv.adobe.com/v/35129?quality=12)
