@@ -4,15 +4,15 @@ description: Adobe Campaign 提供了跨渠道客户体验设计平台，并为�
 product: Campaign
 sub-product: Campaign Classic
 translation-type: tm+mt
-source-git-commit: 94732bded09a52ec5c15f6da5205f265b4e3089d
+source-git-commit: 49a02cd20248dbba49663bb9be380ab44e8b5062
 workflow-type: tm+mt
-source-wordcount: '246'
+source-wordcount: '250'
 ht-degree: 92%
 
 ---
 
 
-# 概述
+# Adobe Campaign Classic 教程 - 概述
 
 Adobe Campaign 提供了跨渠道客户体验设计平台，并为可视化的活动编排、实时互动管理和跨渠道执行提供了环境。本用户指南包含有关 Adobe Campaign Classic 的众多特性和功能的视频和教程。
 
