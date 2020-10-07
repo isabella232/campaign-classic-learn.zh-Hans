@@ -9,7 +9,7 @@ doc-type: feature video
 activity: use
 team: TM
 translation-type: tm+mt
-source-git-commit: 32998c870da2217d11bdba5f541e4161132b4792
+source-git-commit: 51bfeb7f53cc68b78080ae7106ab8188cb78adb6
 workflow-type: tm+mt
 source-wordcount: '201'
 ht-degree: 68%
@@ -47,7 +47,8 @@ The [!UICONTROL Control Panel] allows Adobe Campaign administrators to monitor k
 您需要知道您的 [!DNL IMS org ID]。以下视频介绍查看实例 [!DNL IMS org ID] 的位置。
 
 >[!VIDEO](https://video.tv.adobe.com/v/27183?quality=12)
-*检查[!DNL IMS Org ID]（00:26 分钟）*
+
+*查看[!DNL IMS Org ID]（00:26 分钟）*
 
 ### 管理员权限
 
