@@ -8,7 +8,7 @@ doc-type: article
 activity: use
 team: PM
 translation-type: tm+mt
-source-git-commit: 838c617ca163a09fcb57b7b4706433e98869bc3d
+source-git-commit: 51bfeb7f53cc68b78080ae7106ab8188cb78adb6
 workflow-type: tm+mt
 source-wordcount: '339'
 ht-degree: 100%
@@ -44,9 +44,11 @@ ht-degree: 100%
 ### 实用视频
 
 >[!VIDEO](https://video.tv.adobe.com/v/27183?quality=12)
+
 *查找 IMS Org ID（00:26 分钟）*
 
 >[!VIDEO](https://video.tv.adobe.com/v/27147?quality=12)
+
 *如何将管理员在产品用户档案中添加为管理员，以便能够使用[!UICONTROL Control panel]（01:03 分钟）*
 
 ### 帮助文档
