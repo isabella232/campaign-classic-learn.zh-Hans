@@ -9,7 +9,7 @@ doc-type: feature video
 activity: use
 team: PM
 translation-type: tm+mt
-source-git-commit: 838c617ca163a09fcb57b7b4706433e98869bc3d
+source-git-commit: 51bfeb7f53cc68b78080ae7106ab8188cb78adb6
 workflow-type: tm+mt
 source-wordcount: '212'
 ht-degree: 100%
@@ -41,6 +41,7 @@ Adobe Campaign [!UICONTROL Control Panel] 允许您添加 SSL 证书以保护子
 以下视频介绍如何在控制面板中生成证书签名请求。
 
 >[!VIDEO](https://video.tv.adobe.com/v/31317?quality=12)
+
 *生成证书签名请求（02:36 分钟）*
 
 ### 2. 购买 SSL 证书
@@ -54,6 +55,7 @@ Adobe Campaign [!UICONTROL Control Panel] 允许您添加 SSL 证书以保护子
 以下视频介绍如何在 [!UICONTROL Control Panel]中安装 SSL 证书。
 
 >[!VIDEO](https://video.tv.adobe.com/v/31166?quality=12)
+
 *安装 SSL 证书（01:25 分钟）*
 
 ## 其他资源
