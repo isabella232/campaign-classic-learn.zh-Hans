@@ -4,11 +4,12 @@ description: 您需要能够生成 SSH 密钥，才能将其添加到 Adobe Camp
 feature: SSH Key
 topics: Control Panel
 kt: 6348
+thumbnail: 27259.jpg
 doc-type: feature video
 activity: use
 team: PM
 translation-type: tm+mt
-source-git-commit: 838c617ca163a09fcb57b7b4706433e98869bc3d
+source-git-commit: d378a5afdce1d01e138dd90e357caa66362bacd0
 workflow-type: tm+mt
 source-wordcount: '134'
 ht-degree: 100%
