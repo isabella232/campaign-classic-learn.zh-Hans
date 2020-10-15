@@ -1,6 +1,6 @@
 ---
-title: 生成描述性分析报表
-description: 了解如何从Adobe Campaign Classic的工作流中生成描述性分析报告。
+title: 生成描述性分析报告
+description: 了解如何根据 Adobe Campaign Classic 中的工作流程生成描述性分析报告。
 feature: Reports
 topics: null
 kt: 5079
@@ -13,12 +13,12 @@ translation-type: tm+mt
 source-git-commit: 838c617ca163a09fcb57b7b4706433e98869bc3d
 workflow-type: tm+mt
 source-wordcount: '63'
-ht-degree: 15%
+ht-degree: 55%
 
 ---
 
 
-# 生成描述性分析报表
+# 生成描述性分析报告
 
 了解如何从工作流 [!UICONTROL descriptive analysis report] 中生成。
 
