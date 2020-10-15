@@ -2,8 +2,8 @@
 product: adobe campaign
 sub-product: Campaign Classic
 user-guide-title: Adobe Campaign Classic 教程
-user-guide-description: Adobe Campaign Classic allows marketers to design cross-channel customer experiences and provides an environment for visual campaign orchestration, real time interaction management, and cross channel execution.
-breadcrumb-title: Campaign Classic Tutorials
+user-guide-description: 借助 Adobe Campaign Classic，营销人员可以设计跨渠道客户体验并提供可视活动编排、实时交互管理和跨渠道执行的环境。
+breadcrumb-title: Campaign Classic 教程
 breadcrumb-url: /docs/campaign-classic-learn/tutorials/overview.html
 solution-title: 体验联盟
 solution-hub-url: https://experienceleague.adobe.com/?tag=Campaign+Classic#recommended/solutions/campaign
@@ -12,10 +12,10 @@ tutorials-url: https://docs.adobe.com/content/help/zh-Hans/campaign-classic-lear
 getting-started-title: 文档
 getting-started-url: https://docs.adobe.com/content/help/zh-Hans/campaign-classic/using/getting-started/starting-with-adobe-campaign/about-adobe-campaign-classic.html
 type: Tutorial
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: e24d8485d99e33216591a43227e1ba264c0016e6
-workflow-type: ht
-source-wordcount: '356'
+workflow-type: tm+mt
+source-wordcount: '385'
 ht-degree: 100%
 
 ---
