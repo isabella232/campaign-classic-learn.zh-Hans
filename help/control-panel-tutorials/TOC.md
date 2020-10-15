@@ -1,6 +1,6 @@
 ---
 product: adobe campaign standard
-user-guide-title: Adobe Campaign控制面板Tutorials
+user-guide-title: Adobe Campaign 控制面板教程
 user-guide-description: 控制面板允许Adobe Campaign管理员监视关键资产并执行管理任务，如按实例或允许列表IP地址管理SFTP存储。
 breadcrumb-title: 控制面板教程
 breadcrumb-url: /docs/campaign-classic-learn/control-panel/control-panel-overview.html
@@ -16,12 +16,12 @@ translation-type: tm+mt
 source-git-commit: ecb96c182bc319cc77514dd8025c0b67a55b9285
 workflow-type: tm+mt
 source-wordcount: '156'
-ht-degree: 60%
+ht-degree: 75%
 
 ---
 
 
-# Adobe Campaign控制面板-Tutorials {#control-panel}
+# Adobe Campaign 控制面板 - 教程 {#control-panel}
 
 + [控制面板概述](/help/control-panel-tutorials/control-panel-overview.md)
 + [控制面板入门](/help/control-panel-tutorials/getting-started-with-the-control-panel.md)
@@ -35,7 +35,7 @@ ht-degree: 60%
    + [添加 SSL 证书](/help/control-panel-tutorials/subdomains-and-certificates/adding-ssl-certificates.md)
    + [Google TXT 记录管理](/help/control-panel-tutorials/subdomains-and-certificates/google-txt-record-management.md)
 + 实例设置 {#instance-settings}
-   + [向允许列表添加IP地址](/help/control-panel-tutorials/instance-settings/ip-allow-listing.md)
+   + [向允许列表添加 IP 地址](/help/control-panel-tutorials/instance-settings/ip-allow-listing.md)
    + [添加 URL 权限](/help/control-panel-tutorials/instance-settings/adding-url-permissions.md)
    + GPG 密钥管理 {#gpg-key-management}
       + [GPG 密钥管理 - 概述](/help/control-panel-tutorials/instance-settings/gpg-key-management/gpg-key-management-overview.md)
