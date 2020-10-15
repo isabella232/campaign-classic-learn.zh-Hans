@@ -3,11 +3,11 @@ title: Adobe Campaign Classic 教程 - 概述
 description: Adobe Campaign 提供了跨渠道客户体验设计平台，并为可视化的活动编排、实时互动管理和跨渠道执行提供了环境。本用户指南包含有关 Adobe Campaign Standard 的众多特性和功能的视频和教程。
 product: Campaign
 sub-product: Campaign Classic
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 838c617ca163a09fcb57b7b4706433e98869bc3d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '250'
-ht-degree: 92%
+ht-degree: 100%
 
 ---
 
@@ -20,7 +20,7 @@ Adobe Campaign 提供了跨渠道客户体验设计平台，并为可视化的�
 
 * **[GPG 密钥管理](/help/monitoring-campaign-classic/control-panel/gpg-key-management/gpg-key-management-overview.md)**
 
-   *了解如何在指定的[!UICONTROL Campaign]实例上生成和安装公钥/私钥对，以加密出站数据，以及在 Campaign 实例上导入和安装公钥，以解密入站数据。*
+   *了解如何在指定的 [!UICONTROL Campaign] 实例上生成和安装公钥/私钥对，以加密出站数据，以及在 Campaign 实例上导入和安装公钥，以解密入站数据。*
 
 * **[委派子域（测试版）](/help/monitoring-campaign-classic/control-panel/subdomain-delegation.md)**
 
@@ -62,7 +62,7 @@ Adobe Campaign 提供了跨渠道客户体验设计平台，并为可视化的�
   </td>
   <td>
     <a href="./sending-messages/email-channel/defining-interactive-email-content-with-amp.md">
-      <img alt="使用AMP定义交互式电子邮件内容（视频）" src="./assets/29940.png" />
+      <img alt="使用 AMP 定义交互式电子邮件内容（视频）" src="./assets/29940.png" />
     </a>
     <div>
       <a href="./sending-messages/email-channel/defining-interactive-email-content-with-amp.md">
@@ -70,7 +70,7 @@ Adobe Campaign 提供了跨渠道客户体验设计平台，并为可视化的�
     </a>
     </div>
     <p>
-    <em>了解如何在Adobe Campaign Classic激活和使用AMP </em>
+    <em>了解如何在 Adobe Campaign Classic 中激活和使用 AMP </em>
     <p>
   </td>
 </tr>
