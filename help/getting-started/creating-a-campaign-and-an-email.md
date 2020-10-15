@@ -1,6 +1,6 @@
 ---
 title: 从活动创建电子邮件
-description: 了解如何直接从投放创建电子邮件活动。
+description: 了解如何直接根据活动创建电子邮件投放。
 feature: Email
 topics: null
 kt: 2172
@@ -12,14 +12,14 @@ translation-type: tm+mt
 source-git-commit: 838c617ca163a09fcb57b7b4706433e98869bc3d
 workflow-type: tm+mt
 source-wordcount: '66'
-ht-degree: 48%
+ht-degree: 81%
 
 ---
 
 
 # 从活动创建电子邮件
 
-了解如何直接从投放创建电子邮件活动。
+了解如何直接根据活动创建电子邮件投放。
 
 >[!VIDEO](https://video.tv.adobe.com/v/25604?quality=12)
 
