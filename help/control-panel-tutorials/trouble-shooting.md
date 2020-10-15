@@ -8,7 +8,7 @@ doc-type: article
 activity: use
 team: PM
 translation-type: tm+mt
-source-git-commit: 51bfeb7f53cc68b78080ae7106ab8188cb78adb6
+source-git-commit: fe3d8945922aa1a2b78772cf0a033976b67b85a5
 workflow-type: tm+mt
 source-wordcount: '339'
 ht-degree: 100%
@@ -64,7 +64,7 @@ ht-degree: 100%
 * 需要向 Adobe Campaign 注册的私钥/公钥对
 * 如果直接连接到 SFTP 服务器，您还需要 SFTP 客户端软件
 
-### 帮助文档
+### 帮助文档 {#helpful-docs}
 
 * [登录 SFTP 服务器](https://helpx.adobe.com/cn/campaign/kb/control-panel-sftp.html#LoggingintoyourSFTPserver)
 
