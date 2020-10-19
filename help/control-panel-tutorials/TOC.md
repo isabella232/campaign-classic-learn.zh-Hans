@@ -13,10 +13,10 @@ getting-started-url: https://docs.adobe.com/content/help/zh-Hans/campaign-classi
 type: Tutorial
 index: true
 translation-type: tm+mt
-source-git-commit: ecb96c182bc319cc77514dd8025c0b67a55b9285
+source-git-commit: 422e29d281d23c6d0da70fc85d625c3137c3081a
 workflow-type: tm+mt
-source-wordcount: '156'
-ht-degree: 75%
+source-wordcount: '163'
+ht-degree: 71%
 
 ---
 
@@ -31,7 +31,8 @@ ht-degree: 75%
    + [生成 SSH 密钥](/help/control-panel-tutorials/sftp-management/generate-ssh-key.md)
    + [连接到 SFTP 服务器](/help/control-panel-tutorials/sftp-management/connect-to-sftp-server.md)
 + 子域和证书 {#subdomains-and-certificates}
-   + [委派子域](/help/control-panel-tutorials/subdomains-and-certificates/subdomain-delegation.md)
+   + [完全子域委托（测试版）](/help/control-panel-tutorials/subdomains-and-certificates/subdomain-delegation.md)
+   + [使用CNAME委派子域（测试版）](/help/control-panel-tutorials/subdomains-and-certificates/delegating-subdomains-using-cname.md)
    + [添加 SSL 证书](/help/control-panel-tutorials/subdomains-and-certificates/adding-ssl-certificates.md)
    + [Google TXT 记录管理](/help/control-panel-tutorials/subdomains-and-certificates/google-txt-record-management.md)
 + 实例设置 {#instance-settings}
