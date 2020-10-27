@@ -1,7 +1,7 @@
 ---
 product: adobe campaign standard
 user-guide-title: Adobe Campaign 控制面板教程
-user-guide-description: 控制面板允许Adobe Campaign管理员监视关键资产并执行管理任务，如按实例或允许列表IP地址管理SFTP存储。
+user-guide-description: 通过控制面板，Adobe Campaign 管理员可以监测关键资产并执行管理任务，例如按实例或允许列表 IP 地址管理 SFTP 存储。
 breadcrumb-title: 控制面板教程
 breadcrumb-url: /docs/campaign-classic-learn/control-panel/control-panel-overview.html
 solution-title: 体验联盟
@@ -12,11 +12,11 @@ getting-started-title: 文档
 getting-started-url: https://docs.adobe.com/content/help/zh-Hans/campaign-classic/using/getting-started/starting-with-adobe-campaign/about-adobe-campaign-classic.html
 type: Tutorial
 index: true
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 422e29d281d23c6d0da70fc85d625c3137c3081a
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '163'
-ht-degree: 71%
+ht-degree: 100%
 
 ---
 
@@ -26,13 +26,13 @@ ht-degree: 71%
 + [控制面板概述](/help/control-panel-tutorials/control-panel-overview.md)
 + [控制面板入门](/help/control-panel-tutorials/getting-started-with-the-control-panel.md)
 + SFTP 管理 {#sftp-management}
-   + [监控服务器容量](/help/control-panel-tutorials/sftp-management/monitoring-server-capacity.md)
-   + [向允许列表添加IP范围](/help/control-panel-tutorials/sftp-management/adding-ip-range-to-allow-list.md)
+   + [监视服务器容量](/help/control-panel-tutorials/sftp-management/monitoring-server-capacity.md)
+   + [向允许列表添加 IP 范围](/help/control-panel-tutorials/sftp-management/adding-ip-range-to-allow-list.md)
    + [生成 SSH 密钥](/help/control-panel-tutorials/sftp-management/generate-ssh-key.md)
    + [连接到 SFTP 服务器](/help/control-panel-tutorials/sftp-management/connect-to-sftp-server.md)
 + 子域和证书 {#subdomains-and-certificates}
-   + [完全子域委托（测试版）](/help/control-panel-tutorials/subdomains-and-certificates/subdomain-delegation.md)
-   + [使用CNAME委派子域（测试版）](/help/control-panel-tutorials/subdomains-and-certificates/delegating-subdomains-using-cname.md)
+   + [完全子域委派（测试版）](/help/control-panel-tutorials/subdomains-and-certificates/subdomain-delegation.md)
+   + [使用 CNAME（测试版）委派子域](/help/control-panel-tutorials/subdomains-and-certificates/delegating-subdomains-using-cname.md)
    + [添加 SSL 证书](/help/control-panel-tutorials/subdomains-and-certificates/adding-ssl-certificates.md)
    + [Google TXT 记录管理](/help/control-panel-tutorials/subdomains-and-certificates/google-txt-record-management.md)
 + 实例设置 {#instance-settings}
