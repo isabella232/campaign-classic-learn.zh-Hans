@@ -11,12 +11,11 @@ tutorials-title: 教程
 tutorials-url: https://docs.adobe.com/content/help/zh-Hans/campaign-classic-learn/tutorials/overview.html
 getting-started-title: 文档
 getting-started-url: https://docs.adobe.com/content/help/zh-Hans/campaign-classic/using/getting-started/starting-with-adobe-campaign/about-adobe-campaign-classic.html
-type: Tutorial
 translation-type: tm+mt
-source-git-commit: 422e29d281d23c6d0da70fc85d625c3137c3081a
+source-git-commit: 5ff5fd9b021e787feefb2aae3b46421c1234b6cf
 workflow-type: tm+mt
 source-wordcount: '324'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -78,6 +77,6 @@ ht-degree: 97%
 + 集成 {#integrating}
    + [如何将 Dynamics 365 与 Adobe Campaign Classic 相集成](/help/integrations/dynamics365-integration.md)
 + 管理 {#administrating}
-   + [控制面板](https://docs.adobe.com/content/help/en/campaign-classic-learn/control-panel/control-panel-overview.html)
+   + [控制面板](https://docs.adobe.com/content/help/zh-Hans/campaign-classic-learn/control-panel/control-panel-overview.html)
    + 访问外部数据库（联合数据访问） {#fda}
       + [大数据管理 [!DNL Snowflake]](/help/administrating/snowflake/big-data-segmentation-on-snowflake.md)
