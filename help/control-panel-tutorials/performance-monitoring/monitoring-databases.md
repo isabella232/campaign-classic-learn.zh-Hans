@@ -10,17 +10,17 @@ audience: administrator
 activity: use
 team: TM
 translation-type: tm+mt
-source-git-commit: 94fec8af7e6de034e3482d39fde79f70bfa8b089
+source-git-commit: 4f24a2b09209e4641186d3b4f2d9bbdc9e450a1b
 workflow-type: tm+mt
-source-wordcount: '63'
-ht-degree: 3%
+source-wordcount: '86'
+ht-degree: 2%
 
 ---
 
 
 # 监视数据库
 
-实 [!DNL Adobe Campaign] 例的工作流库包括存储在中的所有资源、和数据 [!DNL Adobe Campaign]。 因此，监视实例的数据库对于确保最佳性能至关重要。
+您的活动实例的所有资源、工作流和数据都存储在数据库中。 数据库达到其最大容量可能会导致实例出现问题（无法登录、发送电子邮件等）。 因此，必须定期监控实例的数据库以确保最佳性能。
 
 了解如何使用监视实例的数据库使用情况 [!DNL Control Panel]。
 
