@@ -3,11 +3,11 @@ title: Adobe Campaign Classic 教程 - 概述
 description: Adobe Campaign 提供了跨渠道客户体验设计平台，并为可视化的活动编排、实时互动管理和跨渠道执行提供了环境。本用户指南包含有关 Adobe Campaign Standard 的众多特性和功能的视频和教程。
 product: Campaign
 sub-product: Campaign Classic
-translation-type: ht
-source-git-commit: 422e29d281d23c6d0da70fc85d625c3137c3081a
-workflow-type: ht
-source-wordcount: '194'
-ht-degree: 100%
+translation-type: tm+mt
+source-git-commit: f0273b5936cbca6e56ab4f4d235c85bbd31aa00e
+workflow-type: tm+mt
+source-wordcount: '206'
+ht-degree: 94%
 
 ---
 
@@ -21,6 +21,10 @@ Adobe Campaign 提供了跨渠道客户体验设计平台，并为可视化的�
 * **[使用 CNAME（测试版）委派子域](/help/control-panel-tutorials/subdomains-and-certificates/delegating-subdomains-using-cname.md)**
 
    *了解如何使用控制面板中的 CNAME 设置和提交子域。*
+
+* **[监视数据库](/help/control-panel-tutorials/performance-monitoring/monitoring-databases.md)**
+
+   *了解如何监视实例的数据库使用情况。*
 
 ## 员工挑选
 
