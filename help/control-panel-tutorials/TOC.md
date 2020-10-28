@@ -12,10 +12,10 @@ getting-started-title: 文档
 getting-started-url: https://docs.adobe.com/content/help/zh-Hans/campaign-classic/using/getting-started/starting-with-adobe-campaign/about-adobe-campaign-classic.html
 index: true
 translation-type: tm+mt
-source-git-commit: 5ff5fd9b021e787feefb2aae3b46421c1234b6cf
+source-git-commit: 8459863bbd76085dd4b1bd0e77f38d928d43eb2c
 workflow-type: tm+mt
-source-wordcount: '163'
-ht-degree: 100%
+source-wordcount: '167'
+ht-degree: 98%
 
 ---
 
@@ -42,4 +42,6 @@ ht-degree: 100%
       + [生成和安装用于数据加密的 GPG 密钥](/help/control-panel-tutorials/instance-settings/gpg-key-management/generating-and-installing-gpg-keys-for-data-encryption.md)
       + [使用 GPG 密钥加密数据](/help/control-panel-tutorials/instance-settings/gpg-key-management/using-a-gpg-key-to-encrypt-data.md)
       + [解密数据](/help/control-panel-tutorials/instance-settings/gpg-key-management/decrypting-data.md)
++ 性能监控 {#performance-monitoring}
+   + [监视数据库](/help/control-panel-tutorials/performance-monitoring/monitoring-databases.md)
 + [控制面板故障排除](/help/control-panel-tutorials/trouble-shooting.md)
