@@ -12,10 +12,10 @@ tutorials-url: https://docs.adobe.com/content/help/zh-Hans/campaign-classic-lear
 getting-started-title: 文档
 getting-started-url: https://docs.adobe.com/content/help/zh-Hans/campaign-classic/using/getting-started/starting-with-adobe-campaign/about-adobe-campaign-classic.html
 translation-type: tm+mt
-source-git-commit: 350ef2c3cf70a253b74c48feced0f5f319022631
+source-git-commit: fe2f788ef711612382a2fc80c43f34249f1f877e
 workflow-type: tm+mt
-source-wordcount: '322'
-ht-degree: 100%
+source-wordcount: '329'
+ht-degree: 97%
 
 ---
 
@@ -26,6 +26,7 @@ ht-degree: 100%
 + 快速入门
 {#getting-started}
    + [Adobe Campaign Classic 简介](/help/getting-started/introduction-to-adobe-campaign-classic.md)
+   + [安装和设置Adobe Campaign客户端](/help/getting-started/install-and-setup-the-adobe-campaign-client.md)
    + [探索 Adobe Campaign Classic 用户界面](/help/getting-started/exploring-the-adobe-campaign-classic-user-interface.md)
    + [管理营销活动](/help/getting-started/managing-marketing-campaigns.md)
    + [创建营销计划、项目和活动](/help/getting-started/creating-a-marketing-plan-programs-and-campaigns.md)
