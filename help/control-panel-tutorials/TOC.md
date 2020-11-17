@@ -1,5 +1,5 @@
 ---
-product: adobe campaign standard
+product: Adobe Cmpaign Classic
 user-guide-title: Adobe Campaign 控制面板教程
 user-guide-description: 通过控制面板，Adobe Campaign 管理员可以监测关键资产并执行管理任务，例如按实例或允许列表 IP 地址管理 SFTP 存储。
 breadcrumb-title: 控制面板教程
@@ -12,10 +12,10 @@ getting-started-title: 文档
 getting-started-url: https://docs.adobe.com/content/help/zh-Hans/campaign-classic/using/getting-started/starting-with-adobe-campaign/about-adobe-campaign-classic.html
 index: true
 translation-type: tm+mt
-source-git-commit: 8459863bbd76085dd4b1bd0e77f38d928d43eb2c
+source-git-commit: 217b0ec1b6f5c5e17009f1103d69726aa57dcaa4
 workflow-type: tm+mt
 source-wordcount: '167'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
