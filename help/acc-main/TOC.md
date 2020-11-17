@@ -12,10 +12,10 @@ tutorials-url: https://docs.adobe.com/content/help/zh-Hans/campaign-classic-lear
 getting-started-title: 文档
 getting-started-url: https://docs.adobe.com/content/help/zh-Hans/campaign-classic/using/getting-started/starting-with-adobe-campaign/about-adobe-campaign-classic.html
 translation-type: tm+mt
-source-git-commit: fe2f788ef711612382a2fc80c43f34249f1f877e
+source-git-commit: 217b0ec1b6f5c5e17009f1103d69726aa57dcaa4
 workflow-type: tm+mt
-source-wordcount: '329'
-ht-degree: 97%
+source-wordcount: '334'
+ht-degree: 96%
 
 ---
 
@@ -47,6 +47,7 @@ ht-degree: 97%
       + [配置循环和连续的电子邮件活动](/help/sending-messages/recurring-deliveries.md)
       + [使用 AMP 定义交互式电子邮件内容](/help/sending-messages/email-channel/defining-interactive-email-content-with-amp.md)
    + 推送渠道 {#push-channel}
+      + [安装移动应用程序渠道](/help/sending-messages/mobile-channel/installing-the-mobile-app-channel.md)
       + [使用 Experience Platform Mobile SDK 配置推送渠道 ](/help/sending-messages/mobile-channel/configure-push-using-aep-mobile-sdk.md)
    + 使用投放模板 {#using-delivery-templates}
       + [配置投放模板](/help/sending-messages/using-delivery-templates/configuring-a-delivery-template.md)
