@@ -8,7 +8,7 @@ doc-type: article
 activity: setup
 team: TM
 translation-type: tm+mt
-source-git-commit: 217b0ec1b6f5c5e17009f1103d69726aa57dcaa4
+source-git-commit: 412fe93f45be1e98343b4e63cbd7dd9285444e46
 workflow-type: tm+mt
 source-wordcount: '389'
 ht-degree: 6%
@@ -36,7 +36,7 @@ Adobe Campaign allows you to send personalized and segmented [!DNL push] notific
 
    您需要在实例上安装移动应用程序渠道包。 以下视频介绍如何检查实例中是否安装了移动应用程序渠道，如果未安装，如何安装。
 
-   [!VIDEO](https://video.tv.adobe.com/v/326544?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/326544?quality=12)
 
 ## 教程
 
