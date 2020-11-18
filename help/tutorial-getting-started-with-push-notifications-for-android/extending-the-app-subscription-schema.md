@@ -9,7 +9,7 @@ doc-type: feature video
 activity: setup
 team: TM
 translation-type: tm+mt
-source-git-commit: 217b0ec1b6f5c5e17009f1103d69726aa57dcaa4
+source-git-commit: 412fe93f45be1e98343b4e63cbd7dd9285444e46
 workflow-type: tm+mt
 source-wordcount: '89'
 ht-degree: 2%
@@ -21,7 +21,7 @@ ht-degree: 2%
 
 了解如何扩展应用程序订阅模式，以便能够存储活动从移动应用程序收到的个性化价值。
 
-[!VIDEO](https://video.tv.adobe.com/v/327306?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/327306?quality=12)
 
 ## 接下来要观看的内容
 
