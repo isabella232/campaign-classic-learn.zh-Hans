@@ -12,10 +12,10 @@ tutorials-url: https://docs.adobe.com/content/help/zh-Hans/campaign-classic-lear
 getting-started-title: 文档
 getting-started-url: https://docs.adobe.com/content/help/zh-Hans/campaign-classic/using/getting-started/starting-with-adobe-campaign/about-adobe-campaign-classic.html
 translation-type: tm+mt
-source-git-commit: 217b0ec1b6f5c5e17009f1103d69726aa57dcaa4
+source-git-commit: 016f47e131df9c3a25b9131da372efaedf6cd5ad
 workflow-type: tm+mt
-source-wordcount: '334'
-ht-degree: 96%
+source-wordcount: '348'
+ht-degree: 92%
 
 ---
 
@@ -49,6 +49,7 @@ ht-degree: 96%
    + 推送渠道 {#push-channel}
       + [安装移动应用程序渠道](/help/sending-messages/mobile-channel/installing-the-mobile-app-channel.md)
       + [使用 Experience Platform Mobile SDK 配置推送渠道 ](/help/sending-messages/mobile-channel/configure-push-using-aep-mobile-sdk.md)
+      + [Android推送通知快速入门（教程）] (https://experienceleague.adobe.com/docs/campaign-classic-learn/getting-started-with-push-notifications-for-android/introduction.html)
    + 使用投放模板 {#using-delivery-templates}
       + [配置投放模板](/help/sending-messages/using-delivery-templates/configuring-a-delivery-template.md)
       + [设置投放模板属性](/help/sending-messages/using-delivery-templates/setting-delivery-template-properties.md)
