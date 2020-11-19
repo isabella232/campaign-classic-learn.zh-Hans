@@ -1,6 +1,6 @@
 ---
 product: adobe campaign classic
-user-guide-title: Android推送通知入门
+user-guide-title: AndroidCampaign Classic推送通知入门
 user-guide-description: 本教程将指导您完成将推送通知从Adobe Campaign发送到Android应用程序时涉及的步骤。
 breadcrumb-title: Android推送通知入门
 breadcrumb-url: /docs/campaign-classic-learn/getting-started-with-push-notifications-for-android/introduction.html
@@ -8,17 +8,17 @@ solution-title: 体验联盟
 solution-hub-url: https://experienceleague.adobe.com/?tag=Campaign+Classic#recommended/solutions/campaign
 index: true
 translation-type: tm+mt
-source-git-commit: 8817155a628be5549fc232f7a3328133c1913ad7
+source-git-commit: 9b26dfd30e60c3e12c52e4318a853498af186b4a
 workflow-type: tm+mt
-source-wordcount: '78'
-ht-degree: 14%
+source-wordcount: '85'
+ht-degree: 11%
 
 ---
 
 
-# Android的推送通知入门(#getting-started-with-push-notifications-for-android)
+# Getting started with push notifications for Android {#getting-started-with-push-notifications-for-android}
 
-+ [简介](/help/tutorial-getting-started-with-push-notifications-for-android/introduction.md)
-+ [第1步：扩展应用程序订阅模式](/help/tutorial-getting-started-with-push-notifications-for-android/extending-the-app-subscription-schema.md)
-+ [第2步：配置Android服务并在活动中创建移动应用程序应用程序](/help/tutorial-getting-started-with-push-notifications-for-android/configuring-an-android-service-in-campaign.md)
++ [教程简介](/help/tutorial-getting-started-with-push-notifications-for-android/introduction.md)
++ [第1步：扩展应用程序订阅模式以个性化推送通知](/help/tutorial-getting-started-with-push-notifications-for-android/extending-the-app-subscription-schema.md)
++ [第2步：在活动中配置Android服务和创建Android移动应用程序](/help/tutorial-getting-started-with-push-notifications-for-android/configuring-an-android-service-in-campaign.md)
 + [第3步：配置和发送推送通知](/help/tutorial-getting-started-with-push-notifications-for-android/configuring-and-sending-push-notifications.md)
