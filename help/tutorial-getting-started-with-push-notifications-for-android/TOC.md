@@ -8,17 +8,17 @@ solution-title: 体验联盟
 solution-hub-url: https://experienceleague.adobe.com/?tag=Campaign+Classic#recommended/solutions/campaign
 index: true
 translation-type: tm+mt
-source-git-commit: 9b26dfd30e60c3e12c52e4318a853498af186b4a
+source-git-commit: 016f47e131df9c3a25b9131da372efaedf6cd5ad
 workflow-type: tm+mt
-source-wordcount: '85'
-ht-degree: 11%
+source-wordcount: '91'
+ht-degree: 10%
 
 ---
 
 
 # Getting started with push notifications for Android {#getting-started-with-push-notifications-for-android}
 
-+ [教程简介](/help/tutorial-getting-started-with-push-notifications-for-android/introduction.md)
++ [Android推送通知入门——简介](/help/tutorial-getting-started-with-push-notifications-for-android/introduction.md)
 + [第1步：扩展应用程序订阅模式以个性化推送通知](/help/tutorial-getting-started-with-push-notifications-for-android/extending-the-app-subscription-schema.md)
 + [第2步：在活动中配置Android服务和创建Android移动应用程序](/help/tutorial-getting-started-with-push-notifications-for-android/configuring-an-android-service-in-campaign.md)
 + [第3步：配置和发送推送通知](/help/tutorial-getting-started-with-push-notifications-for-android/configuring-and-sending-push-notifications.md)
