@@ -9,7 +9,7 @@ doc-type: feature video
 activity: setup
 team: TM
 translation-type: tm+mt
-source-git-commit: 412fe93f45be1e98343b4e63cbd7dd9285444e46
+source-git-commit: 7da1cb8a2899272bf1203146e80bd21847377e8a
 workflow-type: tm+mt
 source-wordcount: '89'
 ht-degree: 2%
@@ -17,15 +17,15 @@ ht-degree: 2%
 ---
 
 
-# 扩展应用程序订阅模式以个性化推送通知
+# 扩展模式 [!UICONTROL app subscription] 以个性化推送通知
 
-了解如何扩展应用程序订阅模式，以便能够存储活动从移动应用程序收到的个性化价值。
+了解如何扩展 [!UICONTROL app subscription] 模式以存储从移动应用程序 [!DNL Campaign] 收到的个性化值。
 
 >[!VIDEO](https://video.tv.adobe.com/v/327306?quality=12)
 
-## 接下来要观看的内容
+**下一步**
 
-**[在活动中配置Android服务](/help/tutorial-getting-started-with-push-notifications-for-android/configuring-an-android-service-in-campaign.md)**
+第2步： [在活动中配置Android服务和创建Android移动应用程序](/help/tutorial-getting-started-with-push-notifications-for-android/configuring-an-android-service-in-campaign.md)
 
 ## 其他资源
 
