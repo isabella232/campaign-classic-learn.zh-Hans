@@ -9,23 +9,27 @@ doc-type: feature video
 activity: setup
 team: TM
 translation-type: tm+mt
-source-git-commit: 412fe93f45be1e98343b4e63cbd7dd9285444e46
+source-git-commit: 7da1cb8a2899272bf1203146e80bd21847377e8a
 workflow-type: tm+mt
-source-wordcount: '133'
+source-wordcount: '139'
 ht-degree: 1%
 
 ---
 
 
-# 在活动中配置Android服务和创建Android移动应用程序
+# 在活动 [!DNL Android] 中配置服务和 [!DNL Android] 创建移动应用程序
 
-了解如何配置Android Services和在活动中创建Android移动应用程序。 必须执行此步骤，才能为推送通知定义目标应用程序。
+了解如何在活动 [!DNL Android] 中配置服务和 [!DNL Android] 创建移动应用程序。 此步骤是必需的，这样您就可以为推送通知定义目标移动应用程序。
 
 >[!VIDEO](https://video.tv.adobe.com/v/327788?quality=12)
 
-## 接下来要观看的内容
+**上一步**
 
-**[配置和发送推送通知](/help/tutorial-getting-started-with-push-notifications-for-android/configuring-and-sending-push-notifications.md)**
+第1步： [扩展应用程序订阅模式以个性化推送通知](/help/tutorial-getting-started-with-push-notifications-for-android/extending-the-app-subscription-schema.md)
+
+**下一步**
+
+第3步： [配置和发送推送通知](/help/tutorial-getting-started-with-push-notifications-for-android/configuring-and-sending-push-notifications.md)
 
 ## 其他资源
 
