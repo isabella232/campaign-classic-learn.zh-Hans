@@ -6,7 +6,7 @@ user-guide-description: 借助 Adobe Campaign Classic，营销人员可以设计
 breadcrumb-title: 教程
 breadcrumb-url: /docs/campaign-classic-learn/tutorials/overview.html
 solution-title: 体验联盟
-solution-hub-url: https://experienceleague.adobe.com/?tag=Campaign+Classic#recommended/solutions/campaign
+solution-hub-url: https://experienceleague.adobe.com/?lang=zh-Hans&tag=Campaign+Classic#recommended/solutions/campaign
 tutorials-title: 教程
 tutorials-url: https://docs.adobe.com/content/help/zh-Hans/campaign-classic-learn/tutorials/overview.html
 getting-started-title: 文档
@@ -15,7 +15,7 @@ translation-type: tm+mt
 source-git-commit: b4467e36f9e0ae389f3c9632b9f48da95c65213e
 workflow-type: tm+mt
 source-wordcount: '348'
-ht-degree: 92%
+ht-degree: 94%
 
 ---
 
@@ -26,7 +26,7 @@ ht-degree: 92%
 + 快速入门
 {#getting-started}
    + [Adobe Campaign Classic 简介](/help/getting-started/introduction-to-adobe-campaign-classic.md)
-   + [安装和设置Adobe Campaign客户端](/help/getting-started/install-and-setup-the-adobe-campaign-client.md)
+   + [安装和设置 Adobe Campaign 客户端](/help/getting-started/install-and-setup-the-adobe-campaign-client.md)
    + [探索 Adobe Campaign Classic 用户界面](/help/getting-started/exploring-the-adobe-campaign-classic-user-interface.md)
    + [管理营销活动](/help/getting-started/managing-marketing-campaigns.md)
    + [创建营销计划、项目和活动](/help/getting-started/creating-a-marketing-plan-programs-and-campaigns.md)
