@@ -8,14 +8,14 @@ breadcrumb-url: /docs/campaign-classic-learn/tutorials/overview.html
 solution-title: 体验联盟
 solution-hub-url: https://experienceleague.adobe.com/?lang=zh-Hans&tag=Campaign+Classic#recommended/solutions/campaign
 tutorials-title: 教程
-tutorials-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/overview.html
+tutorials-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/overview.html?lang=zh-Hans
 getting-started-title: 文档
 getting-started-url: https://docs.adobe.com/content/help/zh-Hans/campaign-classic/using/getting-started/starting-with-adobe-campaign/about-adobe-campaign-classic.html
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: b4b9d7c578d4511605154e014189ae467330ec31
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '343'
-ht-degree: 90%
+ht-degree: 100%
 
 ---
 
@@ -30,7 +30,7 @@ ht-degree: 90%
    + [探索 Adobe Campaign Classic 用户界面](/help/getting-started/exploring-the-adobe-campaign-classic-user-interface.md)
    + [管理营销活动](/help/getting-started/managing-marketing-campaigns.md)
    + [创建营销计划、项目和活动](/help/getting-started/creating-a-marketing-plan-programs-and-campaigns.md)
-   + [创建活动和电子邮件](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/sending-messages/email-channel/creating-a-campaign-and-an-email.html)
+   + [创建活动和电子邮件](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/sending-messages/email-channel/creating-a-campaign-and-an-email.html?lang=zh-Hans)
    + [在工作流中确定用户档案目标](/help/getting-started/targeting-profiles-in-a-workflow.md)
 + 用户档案管理 {#profile-management}
    + [创建和管理用户档案](/help/profile-management/create-and-manage-profiles.md)
@@ -47,9 +47,9 @@ ht-degree: 90%
       + [配置循环和连续的电子邮件活动](/help/sending-messages/recurring-deliveries.md)
       + [使用 AMP 定义交互式电子邮件内容](/help/sending-messages/email-channel/defining-interactive-email-content-with-amp.md)
    + 推送渠道 {#push-channel}
-      + [安装移动应用程序渠道](/help/sending-messages/mobile-channel/installing-the-mobile-app-channel.md)
+      + [安装移动应用程序通道](/help/sending-messages/mobile-channel/installing-the-mobile-app-channel.md)
       + [使用 Experience Platform Mobile SDK 配置推送渠道 ](/help/sending-messages/mobile-channel/configure-push-using-aep-mobile-sdk.md)
-      + [Android推送通知入门（教程）](https://experienceleague.adobe.com/docs/campaign-classic-learn/getting-started-with-push-notifications-for-android/introduction.html)
+      + [Android 推送通知入门（教程）](https://experienceleague.adobe.com/docs/campaign-classic-learn/getting-started-with-push-notifications-for-android/introduction.html?lang=zh-Hans)
    + 使用投放模板 {#using-delivery-templates}
       + [配置投放模板](/help/sending-messages/using-delivery-templates/configuring-a-delivery-template.md)
       + [设置投放模板属性](/help/sending-messages/using-delivery-templates/setting-delivery-template-properties.md)
