@@ -11,11 +11,11 @@ tutorials-title: 教程
 tutorials-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/overview.html?lang=zh-Hans
 getting-started-title: 文档
 getting-started-url: https://docs.adobe.com/content/help/zh-Hans/campaign-classic/using/getting-started/starting-with-adobe-campaign/about-adobe-campaign-classic.html
-translation-type: ht
-source-git-commit: b4b9d7c578d4511605154e014189ae467330ec31
-workflow-type: ht
-source-wordcount: '343'
-ht-degree: 100%
+translation-type: tm+mt
+source-git-commit: d71af28e73ac587394d255494a5f8a7fc177afb6
+workflow-type: tm+mt
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -60,6 +60,7 @@ ht-degree: 100%
       + [使用类型规则](/help/sending-messages/fatigue-management/typology-rules-for-fatigue-management.md)
       + [使用预定义过滤器](/help/sending-messages/fatigue-management/fatigue-management-using-filters.md)
 + 编排活动 {#orchestration}
+   + [执行活动](/help/orchestrating-campaigns/executing-a-campaign.md)
    + [创建多渠道活动](/help/orchestrating-campaigns/multi-channel-campaigns.md)
 + 报告 {#reporting}
    + [生成描述性分析报告](/help/reporting/generating-a-descriptive-analysis-report.md)
@@ -72,6 +73,7 @@ ht-degree: 100%
    + [配置验证工作流](/help/automating-with-workflows/validation-flow-configuration.md)
    + [配置扩充活动](/help/automating-with-workflows/enrichment-activity.md)
    + [数据细分](/help/data-management/data-segmentation.md)
+   + [管理批准](/help/automating-with-workflows/managing-approvals.md)
 + 设计内容{#designing-content}
    + [配置登陆页面](/help/designing-content/configure-landingpages.md)
 + 监控 {#monitoring}
