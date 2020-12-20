@@ -20,7 +20,7 @@ ht-degree: 55%
 
 # 生成描述性分析报告
 
-了解如何从工作流 [!UICONTROL descriptive analysis report] 中生成。
+了解如何从工作流生成[!UICONTROL descriptive analysis report]。
 
 >[!VIDEO](https://video.tv.adobe.com/v/35616?quality=12)
 
