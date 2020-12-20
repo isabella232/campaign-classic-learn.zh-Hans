@@ -18,7 +18,7 @@ ht-degree: 6%
 
 # 大数据管理Snowflake
 
-本教程介绍如何在Adobe Campaign Classic [!DNL Snowflake] 利用连接器。
+本教程介绍如何在Adobe Campaign Classic利用[!DNL Snowflake]连接器。
 您将学习如何
 
 * 连接到Snowflake
