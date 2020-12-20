@@ -24,9 +24,9 @@ Adobe Campaign包括一个工作流模块，它允许您跨应用程序服务器
 
 Adobe Campaign使用工作流来：
 
-* 进行定位活动。 For more on this, refer to [Implementation steps](https://docs.adobe.com/content/help/en/campaign-classic/using/automating-with-workflows/general-operation/building-a-workflow.html#Implementation_steps_).
-* 构建活动:对于每个活动,“工 **作流** ”选项卡允许您构建目标并创建投放。 For more on this, refer to [Campaign workflows](https://docs.adobe.com/content/help/zh-Hans/campaign-classic/using/automating-with-workflows/general-operation/building-a-workflow.html#campaign-workflows).
-* 执行Adobe Campaign技术流程：清除、收集跟踪信息或临时计算。 For more on this, refer to [Technical workflows](https://docs.adobe.com/content/help/zh-Hans/campaign-classic/using/automating-with-workflows/general-operation/building-a-workflow.html#technical-workflows).
+* 进行定位活动。 有关详细信息，请参阅[实施步骤](https://docs.adobe.com/content/help/en/campaign-classic/using/automating-with-workflows/general-operation/building-a-workflow.html#Implementation_steps_)。
+* 构建活动:对于每个活动，使用&#x200B;**Workflow**&#x200B;选项卡可以构建目标并创建投放。 有关详细信息，请参阅[活动工作流](https://docs.adobe.com/content/help/zh-Hans/campaign-classic/using/automating-with-workflows/general-operation/building-a-workflow.html#campaign-workflows)。
+* 执行Adobe Campaign技术流程：清除、收集跟踪信息或临时计算。 有关详细信息，请参阅[技术工作流](https://docs.adobe.com/content/help/zh-Hans/campaign-classic/using/automating-with-workflows/general-operation/building-a-workflow.html#technical-workflows)。
 
 此视频介绍如何在Adobe Campaign Classic创建工作流。
 
