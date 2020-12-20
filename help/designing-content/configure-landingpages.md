@@ -25,4 +25,4 @@ Adobe Campaign Classic使您能够在其服务器上设计和托管各种登陆�
 
 >[!VIDEO](https://video.tv.adobe.com/v/25041?quality=12)
 
-有关详细信息，请参阅有关创建 [登陆页的详细文档](https://docs.adobe.com/content/help/en/campaign-classic/using/designing-content/editing-html-content/creating-a-landing-page.html)。
+有关详细信息，请参阅有关[创建登陆页](https://docs.adobe.com/content/help/en/campaign-classic/using/designing-content/editing-html-content/creating-a-landing-page.html)的详细文档。
