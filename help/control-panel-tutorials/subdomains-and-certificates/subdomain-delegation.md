@@ -21,7 +21,7 @@ ht-degree: 85%
 
 >[!IMPORTANT]
 >
-> Subdomain delegation from the [!UICONTROL Control Panel] is in beta and subject to frequent updates and modifications without notice.
+> 来自[!UICONTROL Control Panel]的子域委派处于测试状态，如有频繁更新和修改，恕不另行通知。
 
 Adobe Campaign [!UICONTROL Control Panel]允许您将子域完全委派给 Adobe Campaign。
 
