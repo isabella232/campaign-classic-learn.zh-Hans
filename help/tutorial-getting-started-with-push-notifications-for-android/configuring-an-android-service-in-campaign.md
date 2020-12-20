@@ -17,19 +17,19 @@ ht-degree: 1%
 ---
 
 
-# 在活动 [!DNL Android] 中配置服务和 [!DNL Android] 创建移动应用程序
+# 配置[!DNL Android]服务并在活动中创建[!DNL Android]移动应用程序
 
-了解如何在活动 [!DNL Android] 中配置服务和 [!DNL Android] 创建移动应用程序。 此步骤是必需的，这样您就可以为推送通知定义目标移动应用程序。
+了解如何配置[!DNL Android]服务并创建活动下的[!DNL Android]移动应用程序。 此步骤是必需的，这样您就可以为推送通知定义目标移动应用程序。
 
 >[!VIDEO](https://video.tv.adobe.com/v/327788?quality=12)
 
 **上一步**
 
-第1步： [扩展应用程序订阅模式以个性化推送通知](/help/tutorial-getting-started-with-push-notifications-for-android/extending-the-app-subscription-schema.md)
+第1步：[扩展应用程序订阅模式以个性化推送通知](/help/tutorial-getting-started-with-push-notifications-for-android/extending-the-app-subscription-schema.md)
 
 **下一步**
 
-第3步： [配置和发送推送通知](/help/tutorial-getting-started-with-push-notifications-for-android/configuring-and-sending-push-notifications.md)
+第3步：[配置和发送推送通知](/help/tutorial-getting-started-with-push-notifications-for-android/configuring-and-sending-push-notifications.md)
 
 ## 其他资源
 
