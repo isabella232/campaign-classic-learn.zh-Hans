@@ -19,8 +19,8 @@ ht-degree: 11%
 
 # 添加 URL 权限
 
-了解如何建立从实例到 [!UICONTROL Adobe Campaign Classic] 外部URL的连接。
+了解如何建立从[!UICONTROL Adobe Campaign Classic]实例到外部URL的连接。
 
 >[!VIDEO](https://video.tv.adobe.com/v/28149?quality=12)
 
-For more information please see [URL permissions](https://docs.adobe.com/content/help/en/control-panel/using/instances-settings/url-permissions.html).
+有关详细信息，请参阅[URL权限](https://docs.adobe.com/content/help/en/control-panel/using/instances-settings/url-permissions.html)。
