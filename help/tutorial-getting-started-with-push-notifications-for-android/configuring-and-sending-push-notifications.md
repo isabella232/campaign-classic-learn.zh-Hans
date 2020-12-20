@@ -19,13 +19,13 @@ ht-degree: 1%
 
 # 配置和发送推送通知
 
-了解如何配置并向应用 [!DNL push] 程序用户发送 [!DNL Android] 通知。
+了解如何配置[!DNL push]通知并向[!DNL Android]应用程序的用户发送。
 
 >[!VIDEO](https://video.tv.adobe.com/v/328154?quality=12)
 
 **上一步**
 
-第2步： [在活动中配置Android服务和创建Android移动应用程序](/help/tutorial-getting-started-with-push-notifications-for-android/configuring-an-android-service-in-campaign.md)
+第2步：[在活动中配置Android服务和创建Android移动应用程序](/help/tutorial-getting-started-with-push-notifications-for-android/configuring-an-android-service-in-campaign.md)
 
 ## 其他资源
 
