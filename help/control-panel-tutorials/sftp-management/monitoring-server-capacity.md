@@ -1,5 +1,5 @@
 ---
-title: 监控服务器容量
+title: 监视服务器容量
 description: 控制面板允许您按实例监视和管理 SFTP 存储并将 IP 地址添加到允许列表。
 feature: SFTP Management
 topics: Control Panel
@@ -13,12 +13,12 @@ translation-type: tm+mt
 source-git-commit: 8d354d89015e1985be5a8c3c13fee53961b1d686
 workflow-type: tm+mt
 source-wordcount: '93'
-ht-degree: 66%
+ht-degree: 73%
 
 ---
 
 
-# 监控服务器容量
+# 监视服务器容量
 
 该控制面板允许您按实例监控和管理SFTP存储。
 
