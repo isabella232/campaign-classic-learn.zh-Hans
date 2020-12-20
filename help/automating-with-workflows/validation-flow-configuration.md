@@ -26,29 +26,29 @@ Adobe Campaign优惠为营销人员提供了多种选项，供他们审查并提
 
 本教程介绍如何配置不同的批准验证工作流。
 
-## 入门项目 {#prerequisite}
+## 入门项目{#prerequisite}
 
 在启用审批步骤之前，营销团队必须定义各个审阅者：
 
 * 批准活动中的Adobe Campaign审阅者角色可以是单个审阅者（操作员）或一组审阅者（操作员角色）。
 * 审阅者和审阅者组之前必须由管理员角色以Adobe Campaign配置。 这使活动开发者能够在活动或投放中选择审阅者作为批准者。
 
-## 为活动配置批准  {#configuring-approvals-for-campaigns}
+## 配置活动{#configuring-approvals-for-campaigns}的批准
 
-如果您的活动工作流程中所有投放都有相同的审阅人集，那么您就可以利用批准 [!DNL Campaign] 功能。 通过在活动级别设置批准和审阅者，批准任务和审阅者将在工作流执行后被推送到工作流的每个投放活动。
+如果您对活动工作流中的所有投放都有相同的审阅者集，那么您将利用[!DNL Campaign]批准功能。 通过在活动级别设置批准和审阅者，批准任务和审阅者将在工作流执行后被推送到工作流的每个投放活动。
 
 >[!VIDEO](https://video.tv.adobe.com/v/25175?quality=12)
 
-## 为投放配置批准  {#configuring-approvals-for-deliveries}
+## 配置投放{#configuring-approvals-for-deliveries}的批准
 
 您还可以在投放级别设置审批。 如果投放批准步骤和审阅者与活动批准步骤和审阅者不同，则投放设置将覆盖活动设置。
 
 >[!VIDEO](https://video.tv.adobe.com/v/25176?quality=12)
 
-## 配置审批活动  {#configuring-an-approval-activity}
+## 配置批准活动{#configuring-an-approval-activity}
 
 与投放或活动审批不同，审批活动允许用户在工作流中创建审批流程。 这样，在启动投放之前可以批准定位选择逻辑。 如果需要，还允许在工作流的多个级别进行审批。
 
 >[!VIDEO](https://video.tv.adobe.com/v/25174?quality=12)
 
-For more information, refer to the [Approval Documentation](https://docs.adobe.com/help/en/campaign-classic/using/automating-with-workflows/flow-control-activities/approval.html)
+有关详细信息，请参阅[批准文档](https://docs.adobe.com/help/en/campaign-classic/using/automating-with-workflows/flow-control-activities/approval.html)
