@@ -1,5 +1,5 @@
 ---
-title: 通过组合目标结果来优化查询
+title: 通过组合查询结果优化目标
 description: 了解如何通过使用交叉点或目标活动将查询结果组合到工作流中来优化合并。
 feature: Workflows
 topics: Targeting Activities
@@ -12,14 +12,14 @@ translation-type: tm+mt
 source-git-commit: 838c617ca163a09fcb57b7b4706433e98869bc3d
 workflow-type: tm+mt
 source-wordcount: '111'
-ht-degree: 5%
+ht-degree: 36%
 
 ---
 
 
-# 通过组合目标结果来优化查询
+# 通过组合查询结果优化目标
 
-了解如何通过使用或目标将查询结果组合到工作流 **[!UICONTROL intersection]** 中来优化 **[!UICONTROL union]** 活动。
+了解如何通过使用&#x200B;**[!UICONTROL intersection]**&#x200B;或&#x200B;**[!UICONTROL union]**&#x200B;目标将查询结果组合到工作流中来优化活动。
 
 >[!VIDEO](https://video.tv.adobe.com/v/36832?quality=12)
 
@@ -33,6 +33,6 @@ ht-degree: 5%
 
 教程:
 
-* [在工作流中定位用户档案](/help/getting-started/targeting-profiles-in-a-workflow.md)
-* [通过排除目标结果优化查询](/help/automating-with-workflows/refining-targets-by-excluding-query-results.md)
-* [使用更新列表活动创建具有工作流的列表](/help/automating-with-workflows/using-the-update-list-activity.md)
+* [在工作流中确定用户档案目标](/help/getting-started/targeting-profiles-in-a-workflow.md)
+* [通过排除查询结果优化目标](/help/automating-with-workflows/refining-targets-by-excluding-query-results.md)
+* [使用更新列表活动通过工作流创建列表](/help/automating-with-workflows/using-the-update-list-activity.md)
