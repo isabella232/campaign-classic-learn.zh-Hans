@@ -1,5 +1,5 @@
 ---
-title: 在工作流中定位用户档案
+title: 在工作流中确定用户档案目标
 description: 了解活动工作流的使用情况，了解如何使用过滤条件在工作流中创建工作流和目标用户档案。
 feature: Workflows
 topics: Targeting Activities
@@ -12,12 +12,12 @@ translation-type: tm+mt
 source-git-commit: 838c617ca163a09fcb57b7b4706433e98869bc3d
 workflow-type: tm+mt
 source-wordcount: '129'
-ht-degree: 7%
+ht-degree: 38%
 
 ---
 
 
-# 在工作流中定位用户档案
+# 在工作流中确定用户档案目标
 
 了解活动工作流的使用情况，了解如何使用过滤条件在工作流中创建工作流和目标用户档案。
 
@@ -25,9 +25,9 @@ ht-degree: 7%
 
 ## 下一位Tutorials观看
 
-* [通过组合目标结果来优化查询](/help/automating-with-workflows/refining-targets-by-combining-query-results.md)
-* [通过排除目标结果优化查询](/help/automating-with-workflows/refining-targets-by-excluding-query-results.md)
-* [使用更新列表活动创建具有工作流的列表](/help/automating-with-workflows/using-the-update-list-activity.md)
+* [通过组合查询结果优化目标](/help/automating-with-workflows/refining-targets-by-combining-query-results.md)
+* [通过排除查询结果优化目标](/help/automating-with-workflows/refining-targets-by-excluding-query-results.md)
+* [使用更新列表活动通过工作流创建列表](/help/automating-with-workflows/using-the-update-list-activity.md)
 
 ## 其他资源
 
