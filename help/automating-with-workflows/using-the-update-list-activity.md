@@ -1,5 +1,5 @@
 ---
-title: 使用更新列表活动创建具有工作流的列表
+title: 使用更新列表活动通过工作流创建列表
 description: 了解如何通过将标准排除应用于工作流来优化目标。 您还将学习如何创建预定义过滤器以及如何难以拍摄您的工作流。
 feature: Workflows
 topics: Targeting Activities
@@ -12,12 +12,12 @@ translation-type: tm+mt
 source-git-commit: 838c617ca163a09fcb57b7b4706433e98869bc3d
 workflow-type: tm+mt
 source-wordcount: '123'
-ht-degree: 3%
+ht-degree: 36%
 
 ---
 
 
-# 使用更新列表活动创建具有工作流的列表
+# 使用更新列表活动通过工作流创建列表
 
 了解Adobe Campaign Classic列表的概念，了解如何在工作流中使用更新列表活动创建列表。
 
@@ -32,6 +32,6 @@ ht-degree: 3%
 
 教程:
 
-* [在工作流中定位用户档案](/help/getting-started/targeting-profiles-in-a-workflow.md)
-* [通过组合目标结果来优化查询](/help/automating-with-workflows/refining-targets-by-combining-query-results.md)
-* [通过排除目标结果优化查询](/help/automating-with-workflows/refining-targets-by-excluding-query-results.md)
+* [在工作流中确定用户档案目标](/help/getting-started/targeting-profiles-in-a-workflow.md)
+* [通过组合查询结果优化目标](/help/automating-with-workflows/refining-targets-by-combining-query-results.md)
+* [通过排除查询结果优化目标](/help/automating-with-workflows/refining-targets-by-excluding-query-results.md)
