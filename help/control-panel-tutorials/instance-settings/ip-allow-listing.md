@@ -1,6 +1,6 @@
 ---
-title: 向允许列表添加IP地址
-seo-title: 向允许列表添加IP地址
+title: 向允许列表添加 IP 地址
+seo-title: 向允许列表添加 IP 地址
 description: 了解如何向Campaign Classic实例的允许列表添加IP范围，以及如何使用控制面板从允许列表中删除它们。
 seo-description: 以下视频介绍如何通过将 IP 地址范围添加到允许列表来设置实例的新连接。
 feature: instance settings
@@ -14,12 +14,12 @@ translation-type: tm+mt
 source-git-commit: 838c617ca163a09fcb57b7b4706433e98869bc3d
 workflow-type: tm+mt
 source-wordcount: '217'
-ht-degree: 64%
+ht-degree: 72%
 
 ---
 
 
-# 向允许列表添加IP地址
+# 向允许列表添加 IP 地址
 
 控制面板允许您通过将 IP 地址范围添加到允许列表来设置与实例的新连接。默认情况下，无法从各种 IP 地址访问 Adobe Campaign Classic 实例。因此，需要将 IP 地址添加到允许列表：
 
