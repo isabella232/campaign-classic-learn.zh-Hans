@@ -1,5 +1,5 @@
 ---
-title: '向允许列表添加IP范围 '
+title: '向允许列表添加 IP 范围 '
 description: 了解如何向允许列表添加IP地址范围。
 feature: Ip Range
 topics: Control Panel
@@ -13,12 +13,12 @@ translation-type: tm+mt
 source-git-commit: 7b2c1ac95dc59ab0c9d8098d76a04af94f273dc8
 workflow-type: tm+mt
 source-wordcount: '92'
-ht-degree: 3%
+ht-degree: 20%
 
 ---
 
 
-# 向允许列表添加IP范围
+# 向允许列表添加 IP 范围
 
 要通过客户端应用程序或API连接到服务器，必须设置公共SSH密钥，并将连接到SFTP服务器的IP地址添加到允许列表。
 
