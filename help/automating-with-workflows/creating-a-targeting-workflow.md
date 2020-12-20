@@ -22,4 +22,5 @@ Adobe Campaign使用工作流进行活动定位、构建活动或执行Adobe Cam
 
 >[!VIDEO](https://video.tv.adobe.com/v/25605?quality=12)
 
-有关更多信 [息，请](https://docs.adobe.com/content/help/en/campaign-classic/using/automating-with-workflows/introduction/about-workflows.html)参 [阅有关工作流](https://docs.adobe.com/content/help/en/campaign-classic/using/automating-with-workflows/targeting-activities/about-targeting-activities.html) 和定位活动的文档。
+请参阅文档[关于工作流](https://docs.adobe.com/content/help/en/campaign-classic/using/automating-with-workflows/introduction/about-workflows.html)
+和[关于定位活动](https://docs.adobe.com/content/help/en/campaign-classic/using/automating-with-workflows/targeting-activities/about-targeting-activities.html)以了解更多信息。
