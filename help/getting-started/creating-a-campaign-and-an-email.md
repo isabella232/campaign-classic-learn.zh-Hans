@@ -1,6 +1,6 @@
 ---
 title: 从活动创建电子邮件
-description: 了解如何直接根据活动创建电子邮件投放。
+description: 了解如何直接从营销活动创建电子邮件进行投放。
 feature: Email
 topics: null
 kt: 2172
@@ -19,7 +19,7 @@ ht-degree: 81%
 
 # 从活动创建电子邮件
 
-了解如何直接根据活动创建电子邮件投放。
+了解如何直接从营销活动创建电子邮件进行投放。
 
 >[!VIDEO](https://video.tv.adobe.com/v/25604?quality=12)
 
