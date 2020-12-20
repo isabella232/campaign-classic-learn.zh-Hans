@@ -1,6 +1,6 @@
 ---
 title: 创建和管理用户档案
-description: 了解 Adobe Campaign Classic 个人资料的概念。了解如何访问个人资料数据、对个人资料进行排序和筛选以及手动创建和管理个人资料。此视频还介绍了 Adobe Campaign Classic 是否符合一般数据保护条例 (GDPR) 和加州消费者隐私权法案 (CCPA) 的要求。
+description: 了解 Adobe Campaign Classic 用户档案的概念。了解如何访问档案数据、对档案进行排序和筛选以及手动创建和管理用户档案。此视频还介绍了 Adobe Campaign Classic 对一般数据保护条例 (GDPR) 和加州消费者隐私权法案 (CCPA) 的合规性。
 landing-page-description: Understand the concept of profiles. Learn how to access profile data, sort and filter profiles and manually create and manage profiles. Learn about GDPR and CCPA.
 feature: Profiles
 topics: null
@@ -21,9 +21,9 @@ ht-degree: 85%
 
 # 创建和管理用户档案
 
-了解 Adobe Campaign Classic 个人资料的概念。了解如何访问个人资料数据、对个人资料进行排序和筛选以及手动创建和管理个人资料。
+了解 Adobe Campaign Classic 用户档案的概念。了解如何访问档案数据、对档案进行排序和筛选以及手动创建和管理用户档案。
 
-此视频还介绍了 Adobe Campaign Classic 是否符合一般数据保护条例 (GDPR) 和加州消费者隐私权法案 (CCPA) 的要求。
+此视频还介绍了 Adobe Campaign Classic 对一般数据保护条例 (GDPR) 和加州消费者隐私权法案 (CCPA) 的合规性。
 
 >[!VIDEO](https://video.tv.adobe.com/v/35611?quality=12)
 
