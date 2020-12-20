@@ -12,7 +12,7 @@ translation-type: tm+mt
 source-git-commit: 838c617ca163a09fcb57b7b4706433e98869bc3d
 workflow-type: tm+mt
 source-wordcount: '147'
-ht-degree: 48%
+ht-degree: 67%
 
 ---
 
@@ -37,4 +37,4 @@ ht-degree: 48%
 视频Tutorials:
 
 * [使用个性化字段个性化电子邮件](/help/sending-messages/email-channel/personalizing-emails-using-personalization-fields.md)
-* [个性化电子邮件——使用条件内容创建多语言新闻稿](/help/sending-messages/email-channel/personalizing-emails-create-a-multi-lingual-newsletter-using-conditional-content.md)
+* [个性化电子邮件 - 使用条件内容创建多语言新闻稿](/help/sending-messages/email-channel/personalizing-emails-create-a-multi-lingual-newsletter-using-conditional-content.md)
