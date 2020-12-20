@@ -7,9 +7,9 @@ kt: 6438
 doc-type: article
 activity: setup
 team: TM
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: 016f47e131df9c3a25b9131da372efaedf6cd5ad
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '365'
 ht-degree: 100%
 
@@ -40,7 +40,7 @@ ht-degree: 100%
 
    需要在 [!DNL Campaign] 实例上安装 [!DNL Mobile App channel] 软件包。以下视频介绍如何检查是否在实例上安装了 [!DNL Mobile App channel]，如果未安装，则介绍如何安装。
 
->[!VIDEO](https://video.tv.adobe.com/v/326544?quality=12&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/326544?quality=12)
 
 ## 教程概述
 
