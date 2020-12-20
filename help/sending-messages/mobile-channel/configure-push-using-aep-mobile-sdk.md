@@ -1,5 +1,5 @@
 ---
-title: '使用Experience PlatformMobile SDK配置推送渠道 '
+title: '使用 Experience Platform Mobile SDK 配置推送通道 '
 description: '此视频介绍如何使用Experience CloudMobile SDK为Campaign Classic配置推送渠道。 '
 feature: Mobile SDK
 topics: Mobile Channels
@@ -11,12 +11,12 @@ translation-type: tm+mt
 source-git-commit: 838c617ca163a09fcb57b7b4706433e98869bc3d
 workflow-type: tm+mt
 source-wordcount: '91'
-ht-degree: 2%
+ht-degree: 24%
 
 ---
 
 
-# 使用Experience PlatformMobile SDK配置推送渠道
+# 使用 Experience Platform Mobile SDK 配置推送通道
 
 此视频介绍如何配置和安装Adobe Experience Platform移动SDK。
 
