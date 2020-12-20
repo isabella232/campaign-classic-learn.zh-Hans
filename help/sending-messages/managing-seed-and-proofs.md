@@ -1,5 +1,5 @@
 ---
-title: 如何在电子邮件中管理种子和验证
+title: 如何通过电子邮件管理种子和验证
 description: 了解如何在现有电子邮件中添加种子和验证，以及如何发送。
 feature: Email
 topics: null
@@ -12,12 +12,12 @@ translation-type: tm+mt
 source-git-commit: 838c617ca163a09fcb57b7b4706433e98869bc3d
 workflow-type: tm+mt
 source-wordcount: '77'
-ht-degree: 9%
+ht-degree: 32%
 
 ---
 
 
-# 如何在电子邮件中管理种子和验证
+# 如何通过电子邮件管理种子和验证
 
 了解如何在现有电子邮件中添加种子和验证，以及如何发送。
 
