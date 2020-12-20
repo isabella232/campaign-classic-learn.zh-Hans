@@ -12,12 +12,12 @@ translation-type: tm+mt
 source-git-commit: 838c617ca163a09fcb57b7b4706433e98869bc3d
 workflow-type: tm+mt
 source-wordcount: '84'
-ht-degree: 33%
+ht-degree: 50%
 
 ---
 
 
-# 使用工作流创建列表收件人
+# 使用工作流创建收件人列表
 
 了解如何创建工作流以目标收件人，以及如何在电子邮件目标中使用列表之前使其重复。
 
