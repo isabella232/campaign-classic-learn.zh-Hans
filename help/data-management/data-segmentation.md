@@ -20,7 +20,7 @@ ht-degree: 1%
 
 Adobe Campaign允许您通过公共消费者属性的深层查询和其他数据源进行高级细分，从而创建可重用列表，根据数据的实时变化动态更新列表，甚至可以执行更复杂的活动，如对任何数据点进行多变量测试。 本教程介绍集成式客户用户档案、如何创建和更新用户档案以及如何根据这些用户档案创建客户细分。
 
-## Integrated Customer Profile {#integrated-customer-profile}
+## Integrated Customer Profile{#integrated-customer-profile}
 
 客户在与每位渠道交流时，都会触手可及，因为他们所做的一切都是人们在做出购买决策或只是与您的品牌互动时所做的。
 
@@ -28,11 +28,11 @@ Adobe Campaign的集成式用户档案使营销人员能够大规模地捕获和
 
 >[!VIDEO](https://video.tv.adobe.com/v/23629?quality=12)
 
-## 客户用户档案创建和更新 {#customer-profile-creation-and-update}
+## 客户用户档案创建和更新{#customer-profile-creation-and-update}
 
 >[!VIDEO](https://video.tv.adobe.com/v/23632?quality=12)
 
-## 客户细分  {#customer-segmentation}
+## 客户细分{#customer-segmentation}
 
 一旦您了解了用户档案，您就可以通过深入查询的常见消费者属性和其他数据源进行高级细分。 允许您创建可重用的列表，根据数据的实时变化动态更新列表，甚至可以执行更复杂的活动，如对这些数据点进行多变量测试。
 
