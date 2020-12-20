@@ -18,7 +18,7 @@ ht-degree: 9%
 
 # 电子邮件投放活动与投放活动
 
-您 [!UICONTROL Delivery-type activity] 可以创建投放操作。 它可以使用输入元素来构建。
+[!UICONTROL Delivery-type activity]允许您创建投放操作。 它可以使用输入元素来构建。
 
 此视频介绍如何部署电子邮件投放模板。 它解释了电子邮件投放和投放工作流程之间的区别。
 
