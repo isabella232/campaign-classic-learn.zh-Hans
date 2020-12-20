@@ -1,5 +1,5 @@
 ---
-title: 个性化电子邮件——使用条件内容创建多语言新闻稿
+title: 个性化电子邮件 - 使用条件内容创建多语言新闻稿
 description: 阅读多语言新闻稿的示例，了解如何向投放添加条件内容。
 feature: Dynamic Content Blocks
 topics: Email Channel
@@ -12,12 +12,12 @@ translation-type: tm+mt
 source-git-commit: 838c617ca163a09fcb57b7b4706433e98869bc3d
 workflow-type: tm+mt
 source-wordcount: '116'
-ht-degree: 35%
+ht-degree: 62%
 
 ---
 
 
-# 个性化电子邮件——使用条件内容创建多语言新闻稿
+# 个性化电子邮件 - 使用条件内容创建多语言新闻稿
 
 通过配置条件内容字段，您可以创建高级个性化。当满足特定条件时，替换完整的文本块和/或图像。
 
