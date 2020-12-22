@@ -12,10 +12,10 @@ tutorials-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tu
 getting-started-title: 文档
 getting-started-url: https://docs.adobe.com/content/help/zh-Hans/campaign-classic/using/getting-started/starting-with-adobe-campaign/about-adobe-campaign-classic.html
 translation-type: tm+mt
-source-git-commit: d71af28e73ac587394d255494a5f8a7fc177afb6
+source-git-commit: e2425ddf8c06c20691276674d41f63239f6905f2
 workflow-type: tm+mt
-source-wordcount: '348'
-ht-degree: 98%
+source-wordcount: '352'
+ht-degree: 97%
 
 ---
 
@@ -46,6 +46,7 @@ ht-degree: 98%
       + [个性化电子邮件 - 使用条件内容创建多语言新闻稿](/help/sending-messages/email-channel/personalizing-emails-create-a-multi-lingual-newsletter-using-conditional-content.md)
       + [配置循环和连续的电子邮件活动](/help/sending-messages/recurring-deliveries.md)
       + [使用 AMP 定义交互式电子邮件内容](/help/sending-messages/email-channel/defining-interactive-email-content-with-amp.md)
+      + [电子邮件投放问题疑难解答](/help/sending-messages/email-channel/troubleshooting-email-delivery-issues.md)
    + 推送渠道 {#push-channel}
       + [安装移动应用程序通道](/help/sending-messages/mobile-channel/installing-the-mobile-app-channel.md)
       + [使用 Experience Platform Mobile SDK 配置推送渠道 ](/help/sending-messages/mobile-channel/configure-push-using-aep-mobile-sdk.md)
