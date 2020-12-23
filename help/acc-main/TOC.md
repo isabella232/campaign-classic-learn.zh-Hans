@@ -12,10 +12,10 @@ tutorials-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tu
 getting-started-title: 文档
 getting-started-url: https://docs.adobe.com/content/help/zh-Hans/campaign-classic/using/getting-started/starting-with-adobe-campaign/about-adobe-campaign-classic.html
 translation-type: tm+mt
-source-git-commit: 4c2ad15599c4cadb1074f227d1f10be0a2315106
+source-git-commit: 2e7327289f8d05c5b247893085fc53f7897dedde
 workflow-type: tm+mt
-source-wordcount: '355'
-ht-degree: 97%
+source-wordcount: '358'
+ht-degree: 96%
 
 ---
 
@@ -41,6 +41,7 @@ ht-degree: 97%
    + 电子邮件渠道{#email-channel}
       + [创建活动和电子邮件](/help/getting-started/creating-a-campaign-and-an-email.md)
       + [通过电子邮件管理种子和验证](/help/sending-messages/managing-seed-and-proofs.md)
+      + [配置动态内容](/help/sending-messages/email-channel/configuring-dynamic-content.md)
       + [使用动态内容块个性化电子邮件](/help/sending-messages/email-channel/personalization-with-dynamic-content-blocks.md)
       + [使用个性化字段个性化电子邮件](/help/sending-messages/email-channel/personalizing-emails-using-personalization-fields.md)
       + [个性化电子邮件 - 使用条件内容创建多语言新闻稿](/help/sending-messages/email-channel/personalizing-emails-create-a-multi-lingual-newsletter-using-conditional-content.md)
