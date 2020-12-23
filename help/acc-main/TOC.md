@@ -12,10 +12,10 @@ tutorials-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tu
 getting-started-title: 文档
 getting-started-url: https://docs.adobe.com/content/help/zh-Hans/campaign-classic/using/getting-started/starting-with-adobe-campaign/about-adobe-campaign-classic.html
 translation-type: tm+mt
-source-git-commit: 2e7327289f8d05c5b247893085fc53f7897dedde
+source-git-commit: 262807b2185cf98a154479e97540c561f273ca18
 workflow-type: tm+mt
-source-wordcount: '358'
-ht-degree: 96%
+source-wordcount: '363'
+ht-degree: 95%
 
 ---
 
@@ -40,7 +40,7 @@ ht-degree: 96%
 + 发送消息{#sending-messages}
    + 电子邮件渠道{#email-channel}
       + [创建活动和电子邮件](/help/getting-started/creating-a-campaign-and-an-email.md)
-      + [通过电子邮件管理种子和验证](/help/sending-messages/managing-seed-and-proofs.md)
+      + [通过电子邮件管理种子和验证](/help/sending-messages/email-channel/managing-seed-and-proofs.md)
       + [配置动态内容](/help/sending-messages/email-channel/configuring-dynamic-content.md)
       + [使用动态内容块个性化电子邮件](/help/sending-messages/email-channel/personalization-with-dynamic-content-blocks.md)
       + [使用个性化字段个性化电子邮件](/help/sending-messages/email-channel/personalizing-emails-using-personalization-fields.md)
@@ -61,6 +61,7 @@ ht-degree: 96%
    + 疲劳管理{#fatigue-management}
       + [使用类型规则](/help/sending-messages/fatigue-management/typology-rules-for-fatigue-management.md)
       + [使用预定义过滤器](/help/sending-messages/fatigue-management/fatigue-management-using-filters.md)
+   + [配置和管理订阅服务](/help/sending-messages/configuring-and-managing-subscription-services.md)
 + 编排活动 {#orchestration}
    + [执行活动](/help/orchestrating-campaigns/executing-a-campaign.md)
    + [创建多渠道活动](/help/orchestrating-campaigns/multi-channel-campaigns.md)
