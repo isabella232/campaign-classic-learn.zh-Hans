@@ -8,8 +8,9 @@ thumbnail: 24066.jpg
 doc-type: feature video
 activity: use
 team: TM
+original-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/sending-messages/delivery-template-configuration.html
 translation-type: tm+mt
-source-git-commit: 838c617ca163a09fcb57b7b4706433e98869bc3d
+source-git-commit: 2b8bb977bf8919ae9354cf24aa3bb1122be1cfb0
 workflow-type: tm+mt
 source-wordcount: '221'
 ht-degree: 13%
