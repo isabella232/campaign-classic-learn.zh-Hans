@@ -3,11 +3,11 @@ title: Adobe Campaign Classic 教程 - 概述
 description: Adobe Campaign 提供了跨渠道客户体验设计平台，并为可视化的活动编排、实时互动管理和跨渠道执行提供了环境。本用户指南包含有关 Adobe Campaign Standard 的众多特性和功能的视频和教程。
 product: Campaign
 sub-product: Campaign Classic
-translation-type: ht
-source-git-commit: 016f47e131df9c3a25b9131da372efaedf6cd5ad
-workflow-type: ht
-source-wordcount: '233'
-ht-degree: 100%
+translation-type: tm+mt
+source-git-commit: 4b35c4cbb20f5761786174ceed3e76841d53094e
+workflow-type: tm+mt
+source-wordcount: '243'
+ht-degree: 90%
 
 ---
 
@@ -18,18 +18,17 @@ Adobe Campaign 提供了跨渠道客户体验设计平台，并为可视化的�
 
 ## 新增功能
 
+* **[创建和设计电子邮件投放](/help/sending-messages/email-channel/create-and-design-email-deliveries.md)**
+
+   *了解创建电子邮件投放的流程，并了解如何设计和个性化电子邮件内容。*
+
 * **[Android 推送通知入门](/help/tutorial-getting-started-with-push-notifications-for-android/introduction.md)**
 
    *本教程将指导您完成将推送通知从 Adobe Campaign 发送到 Android 应用程序时涉及的步骤。*
 
-
 * **[使用 CNAME（测试版）委派子域](/help/control-panel-tutorials/subdomains-and-certificates/delegating-subdomains-using-cname.md)**
 
    *了解如何使用控制面板中的 CNAME 设置和提交子域。*
-
-* **[监视数据库](/help/control-panel-tutorials/performance-monitoring/monitoring-databases.md)**
-
-   *了解如何监视实例的数据库使用情况。*
 
 ## 员工挑选
 
