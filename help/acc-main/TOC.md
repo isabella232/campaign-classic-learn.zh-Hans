@@ -12,9 +12,9 @@ tutorials-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tu
 getting-started-title: 文档
 getting-started-url: https://docs.adobe.com/content/help/zh-Hans/campaign-classic/using/getting-started/starting-with-adobe-campaign/about-adobe-campaign-classic.html
 translation-type: tm+mt
-source-git-commit: 89eb3365c5e72b6285df7b8ed2a0d8bc61884b49
+source-git-commit: 4b35c4cbb20f5761786174ceed3e76841d53094e
 workflow-type: tm+mt
-source-wordcount: '367'
+source-wordcount: '358'
 ht-degree: 88%
 
 ---
@@ -30,7 +30,7 @@ ht-degree: 88%
    + [浏览 Adobe Campaign Classic 用户界面](/help/getting-started/exploring-the-adobe-campaign-classic-user-interface.md)
    + [管理营销活动](/help/getting-started/managing-marketing-campaigns.md)
    + [创建营销计划、项目和活动](/help/getting-started/creating-a-marketing-plan-programs-and-campaigns.md)
-   + [创建活动和电子邮件](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/sending-messages/email-channel/creating-a-campaign-and-an-email.html?lang=zh-Hans)
+   + [创建活动和电子邮件](/help/getting-started/creating-a-campaign-and-an-email.md)
    + [目标工作流中的用户档案](/help/getting-started/targeting-profiles-in-a-workflow.md)
    + [创建事件触发的活动](/help/getting-started/create-event-triggered-campaigns.md)
 + 用户档案管理 {#profile-management}
@@ -40,7 +40,7 @@ ht-degree: 88%
    + [使用工作流创建收件人列表](/help/profile-management/creating-a-list-of-recipients-with-a-workflow.md)
 + 发送消息{#sending-messages}
    + 电子邮件渠道{#email-channel}
-      + [创建活动和电子邮件](/help/getting-started/creating-a-campaign-and-an-email.md)
+      + [创建和设计电子邮件投放](/help/sending-messages/email-channel/create-and-design-email-deliveries.md)
       + [通过电子邮件管理种子和验证](/help/sending-messages/email-channel/managing-seed-and-proofs.md)
       + [配置动态内容](/help/sending-messages/email-channel/configuring-dynamic-content.md)
       + [使用动态内容块个性化电子邮件](/help/sending-messages/email-channel/personalization-with-dynamic-content-blocks.md)
@@ -53,12 +53,12 @@ ht-degree: 88%
       + [安装移动应用程序通道](/help/sending-messages/mobile-channel/installing-the-mobile-app-channel.md)
       + [使用 Experience Platform Mobile SDK 配置推送渠道 ](/help/sending-messages/mobile-channel/configure-push-using-aep-mobile-sdk.md)
       + [Android 推送通知入门（教程）](https://experienceleague.adobe.com/docs/campaign-classic-learn/getting-started-with-push-notifications-for-android/introduction.html?lang=zh-Hans)
+   + 直邮 {#direct-mail}
+      + [创建直邮投放](/help/sending-messages/direct-mail/creating-direct-mail-deliveries.md)
    + 使用投放模板 {#using-delivery-templates}
       + [配置投放模板](/help/sending-messages/using-delivery-templates/configuring-a-delivery-template.md)
       + [设置投放模板属性](/help/sending-messages/using-delivery-templates/setting-delivery-template-properties.md)
       + [部署临时电子邮件投放模板](/help/sending-messages/using-delivery-templates/deploying-ad-hoc-email-delivery-template.md)
-   + 直邮 {#direct-mail}
-      + [创建直邮投放](/help/sending-messages/direct-mail/creating-direct-mail-deliveries.md)
    + 疲劳管理{#fatigue-management}
       + [使用类型规则](/help/sending-messages/fatigue-management/typology-rules-for-fatigue-management.md)
       + [使用预定义过滤器](/help/sending-messages/fatigue-management/fatigue-management-using-filters.md)
