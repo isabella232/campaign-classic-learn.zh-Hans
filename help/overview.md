@@ -4,7 +4,7 @@ description: Adobe Campaign 提供了跨渠道客户体验设计平台，并为�
 product: Campaign
 sub-product: Campaign Classic
 translation-type: tm+mt
-source-git-commit: a43f2d309b02b59c72261bf44dfb90a9024e1718
+source-git-commit: fd1532b1205653c1ad988ea09e0d8e7c65b6bfeb
 workflow-type: tm+mt
 source-wordcount: '246'
 ht-degree: 81%
@@ -20,7 +20,7 @@ Adobe Campaign 提供了跨渠道客户体验设计平台，并为可视化的�
 
 * **[发送和验证验证](/help/sending-messages/email-channel/send-and-validate-proofs.md)**
 
-*了解如何发送和验证验证。*
+   *了解如何发送和验证验证。*
 
 * **[设计可交付的电子邮件](/help/sending-messages/email-channel/design-emails-for-deliverability.md)**
 
