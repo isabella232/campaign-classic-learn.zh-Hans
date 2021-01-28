@@ -4,10 +4,10 @@ description: Adobe Campaign 提供了跨渠道客户体验设计平台，并为�
 product: Campaign
 sub-product: Campaign Classic
 translation-type: tm+mt
-source-git-commit: b6b92148aa3993bc3cee7883ce6a16bc8a4941ea
+source-git-commit: a43f2d309b02b59c72261bf44dfb90a9024e1718
 workflow-type: tm+mt
-source-wordcount: '254'
-ht-degree: 87%
+source-wordcount: '246'
+ht-degree: 81%
 
 ---
 
@@ -18,7 +18,11 @@ Adobe Campaign 提供了跨渠道客户体验设计平台，并为可视化的�
 
 ## 新增功能
 
-* ** [为可交付性设计电子邮件](/help/sending-messages/email-channel/design-emails-for-deliverability.md)**
+* **[发送和验证验证](/help/sending-messages/email-channel/send-and-validate-proofs.md)**
+
+*了解如何发送和验证验证。*
+
+* **[设计可交付的电子邮件](/help/sending-messages/email-channel/design-emails-for-deliverability.md)**
 
    *了解如何应用可交付性最佳实践。*
 
@@ -29,10 +33,6 @@ Adobe Campaign 提供了跨渠道客户体验设计平台，并为可视化的�
 * **[Android 推送通知入门](/help/tutorial-getting-started-with-push-notifications-for-android/introduction.md)**
 
    *本教程将指导您完成将推送通知从 Adobe Campaign 发送到 Android 应用程序时涉及的步骤。*
-
-* **[使用 CNAME（测试版）委派子域](/help/control-panel-tutorials/subdomains-and-certificates/delegating-subdomains-using-cname.md)**
-
-   *了解如何使用控制面板中的 CNAME 设置和提交子域。*
 
 ## 员工挑选
 
