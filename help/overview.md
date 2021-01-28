@@ -4,10 +4,10 @@ description: Adobe Campaign 提供了跨渠道客户体验设计平台，并为�
 product: Campaign
 sub-product: Campaign Classic
 translation-type: tm+mt
-source-git-commit: 4b35c4cbb20f5761786174ceed3e76841d53094e
+source-git-commit: be36a04bf4105c70a1e76dd17b082421682b1cc2
 workflow-type: tm+mt
-source-wordcount: '243'
-ht-degree: 90%
+source-wordcount: '254'
+ht-degree: 87%
 
 ---
 
@@ -17,6 +17,10 @@ ht-degree: 90%
 Adobe Campaign 提供了跨渠道客户体验设计平台，并为可视化的活动编排、实时互动管理和跨渠道执行提供了环境。本用户指南包含有关 Adobe Campaign Classic 的众多特性和功能的视频和教程。
 
 ## 新增功能
+
+* **+设计 [可交付的电子邮件](/help/sending-messages/email-channel/design-emails-for-deliverability.md)**
+
+   *了解如何应用可交付性最佳实践。*
 
 * **[创建和设计电子邮件投放](/help/sending-messages/email-channel/create-and-design-email-deliveries.md)**
 
