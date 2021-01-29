@@ -4,10 +4,10 @@ description: Adobe Campaign 提供了跨渠道客户体验设计平台，并为�
 product: Campaign
 sub-product: Campaign Classic
 translation-type: tm+mt
-source-git-commit: fd1532b1205653c1ad988ea09e0d8e7c65b6bfeb
+source-git-commit: 349f7bca3aff01dca86d004ed3b61792538ec331
 workflow-type: tm+mt
-source-wordcount: '246'
-ht-degree: 81%
+source-wordcount: '239'
+ht-degree: 72%
 
 ---
 
@@ -17,6 +17,10 @@ ht-degree: 81%
 Adobe Campaign 提供了跨渠道客户体验设计平台，并为可视化的活动编排、实时互动管理和跨渠道执行提供了环境。本用户指南包含有关 Adobe Campaign Classic 的众多特性和功能的视频和教程。
 
 ## 新增功能
+
+* **[使用对照组](/help/sending-messages/email-channel/use-control-groups.md)**
+
+   *了解对照组的概念，并了解如何为投放使用对照组。*
 
 * **[发送和验证验证](/help/sending-messages/email-channel/send-and-validate-proofs.md)**
 
@@ -30,9 +34,6 @@ Adobe Campaign 提供了跨渠道客户体验设计平台，并为可视化的�
 
    *了解创建电子邮件投放的流程，并了解如何设计和个性化电子邮件内容。*
 
-* **[Android 推送通知入门](/help/tutorial-getting-started-with-push-notifications-for-android/introduction.md)**
-
-   *本教程将指导您完成将推送通知从 Adobe Campaign 发送到 Android 应用程序时涉及的步骤。*
 
 ## 员工挑选
 
