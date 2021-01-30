@@ -9,10 +9,10 @@ doc-type: feature video
 activity: use
 team: TM
 translation-type: tm+mt
-source-git-commit: b46156de129b40e92dd0b3fb8777d6dda51ddaf2
+source-git-commit: b394c336a99427962618a9242109e51b7d30aeaa
 workflow-type: tm+mt
-source-wordcount: '86'
-ht-degree: 37%
+source-wordcount: '77'
+ht-degree: 41%
 
 ---
 
@@ -29,5 +29,5 @@ ht-degree: 37%
 
 ## 其他资源
 
-* [在Adobe Campaign Classic设计和编排电子邮件活动](https://helpx.adobe.com/campaign/classic/how-to/design-orchestrate-email-campaigns-in-campaign-classic.html)
+* [介绍多渠道和跨渠道活动](/help/orchestrating-campaigns/introduction-to-cross-and-multi-channel-campaigns.md)
 
