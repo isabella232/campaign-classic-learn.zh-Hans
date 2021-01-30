@@ -1,5 +1,5 @@
 ---
-title: 在Adobe Campaign Classic创建多渠道活动(ACC)
+title: 创建多渠道活动
 description: 了解如何利用电子邮件、短信和直邮投放创建多渠道营销活动。
 feature: Workflows
 topics: null
@@ -9,10 +9,10 @@ doc-type: feature video
 activity: use
 team: TM
 translation-type: tm+mt
-source-git-commit: 838c617ca163a09fcb57b7b4706433e98869bc3d
+source-git-commit: b46156de129b40e92dd0b3fb8777d6dda51ddaf2
 workflow-type: tm+mt
-source-wordcount: '91'
-ht-degree: 38%
+source-wordcount: '86'
+ht-degree: 37%
 
 ---
 
