@@ -8,12 +8,12 @@ thumbnail: 35129.jpg
 doc-type: feature video
 activity: understand
 team: WWFRE
-role: user
+role: 用户
 translation-type: tm+mt
 source-git-commit: 838c617ca163a09fcb57b7b4706433e98869bc3d
 workflow-type: tm+mt
-source-wordcount: '54'
-ht-degree: 100%
+source-wordcount: '55'
+ht-degree: 98%
 
 ---
 
