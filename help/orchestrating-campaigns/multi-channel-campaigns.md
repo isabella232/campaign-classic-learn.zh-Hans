@@ -1,7 +1,7 @@
 ---
 title: 创建多渠道活动
 description: 了解如何利用电子邮件、短信和直邮投放创建多渠道营销活动。
-feature: Workflows
+feature: 工作流
 topics: null
 kt: 1563
 thumbnail: 24981.jpg
@@ -11,8 +11,8 @@ team: TM
 translation-type: tm+mt
 source-git-commit: b394c336a99427962618a9242109e51b7d30aeaa
 workflow-type: tm+mt
-source-wordcount: '77'
-ht-degree: 41%
+source-wordcount: '78'
+ht-degree: 42%
 
 ---
 
@@ -21,7 +21,7 @@ ht-degree: 41%
 
 在多渠道活动中，单个营销通信利用多个渠道来基于优选的收件人渠道到达更广的目标受众。
 
-多渠道投放在单个工作流中进行设计和执行。
+多渠道投放在单个工作流中设计和执行。
 
 了解如何利用电子邮件、短信和直邮投放创建多渠道营销活动。
 
