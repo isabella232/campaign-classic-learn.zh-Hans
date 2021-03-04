@@ -1,25 +1,27 @@
 ---
 title: 通过组合查询结果优化目标
 description: 了解如何通过使用交叉点或目标活动将查询结果组合到工作流中来优化合并。
-feature: Workflows
+feature: 工作流，定位活动,查询编辑器
 topics: Targeting Activities
 kt: 5547
 thumbnail: 36832.jpg
 doc-type: feature video
 activity: use
 team: WWFRE
+role: 业务从业者
+level: 初学者
 translation-type: tm+mt
-source-git-commit: 838c617ca163a09fcb57b7b4706433e98869bc3d
+source-git-commit: 8f06f533afc34b4bcf7fcc690c1b9ab5cafcef4a
 workflow-type: tm+mt
-source-wordcount: '111'
-ht-degree: 36%
+source-wordcount: '119'
+ht-degree: 34%
 
 ---
 
 
 # 通过组合查询结果优化目标
 
-了解如何通过使用&#x200B;**[!UICONTROL intersection]**&#x200B;或&#x200B;**[!UICONTROL union]**&#x200B;目标将查询结果组合到工作流中来优化活动。
+了解如何通过使用&#x200B;**[!UICONTROL intersection]**&#x200B;或&#x200B;**[!UICONTROL union]**&#x200B;目标将查询结果组合到工作流中来优化您的活动。
 
 >[!VIDEO](https://video.tv.adobe.com/v/36832?quality=12)
 
