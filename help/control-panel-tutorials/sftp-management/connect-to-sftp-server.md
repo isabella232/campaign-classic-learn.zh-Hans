@@ -1,19 +1,21 @@
 ---
 title: 连接到 SFTP 服务器
-description: 此视频介绍如何使用您存储在控制面板中的密钥，使用客户端 SFTP 应用程序连接到 SFTP 服务器。
-feature: SFTP Management
+description: 了解如何使用客户端SFTP应用程序使用您存储在控制面板中的密钥连接到SFTP服务器。
+feature: 控制面板
 topics: Control Panel
 kt: 2924
 thumbnail: 27263.jpg
 doc-type: feature video
 activity: use
 team: PM
+role: 管理员
+level: 富有经验
 original-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/administrating/control-panel-acc/connect-to-sftp-server.html
 translation-type: tm+mt
-source-git-commit: 2b8bb977bf8919ae9354cf24aa3bb1122be1cfb0
+source-git-commit: 8847c322c63adb23ea33679714336d0aaac20100
 workflow-type: tm+mt
-source-wordcount: '153'
-ht-degree: 100%
+source-wordcount: '155'
+ht-degree: 83%
 
 ---
 
