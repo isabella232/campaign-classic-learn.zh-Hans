@@ -1,24 +1,26 @@
 ---
 title: 创建定位工作流
-description: Adobe Campaign Classic利用工作流进行活动定位、建立活动或执行Adobe Campaign技术流程。 在此视频中，我们将重点介绍针对工作流。 定位工作流使您能够构建多个投放目标。
-feature: Workflows
+description: 了解如何使用定位投放定义多个目标工作流。
+feature: 工作流，定位活动,查询编辑器
 topics: Targeting Activities
 kt: 2174
 doc-type: feature video
 activity: use
 team: DOC
+role: 业务从业者
+level: 初学者
 translation-type: tm+mt
-source-git-commit: 838c617ca163a09fcb57b7b4706433e98869bc3d
+source-git-commit: 8f06f533afc34b4bcf7fcc690c1b9ab5cafcef4a
 workflow-type: tm+mt
-source-wordcount: '111'
-ht-degree: 7%
+source-wordcount: '94'
+ht-degree: 8%
 
 ---
 
 
 # 创建定位工作流
 
-Adobe Campaign使用工作流进行活动定位、构建活动或执行Adobe Campaign技术流程。 在此视频中，我们将重点介绍针对工作流。 定位工作流使您能够构建多个投放目标。
+Adobe Campaign使用工作流进行定位活动、构建活动或执行Adobe Campaign技术流程。 在此视频中，我们将重点介绍定位工作流。 定位工作流使您能够构建多个投放目标。
 
 >[!VIDEO](https://video.tv.adobe.com/v/25605?quality=12)
 
