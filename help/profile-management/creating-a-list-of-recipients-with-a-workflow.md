@@ -1,18 +1,20 @@
 ---
-title: 创建列表收件人 和工作流
-description: 了解如何通过从资源管理器配置受众列表来创建收件人。
-feature: Audiences
+title: 创建列表收件人 的
+description: 了解如何通过从资源管理器中配置列表受众来创建收件人。
+feature: 受众
 topics: Getting started
 kt: 2173
 thumbnail: 25603.jpg
 doc-type: feature video
 activity: setup
 team: DOC
+role: 业务从业者
+level: 初学者
 translation-type: tm+mt
-source-git-commit: 838c617ca163a09fcb57b7b4706433e98869bc3d
+source-git-commit: a16eb6d92ca40a1188e1ba6730bc28c2fb8358ce
 workflow-type: tm+mt
-source-wordcount: '84'
-ht-degree: 50%
+source-wordcount: '88'
+ht-degree: 48%
 
 ---
 
