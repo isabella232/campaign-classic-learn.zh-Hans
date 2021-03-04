@@ -1,17 +1,19 @@
 ---
 title: 在活动中配置Android服务和创建Android移动应用程序
-description: 了解如何配置Android Services和在活动中创建Android移动应用程序。 这是我们定义Neotrip应用程序作为推送通知的目标所必需的。
-feature: push
+description: 了解如何在活动中配置Android Services和创建Android移动应用程序。 这是将Neotrip应用程序定义为推送通知目标所必需的。
+feature: 推送
 topics: mobile channels
 kt: 6554
 thumbnail: 327788.jpg
 doc-type: feature video
 activity: setup
 team: TM
+role: 管理员、开发人员
+level: 富有经验
 translation-type: tm+mt
-source-git-commit: 7da1cb8a2899272bf1203146e80bd21847377e8a
+source-git-commit: 8f06f533afc34b4bcf7fcc690c1b9ab5cafcef4a
 workflow-type: tm+mt
-source-wordcount: '139'
+source-wordcount: '143'
 ht-degree: 1%
 
 ---
@@ -19,7 +21,7 @@ ht-degree: 1%
 
 # 配置[!DNL Android]服务并在活动中创建[!DNL Android]移动应用程序
 
-了解如何配置[!DNL Android]服务并创建活动下的[!DNL Android]移动应用程序。 此步骤是必需的，这样您就可以为推送通知定义目标移动应用程序。
+了解如何配置[!DNL Android]服务并在活动中创建[!DNL Android]移动应用程序。 需要执行此步骤，以便您能够为推送通知定义目标移动应用程序。
 
 >[!VIDEO](https://video.tv.adobe.com/v/327788?quality=12)
 
