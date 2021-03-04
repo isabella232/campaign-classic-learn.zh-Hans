@@ -1,18 +1,20 @@
 ---
 title: 安装和设置 Adobe Campaign 客户端
-description: 该视频介绍如何下载和安装 Adobe Campaign 客户端控制台，创建和管理与多个环境的连接，以及验证对 Adobe Campaign 客户端控制台的访问权限。
-feature: Client consol
+description: 了解如何下载和安装Adobe Campaign客户端控制台，创建和管理您与多个环境的连接，以及验证对Adobe Campaign客户端控制台的访问权限。
+feature: 客户端控制台
 topics: Getting started
 kt: 5003
 thumbnail: 35124.jpg
 doc-type: feature video
 activity: setup
 team: DOC
+role: 业务从业者、管理员、开发人员
+level: 初学者
 translation-type: tm+mt
-source-git-commit: 838c617ca163a09fcb57b7b4706433e98869bc3d
+source-git-commit: 8f06f533afc34b4bcf7fcc690c1b9ab5cafcef4a
 workflow-type: tm+mt
-source-wordcount: '107'
-ht-degree: 100%
+source-wordcount: '113'
+ht-degree: 68%
 
 ---
 
