@@ -1,6 +1,6 @@
 ---
 title: 创建和管理用户档案
-description: 了解 Adobe Campaign Classic 用户档案的概念。了解如何访问档案数据、对档案进行排序和筛选以及手动创建和管理用户档案。此视频还介绍了 Adobe Campaign Classic 对一般数据保护条例 (GDPR) 和加州消费者隐私权法案 (CCPA) 的合规性。
+description: 了解如何访问档案数据、对档案进行排序和筛选以及手动创建和管理用户档案。了解对一般数据保护规定(GDPR)和加利福尼亚消费者隐私法(CCPA)的遵守情况。
 landing-page-description: 了解用户档案的概念。了解如何访问档案数据、对档案进行排序和筛选以及手动创建和管理用户档案。了解 GDPR 和 CCPA。
 feature: 用户档案
 topics: null
@@ -9,12 +9,13 @@ thumbnail: 35611.jpg
 doc-type: feature video
 activity: use
 team: WWFRE
-role: 用户
+role: 业务从业者
+level: 初学者
 translation-type: tm+mt
-source-git-commit: 84471810b84c7ec49ff5a827036f5bc548b88a6f
+source-git-commit: 8f06f533afc34b4bcf7fcc690c1b9ab5cafcef4a
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '155'
+ht-degree: 76%
 
 ---
 
