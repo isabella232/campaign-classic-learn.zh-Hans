@@ -1,7 +1,7 @@
 ---
 title: 监视数据库
 description: 了解如何监视实例的数据库使用情况。
-feature: Database Monitoring
+feature: 控制面板
 topics: Control Panel
 kt: 6434
 thumbnail: 327175.jpg
@@ -9,18 +9,20 @@ doc-type: feature video
 audience: administrator
 activity: use
 team: TM
+role: 管理员
+level: 富有经验
 translation-type: tm+mt
-source-git-commit: 4f24a2b09209e4641186d3b4f2d9bbdc9e450a1b
+source-git-commit: a16eb6d92ca40a1188e1ba6730bc28c2fb8358ce
 workflow-type: tm+mt
-source-wordcount: '86'
-ht-degree: 18%
+source-wordcount: '90'
+ht-degree: 20%
 
 ---
 
 
 # 监视数据库
 
-您的活动实例的所有资源、工作流和数据都存储在数据库中。 数据库达到其最大容量可能会导致实例出现问题（无法登录、发送电子邮件等）。 因此，必须定期监控实例的数据库以确保最佳性能。
+您的活动实例的所有资源、工作流和数据都存储在数据库中。 达到最大容量的数据库可能会导致实例出现问题（无法登录、发送电子邮件等）。 因此，定期监控实例的数据库是确保最佳性能的关键。
 
 了解如何使用[!DNL Control Panel]监视实例的数据库使用情况。
 
@@ -28,4 +30,4 @@ ht-degree: 18%
 
 ## 其他资源
 
-* [数据库监视（指南）](https://experienceleague.adobe.com/docs/control-panel/using/performance-monitoring/database-monitoring.html?lang=en#performance-monitoring)
+* [数据库监控（指南）](https://experienceleague.adobe.com/docs/control-panel/using/performance-monitoring/database-monitoring.html?lang=en#performance-monitoring)
