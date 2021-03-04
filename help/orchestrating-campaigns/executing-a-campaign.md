@@ -1,17 +1,19 @@
 ---
 title: 执行活动
 description: 了解如何执行活动、查看电子邮件投放和投放属性。
-feature: Campaigns
+feature: 活动，电子邮件
 topics: null
 kt: 5092
 thumbnail: 329647.jpg
 doc-type: feature video
 activity: use
 team: WWFRE
+role: 业务从业者
+level: 初学者
 translation-type: tm+mt
-source-git-commit: d71af28e73ac587394d255494a5f8a7fc177afb6
+source-git-commit: 8f06f533afc34b4bcf7fcc690c1b9ab5cafcef4a
 workflow-type: tm+mt
-source-wordcount: '53'
+source-wordcount: '58'
 ht-degree: 3%
 
 ---
