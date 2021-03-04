@@ -1,17 +1,19 @@
 ---
 title: 工作流热图
-description: Adobe Campaign Workflow HeatMap 以颜色编码的图形形式表示当前运行的所有工作流。通过提供并发工作流数量的快速概述，Workflow HeatMap 使 Adobe Campaign 平台管理员可以监测实例的负载并相应地计划工作流。
-feature: Workflow Heatmap
+description: 了解如何相应地监控实例和计划工作流的负载。
+feature: 热图
 topics: Monitoring and Guardrails
 kt: 2093
 doc-type: feature video
 activity: understand
 team: PM
+role: 管理员
+level: 初学者
 translation-type: tm+mt
-source-git-commit: 838c617ca163a09fcb57b7b4706433e98869bc3d
+source-git-commit: a16eb6d92ca40a1188e1ba6730bc28c2fb8358ce
 workflow-type: tm+mt
-source-wordcount: '203'
-ht-degree: 100%
+source-wordcount: '171'
+ht-degree: 90%
 
 ---
 
