@@ -3,11 +3,15 @@ title: Adobe Campaign Classic 教程 - 概述
 description: Adobe Campaign 提供了跨渠道客户体验设计平台，并为可视化的活动编排、实时互动管理和跨渠道执行提供了环境。本用户指南包含有关 Adobe Campaign Standard 的众多特性和功能的视频和教程。
 product: Campaign
 sub-product: Campaign Classic
+feature: 概述
+topic: null
+role: 业务从业者、管理员、开发人员
+level: 初学者
 translation-type: tm+mt
-source-git-commit: b46156de129b40e92dd0b3fb8777d6dda51ddaf2
+source-git-commit: 8847c322c63adb23ea33679714336d0aaac20100
 workflow-type: tm+mt
-source-wordcount: '251'
-ht-degree: 69%
+source-wordcount: '257'
+ht-degree: 68%
 
 ---
 
@@ -24,7 +28,7 @@ Adobe Campaign 提供了跨渠道客户体验设计平台，并为可视化的�
 
 * **[使用对照组](/help/sending-messages/email-channel/use-control-groups.md)**
 
-   *了解对照组的概念，并了解如何为投放使用对照组。*
+   *了解对照组的概念，了解如何将对照组用于投放。*
 
 * **[发送和验证验证](/help/sending-messages/email-channel/send-and-validate-proofs.md)**
 
@@ -36,7 +40,7 @@ Adobe Campaign 提供了跨渠道客户体验设计平台，并为可视化的�
 
 * **[创建和设计电子邮件投放](/help/sending-messages/email-channel/create-and-design-email-deliveries.md)**
 
-   *了解创建电子邮件投放的流程，并了解如何设计和个性化电子邮件内容。*
+   *了解创建电子邮件投放的过程，并了解如何设计和个性化电子邮件内容。*
 
 
 ## 员工挑选
