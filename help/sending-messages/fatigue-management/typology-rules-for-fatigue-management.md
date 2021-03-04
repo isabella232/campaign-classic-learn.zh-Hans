@@ -1,32 +1,34 @@
 ---
-title: 如何利用Adobe Campaign Classic类型规则建立疲劳管理
-description: 疲劳管理控制消息传递的频率和数量，以避免收件人过度请求，通常使用类型规则。 此视频介绍如何通过利用类型规则在Adobe Campaign Classic实施疲劳管理。
-feature: Fatigue Management
+title: 如何使用Adobe Campaign Classic中的类型规则设置疲劳管理
+description: 了解如何利用类型规则来实施疲劳管理。
+feature: 疲劳管理
 topics: null
 kt: 1564
 doc-type: feature video
 activity: use
 team: TM
+role: 业务从业者
+level: 初学者
 translation-type: tm+mt
-source-git-commit: 838c617ca163a09fcb57b7b4706433e98869bc3d
+source-git-commit: a16eb6d92ca40a1188e1ba6730bc28c2fb8358ce
 workflow-type: tm+mt
-source-wordcount: '232'
-ht-degree: 2%
+source-wordcount: '210'
+ht-degree: 3%
 
 ---
 
 
 # 如何使用类型规则建立疲劳管理
 
-疲劳管理控制消息传递的频率和数量，以避免收件人过度请求，通常使用类型规则。
+疲劳管理控制消息的频率和数量，以避免收件人过度索取，通常使用类型规则。
 
-类型规则使营销人员能更高效地标准化所有投放的业务实践，从而控制活动向客户的消息传递。 他们这样做的方法是消除将排除或常用规则应用于每个活动的需要。 在分析阶段，符合&#x200B;*类型规则*&#x200B;内条件的收件人将从投放中排除。
+类型规则使营销人员能更有效地标准化所有投放的业务实践，从而控制向客户发送的活动消息。 他们通过消除将排除或常用规则应用于每个活动来实现这一目的。 在分析阶段，符合&#x200B;*类型规则*&#x200B;中标准的收件人将从投放中排除。
 
 通常，一组&#x200B;*类型规则*&#x200B;在&#x200B;*类型*&#x200B;中组合在一起，以便一次将多个过滤规则轻松应用于投放。
 
-这样，在创建不同的活动和工作流时就无需执行其他步骤，同时确保在正确的时间始终瞄准正确的人群。
+这样，在创建不同活动和工作流时无需执行额外步骤，同时可确保您始终能够在正确的时间针对正确的人群。
 
-此视频介绍如何通过利用类型规则在Adobe Campaign Classic实施疲劳管理。
+此视频介绍如何利用类型规则在Adobe Campaign Classic中实施疲劳管理。
 
 >[!VIDEO](https://video.tv.adobe.com/v/25090?quality=12)
 
