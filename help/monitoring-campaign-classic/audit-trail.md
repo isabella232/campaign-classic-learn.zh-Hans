@@ -1,17 +1,19 @@
 ---
 title: 如何使用审核记录
 description: '审核记录可实时捕获在 Adobe Campaign 内发生的操作和事件的全面列表。 '
-feature: Audit Trail
+feature: 审核记录
 topics: Monitoring and Guardrails
 kt: 2835
 doc-type: feature video
 activity: understand
 team: PM
+role: 管理员
+level: 初学者
 translation-type: tm+mt
-source-git-commit: 838c617ca163a09fcb57b7b4706433e98869bc3d
+source-git-commit: a16eb6d92ca40a1188e1ba6730bc28c2fb8358ce
 workflow-type: tm+mt
-source-wordcount: '161'
-ht-degree: 100%
+source-wordcount: '165'
+ht-degree: 98%
 
 ---
 
