@@ -1,17 +1,19 @@
 ---
 title: '配置和发送推送通知 '
 description: 了解如何配置推送通知并将其发送给android应用程序用户。
-feature: push
+feature: 推送
 topics: mobile channels
 kt: 6579
 thumbnail: 328154.jpg
 doc-type: feature video
 activity: setup
 team: TM
+role: 管理员、开发人员、业务从业者
+level: 初学者、中级人士、经验丰富的
 translation-type: tm+mt
-source-git-commit: 433070bf25302e582c67e8504e1508f0b023d575
+source-git-commit: 8f06f533afc34b4bcf7fcc690c1b9ab5cafcef4a
 workflow-type: tm+mt
-source-wordcount: '116'
+source-wordcount: '124'
 ht-degree: 1%
 
 ---
@@ -19,13 +21,13 @@ ht-degree: 1%
 
 # 配置和发送推送通知
 
-了解如何配置[!DNL push]通知并向[!DNL Android]应用程序的用户发送。
+了解如何配置[!DNL push]通知并发送给[!DNL Android]应用程序的用户。
 
 >[!VIDEO](https://video.tv.adobe.com/v/328154?quality=12)
 
 **上一步**
 
-第2步：[在活动中配置Android服务和创建Android移动应用程序](/help/tutorial-getting-started-with-push-notifications-for-android/configuring-an-android-service-in-campaign.md)
+第2步：[在活动](/help/tutorial-getting-started-with-push-notifications-for-android/configuring-an-android-service-in-campaign.md)中配置Android服务和创建Android移动应用程序
 
 ## 其他资源
 
