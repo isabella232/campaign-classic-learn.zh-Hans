@@ -1,19 +1,21 @@
 ---
 title: 生成和安装用于数据加密的 GPG 密钥
 description: 控制面板允许您加密从 Adobe Campaign 实例中传出的数据。了解如何在指定的 Campaign 实例上生成并安装公钥/私钥对，以加密出站数据。
-feature: Control Panel
+feature: 控制面板
 topics: null
 kt: 5240
 thumbnail: 36386.jpg
 doc-type: feature video
 activity: use
 team: PM
+role: 管理员
+level: 富有经验
 original-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/administrating/control-panel-acc/gpg-key-management/generating-and-installing-gpg-keys-for-data-encryption.html
 translation-type: tm+mt
-source-git-commit: 2b8bb977bf8919ae9354cf24aa3bb1122be1cfb0
+source-git-commit: 8847c322c63adb23ea33679714336d0aaac20100
 workflow-type: tm+mt
-source-wordcount: '106'
-ht-degree: 100%
+source-wordcount: '110'
+ht-degree: 98%
 
 ---
 
