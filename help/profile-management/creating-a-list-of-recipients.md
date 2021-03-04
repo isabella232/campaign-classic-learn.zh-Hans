@@ -1,18 +1,20 @@
 ---
 title: 创建列表收件人
-description: 了解如何通过从资源管理器配置受众列表来创建收件人。
-feature: Audiences
+description: 了解如何通过从资源管理器中配置列表受众来创建收件人。
+feature: 受众
 topics: Getting started
 kt: 2171
 thumbnail: 25602.jpg
 doc-type: feature video
 activity: setup
 team: DOC
+role: 业务从业者
+level: 初学者
 translation-type: tm+mt
-source-git-commit: 838c617ca163a09fcb57b7b4706433e98869bc3d
+source-git-commit: a16eb6d92ca40a1188e1ba6730bc28c2fb8358ce
 workflow-type: tm+mt
-source-wordcount: '106'
-ht-degree: 71%
+source-wordcount: '110'
+ht-degree: 70%
 
 ---
 
@@ -21,7 +23,7 @@ ht-degree: 71%
 
 列表是一组静态收件人档案，用于在投放操作期间提供定位目标，或在导入操作或工作流执行期间进行更新。收件人列表也称为受众。
 
-了解如何通过从资源管理器配置受众列表来创建收件人。
+了解如何通过从资源管理器中配置列表受众来创建收件人。
 
 >[!VIDEO](https://video.tv.adobe.com/v/25602/quality=12)
 
