@@ -1,19 +1,21 @@
 ---
 title: 完全子域委派
 description: 了解如何将子域完全委派给 Adobe Campaign。
-feature: Subdomain Delegation
+feature: 控制面板
 topics: Control Panel
 kt: 4115
 thumbnail: 31390.jpg
 doc-type: feature video
 activity: use
 team: PM
+role: 管理员
+level: 富有经验
 original-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/administrating/control-panel-acc/subdomain-delegation.html
 translation-type: tm+mt
-source-git-commit: 2b8bb977bf8919ae9354cf24aa3bb1122be1cfb0
+source-git-commit: 8847c322c63adb23ea33679714336d0aaac20100
 workflow-type: tm+mt
-source-wordcount: '112'
-ht-degree: 85%
+source-wordcount: '116'
+ht-degree: 84%
 
 ---
 
@@ -22,7 +24,7 @@ ht-degree: 85%
 
 >[!IMPORTANT]
 >
-> 来自[!UICONTROL Control Panel]的子域委派处于测试状态，如有频繁更新和修改，恕不另行通知。
+> 来自[!UICONTROL Control Panel]的子域委派处于测试状态，可能会频繁更新和修改，恕不另行通知。
 
 Adobe Campaign [!UICONTROL Control Panel]允许您将子域完全委派给 Adobe Campaign。
 
