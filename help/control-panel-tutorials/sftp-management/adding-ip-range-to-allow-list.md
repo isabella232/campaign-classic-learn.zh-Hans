@@ -1,7 +1,7 @@
 ---
 title: '向允许列表添加 IP 范围 '
 description: 了解如何向允许列表添加IP地址范围。
-feature: Ip Range
+feature: 控制面板
 topics: Control Panel
 kt: 6430
 thumbnail: 41775.jpg
@@ -9,18 +9,20 @@ doc-type: feature video
 audience: administrator
 activity: use
 team: PM
+role: 管理员
+level: 富有经验
 translation-type: tm+mt
-source-git-commit: 7b2c1ac95dc59ab0c9d8098d76a04af94f273dc8
+source-git-commit: a16eb6d92ca40a1188e1ba6730bc28c2fb8358ce
 workflow-type: tm+mt
-source-wordcount: '92'
-ht-degree: 20%
+source-wordcount: '96'
+ht-degree: 21%
 
 ---
 
 
 # 向允许列表添加 IP 范围
 
-要通过客户端应用程序或API连接到服务器，必须设置公共SSH密钥，并将连接到SFTP服务器的IP地址添加到允许列表。
+要通过客户端应用程序或API连接到服务器，您必须设置公共SSH密钥，并将连接到SFTP服务器的IP地址添加到允许列表。
 
 了解如何向允许列表添加IP地址范围。
 
