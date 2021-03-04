@@ -1,17 +1,19 @@
 ---
 title: 如何在工作流中目标用户档案
-description: 了解活动工作流的使用情况，了解如何使用过滤条件在工作流中创建工作流和目标用户档案。
-feature: Workflows
+description: 了解活动工作流的使用，了解如何使用过滤条件在工作流中创建工作流和目标用户档案。
+feature: 工作流
 topics: Targeting Activities
 kt: 5080
 thumbnail: 35614.jpg
 doc-type: feature video
 activity: use
 team: WWFRE
+role: 业务从业者
+level: 初学者
 translation-type: tm+mt
-source-git-commit: 89eb3365c5e72b6285df7b8ed2a0d8bc61884b49
+source-git-commit: a16eb6d92ca40a1188e1ba6730bc28c2fb8358ce
 workflow-type: tm+mt
-source-wordcount: '131'
+source-wordcount: '135'
 ht-degree: 30%
 
 ---
@@ -19,11 +21,11 @@ ht-degree: 30%
 
 # 在工作流中定位用户档案
 
-了解活动工作流的使用情况，了解如何使用过滤条件在工作流中创建工作流和目标用户档案。
+了解活动工作流的使用，了解如何使用过滤条件在工作流中创建工作流和目标用户档案。
 
 >[!VIDEO](https://video.tv.adobe.com/v/35614?quality=12)
 
-## 下一位Tutorials观看
+## 下一个Tutorials观看
 
 * [通过组合查询结果优化目标](/help/automating-with-workflows/refining-targets-by-combining-query-results.md)
 * [通过排除查询结果优化目标](/help/automating-with-workflows/refining-targets-by-excluding-query-results.md)
