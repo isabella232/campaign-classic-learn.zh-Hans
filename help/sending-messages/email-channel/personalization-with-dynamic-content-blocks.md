@@ -1,18 +1,20 @@
 ---
 title: 使用动态内容块个性化电子邮件
-description: 了解如何创建动态内容块以及如何使用它们个性化您的电子邮件投放的内容。
-feature: Dynamic Content Blocks
+description: 了解如何创建动态内容块以及如何使用它们个性化您的电子邮件投放内容。
+feature: 动态内容块
 topics: Email Channel
 kt: 1559
 thumbnail: 24924
 doc-type: feature video
 activity: use
 team: TM
+role: 管理员、开发人员
+level: 初学者
 translation-type: tm+mt
-source-git-commit: 838c617ca163a09fcb57b7b4706433e98869bc3d
+source-git-commit: 8f06f533afc34b4bcf7fcc690c1b9ab5cafcef4a
 workflow-type: tm+mt
-source-wordcount: '147'
-ht-degree: 67%
+source-wordcount: '153'
+ht-degree: 64%
 
 ---
 
@@ -23,7 +25,7 @@ ht-degree: 67%
 
 个性化块是动态的、个性化的，并包含可添加到投放的特定渲染代码。例如，您可以添加图像、电子邮件页眉、电子邮件页脚、镜像页面链接、退订链接等。
 
-了解如何创建动态内容块以及如何使用它们个性化您的电子邮件投放的内容。
+了解如何创建动态内容块以及如何使用它们个性化您的电子邮件投放内容。
 
 >[!VIDEO](https://video.tv.adobe.com/v/24924?quality=12)
 
