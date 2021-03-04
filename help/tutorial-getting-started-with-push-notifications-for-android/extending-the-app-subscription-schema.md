@@ -1,17 +1,19 @@
 ---
 title: 扩展应用程序订阅模式以个性化推送通知
 description: 了解如何扩展应用程序订阅模式，以便能够存储活动从移动应用程序收到的个性化价值。
-feature: push, data management
+feature: 推送，模式扩展
 topics: mobile channels
 kt: 6451
 thumbnail: 327306.jpg
 doc-type: feature video
 activity: setup
 team: TM
+role: 管理员、开发人员
+level: 富有经验
 translation-type: tm+mt
-source-git-commit: 433070bf25302e582c67e8504e1508f0b023d575
+source-git-commit: 8f06f533afc34b4bcf7fcc690c1b9ab5cafcef4a
 workflow-type: tm+mt
-source-wordcount: '89'
+source-wordcount: '95'
 ht-degree: 2%
 
 ---
@@ -25,7 +27,7 @@ ht-degree: 2%
 
 **下一步**
 
-第2步：[在活动中配置Android服务和创建Android移动应用程序](/help/tutorial-getting-started-with-push-notifications-for-android/configuring-an-android-service-in-campaign.md)
+第2步：[在活动](/help/tutorial-getting-started-with-push-notifications-for-android/configuring-an-android-service-in-campaign.md)中配置Android服务和创建Android移动应用程序
 
 ## 其他资源
 
