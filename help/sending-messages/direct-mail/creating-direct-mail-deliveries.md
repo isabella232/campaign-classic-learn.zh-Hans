@@ -1,18 +1,20 @@
 ---
 title: 创建直邮投放
-description: null
-feature: Direct mail
+description: 了解如何创建、格式化和执行直邮投放。
+feature: 直邮
 topics: null
 kt: 3859
 thumbnail: 21377.jpg
 doc-type: feature video
 activity: set-up
 team: WWFRE
+role: 业务从业者
+level: 初学者
 translation-type: tm+mt
-source-git-commit: 838c617ca163a09fcb57b7b4706433e98869bc3d
+source-git-commit: 8f06f533afc34b4bcf7fcc690c1b9ab5cafcef4a
 workflow-type: tm+mt
-source-wordcount: '22'
-ht-degree: 36%
+source-wordcount: '38'
+ht-degree: 26%
 
 ---
 
