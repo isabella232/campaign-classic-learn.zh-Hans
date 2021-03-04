@@ -1,25 +1,27 @@
 ---
 title: 配置动态内容
-description: 了解不同类型的动态内容，并了解如何创建个性化块和条件语句并将它们应用到投放。
-feature: Dynamic Content, Personalization, Email
+description: 了解不同类型的动态内容，了解如何创建个性化块和条件语句并将它们应用于投放。
+feature: 动态内容、个性化、电子邮件
 topics: null
 kt: 6824
 thumbnail: 329936.jpg
 doc-type: feature video
 activity: use
 team: WWFRE
+role: 业务从业者
+level: 初学者
 translation-type: tm+mt
-source-git-commit: 2e7327289f8d05c5b247893085fc53f7897dedde
+source-git-commit: a16eb6d92ca40a1188e1ba6730bc28c2fb8358ce
 workflow-type: tm+mt
-source-wordcount: '77'
-ht-degree: 22%
+source-wordcount: '84'
+ht-degree: 20%
 
 ---
 
 
 # 配置动态内容
 
-了解不同类型的动态内容，并了解如何创建个性化块和条件语句并将它们应用到投放。
+了解不同类型的动态内容，了解如何创建个性化块和条件语句并将它们应用于投放。
 
 >[!VIDEO](https://video.tv.adobe.com/v/329936?quality=12)
 
