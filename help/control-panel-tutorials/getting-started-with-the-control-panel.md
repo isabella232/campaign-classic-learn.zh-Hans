@@ -10,9 +10,9 @@ team: TM
 role: 管理员
 level: 富有经验
 translation-type: tm+mt
-source-git-commit: 683f1b38be18468bf34eb5b43988b8c2477f951b
+source-git-commit: f237d0029ee534a2b7872580bccb2c3d74f45510
 workflow-type: tm+mt
-source-wordcount: '275'
+source-wordcount: '273'
 ht-degree: 36%
 
 ---
@@ -22,7 +22,7 @@ ht-degree: 36%
 
 >[!NOTE]
 >
->控制面板可供所有管理员用户访问。 授予用户管理员访问权限的步骤详见[产品文档](https://experienceleague.adobe.com/docs/control-panel/using/discover-control-panel/managing-permissions.html?lang=en#discover-control-panel)。
+> 控制面板可供所有管理员用户访问。 授予用户管理员访问权限的步骤详见[产品文档](https://experienceleague.adobe.com/docs/control-panel/using/discover-control-panel/managing-permissions.html?lang=en#discover-control-panel)。
 请注意，您的实例必须托管在AWS上，并使用最新的[Gold Standard](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/gs-release/gs-overview.html)版本进行升级。 了解如何在[本节](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/starting-with-adobe-campaign/launching-adobe-campaign.html?lang=en#getting-your-campaign-version)中检查您的版本。 要检查您的实例是否托管在AWS上，请按照[本页](https://experienceleague.adobe.com/docs/control-panel/using/faq.html)中详细介绍的步骤操作。
 
 [!UICONTROL Control Panel]允许Adobe Campaign管理员监视关键资产并执行管理任务，例如按实例管理[!DNL SFTP]存储、管理[!DNL GPG]键或[!UICONTROL subdomains]和[!UICONTROL certificates]。
@@ -51,8 +51,6 @@ ht-degree: 36%
 您需要知道您的 [!DNL IMS org ID]。以下视频介绍查看实例 [!DNL IMS org ID] 的位置。
 
 >[!VIDEO](https://video.tv.adobe.com/v/27183?quality=12)
-
-*查看 [!DNL IMS Org ID]（00:26 分钟）*
 
 ### 管理员权限
 
