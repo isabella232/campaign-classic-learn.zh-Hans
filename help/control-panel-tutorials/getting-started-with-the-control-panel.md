@@ -10,10 +10,10 @@ team: TM
 role: 管理员
 level: 富有经验
 translation-type: tm+mt
-source-git-commit: d946afb1e9084bb30b7992239b27b579d361acdb
+source-git-commit: 2232079c569a46325807befd04ea91d2a64e1597
 workflow-type: tm+mt
-source-wordcount: '273'
-ht-degree: 36%
+source-wordcount: '288'
+ht-degree: 34%
 
 ---
 
@@ -24,7 +24,7 @@ ht-degree: 36%
 >
 > 控制面板可供所有管理员用户访问。 授予用户管理员访问权限的步骤详见[产品文档](https://experienceleague.adobe.com/docs/control-panel/using/discover-control-panel/managing-permissions.html?lang=en#discover-control-panel)。
 >
-> 请注意，您的实例必须托管在AWS上，并使用最新的[Gold Standard](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/gs-release/gs-overview.html)版本进行升级。 了解如何在[本节](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/starting-with-adobe-campaign/launching-adobe-campaign.html?lang=en#getting-your-campaign-version)中检查您的版本。 要检查您的实例是否托管在AWS上，请按照[本页](https://experienceleague.adobe.com/docs/control-panel/using/faq.html)中详细介绍的步骤操作。
+> 请注意，您的实例必须托管在AWS上，并使用最新的[Gold Standard](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/gs-release/gs-overview.html)版本或最新的[GA版本(21.1)](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/latest-release.html?lang=en#release-notes)进行升级。 了解如何在[本节](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/starting-with-adobe-campaign/launching-adobe-campaign.html?lang=en#getting-your-campaign-version)中检查您的版本。 要检查您的实例是否托管在AWS上，请按照[本页](https://experienceleague.adobe.com/docs/control-panel/using/faq.html)中详细介绍的步骤操作。
 
 [!UICONTROL Control Panel]允许Adobe Campaign管理员监视关键资产并执行管理任务，例如按实例管理[!DNL SFTP]存储、管理[!DNL GPG]键或[!UICONTROL subdomains]和[!UICONTROL certificates]。
 
