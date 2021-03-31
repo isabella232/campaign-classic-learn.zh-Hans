@@ -1,7 +1,7 @@
 ---
 product: Adobe Campaign Classic
 user-guide-title: Adobe Campaign 控制面板教程
-user-guide-description: 了解如何在控制面板中监视您的 Adobe Campaign 实例的关键资源和执行管理任务。
+user-guide-description: 了解如何在控制面板中监测您的 Adobe Campaign 实例的关键资源和执行管理任务。
 breadcrumb-title: 控制面板教程
 breadcrumb-url: /docs/campaign-classic-learn/control-panel/control-panel-overview.html
 solution-title: 体验联盟
@@ -13,12 +13,12 @@ getting-started-url: https://docs.adobe.com/content/help/zh-Hans/campaign-classi
 index: true
 feature: 控制面板
 role: 管理员
-level: 富有经验
-translation-type: tm+mt
+level: 有经验者
+translation-type: ht
 source-git-commit: 8847c322c63adb23ea33679714336d0aaac20100
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '161'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
