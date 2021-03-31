@@ -5,13 +5,13 @@ product: Campaign
 sub-product: Campaign Classic
 feature: 概述
 topic: null
-role: 业务从业者、管理员、开发人员
+role: 商业从业者、管理员、开发人员
 level: 初学者
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 8847c322c63adb23ea33679714336d0aaac20100
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '257'
-ht-degree: 68%
+ht-degree: 100%
 
 ---
 
@@ -28,15 +28,15 @@ Adobe Campaign 提供了跨渠道客户体验设计平台，并为可视化的�
 
 * **[使用对照组](/help/sending-messages/email-channel/use-control-groups.md)**
 
-   *了解对照组的概念，了解如何将对照组用于投放。*
+   *了解对照组的概念以及如何将对照组用于投放。*
 
-* **[发送和验证验证](/help/sending-messages/email-channel/send-and-validate-proofs.md)**
+* **[发送并确认验证](/help/sending-messages/email-channel/send-and-validate-proofs.md)**
 
-   *了解如何发送和验证验证。*
+   *了解如何发送并确认验证。*
 
-* **[设计可交付的电子邮件](/help/sending-messages/email-channel/design-emails-for-deliverability.md)**
+* **[设计可投放的电子邮件](/help/sending-messages/email-channel/design-emails-for-deliverability.md)**
 
-   *了解如何应用可交付性最佳实践。*
+   *了解如何应用可投放性最佳实践。*
 
 * **[创建和设计电子邮件投放](/help/sending-messages/email-channel/create-and-design-email-deliveries.md)**
 
