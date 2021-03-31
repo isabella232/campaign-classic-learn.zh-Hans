@@ -11,11 +11,11 @@ tutorials-title: 教程
 tutorials-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/overview.html?lang=zh-Hans
 getting-started-title: 文档
 getting-started-url: https://docs.adobe.com/content/help/zh-Hans/campaign-classic/using/getting-started/starting-with-adobe-campaign/about-adobe-campaign-classic.html
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 2eef4b85e39f80c5b5f012e17cf73b0e188b9253
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '394'
-ht-degree: 80%
+ht-degree: 100%
 
 ---
 
@@ -31,8 +31,8 @@ ht-degree: 80%
    + [管理营销活动](/help/getting-started/managing-marketing-campaigns.md)
    + [创建营销计划、项目和活动](/help/getting-started/creating-a-marketing-plan-programs-and-campaigns.md)
    + [创建活动和电子邮件](/help/getting-started/creating-a-campaign-and-an-email.md)
-   + [目标工作流中的用户档案](/help/getting-started/targeting-profiles-in-a-workflow.md)
-   + [创建事件触发的活动](/help/getting-started/create-event-triggered-campaigns.md)
+   + [在工作流中确定用户档案目标](/help/getting-started/targeting-profiles-in-a-workflow.md)
+   + [创建事件触发式活动](/help/getting-started/create-event-triggered-campaigns.md)
 + 用户档案管理 {#profile-management}
    + [创建和管理用户档案](/help/profile-management/create-and-manage-profiles.md)
    + [导入用户档案](/help/data-management/importing-profiles.md)
@@ -42,7 +42,7 @@ ht-degree: 80%
    + 电子邮件渠道{#email-channel}
       + [创建和设计电子邮件投放](/help/sending-messages/email-channel/create-and-design-email-deliveries.md)
       + [通过电子邮件管理种子和验证](/help/sending-messages/email-channel/managing-seed-and-proofs.md)
-      + [发送和验证验证](/help/sending-messages/email-channel/send-and-validate-proofs.md)
+      + [发送并确认验证](/help/sending-messages/email-channel/send-and-validate-proofs.md)
       + [使用对照组](/help/sending-messages/email-channel/use-control-groups.md)
       + [配置动态内容](/help/sending-messages/email-channel/configuring-dynamic-content.md)
       + [使用动态内容块个性化电子邮件](/help/sending-messages/email-channel/personalization-with-dynamic-content-blocks.md)
@@ -51,11 +51,11 @@ ht-degree: 80%
       + [配置循环和连续的电子邮件活动](/help/sending-messages/recurring-deliveries.md)
       + [使用 AMP 定义交互式电子邮件内容](/help/sending-messages/email-channel/defining-interactive-email-content-with-amp.md)
       + [电子邮件投放问题疑难解答](/help/sending-messages/email-channel/troubleshooting-email-delivery-issues.md)
-      + [设计可交付的电子邮件](/help/sending-messages/email-channel/design-emails-for-deliverability.md)
-      + [可交付性最佳实践指南](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html)
-   + SMS渠道{#sms-channel}
+      + [设计可投放的电子邮件](/help/sending-messages/email-channel/design-emails-for-deliverability.md)
+      + [可投放性最佳实践指南](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html?lang=zh-Hans)
+   + 短信渠道{#sms-channel}
       + [创建短信投放](/help/sending-messages/mobile-channel/create-a-sms-delivery.md)
-   + 推送渠道 {#push-channel}
+   + 推送渠道{#push-channel}
       + [安装移动应用程序通道](/help/sending-messages/mobile-channel/installing-the-mobile-app-channel.md)
       + [使用 Experience Platform Mobile SDK 配置推送渠道 ](/help/sending-messages/mobile-channel/configure-push-using-aep-mobile-sdk.md)
       + [Android 推送通知入门（教程）](https://experienceleague.adobe.com/docs/campaign-classic-learn/getting-started-with-push-notifications-for-android/introduction.html?lang=zh-Hans)
@@ -69,12 +69,12 @@ ht-degree: 80%
       + [使用类型规则](/help/sending-messages/fatigue-management/typology-rules-for-fatigue-management.md)
       + [使用预定义过滤器](/help/sending-messages/fatigue-management/fatigue-management-using-filters.md)
    + [配置和管理订阅服务](/help/sending-messages/configuring-and-managing-subscription-services.md)
-+ 编排活动 {#orchestration}
++ 编排活动{#orchestration}
    + [执行活动](/help/orchestrating-campaigns/executing-a-campaign.md)
-   + [介绍多渠道和跨渠道活动](/help/orchestrating-campaigns/introduction-to-cross-and-multi-channel-campaigns.md)
+   + [多渠道和跨渠道活动简介](/help/orchestrating-campaigns/introduction-to-cross-and-multi-channel-campaigns.md)
    + [创建多渠道活动](/help/orchestrating-campaigns/multi-channel-campaigns.md)
    + [创建跨渠道活动](/help/orchestrating-campaigns/cross-channel-campaigns.md)
-+ 报告 {#reporting}
++ 报告{#reporting}
    + [访问内置报告](/help/reporting/accessing-built-in-reports.md)
    + [生成描述性分析报告](/help/reporting/generating-a-descriptive-analysis-report.md)
 + 使用工作流实现自动化{#automating-with-workflows}
@@ -86,7 +86,7 @@ ht-degree: 80%
    + [配置验证工作流](/help/automating-with-workflows/validation-flow-configuration.md)
    + [配置扩充活动](/help/automating-with-workflows/enrichment-activity.md)
    + [数据细分](/help/data-management/data-segmentation.md)
-   + [管理批准](/help/automating-with-workflows/managing-approvals.md)
+   + [管理审批](/help/automating-with-workflows/managing-approvals.md)
 + 设计内容{#designing-content}
    + [配置登陆页面](/help/designing-content/configure-landingpages.md)
 + 监控 {#monitoring}
