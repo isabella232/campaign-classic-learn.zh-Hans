@@ -1,6 +1,6 @@
 ---
 title: 使用 AMP 定义交互式电子邮件内容
-description: 了解如何配置AMP格式的电子邮件内容。
+description: 了解如何以 AMP 格式配置电子邮件内容。
 feature: 电子邮件、电子邮件设计
 topics: Create and Send Email Deliveries
 kt: 3475
@@ -8,16 +8,16 @@ thumbnail: 29940.jpg
 doc-type: feature video
 activity: set-up
 team: TM
-role: 商业从业者，开发人员
-level: 高级
-translation-type: tm+mt
-source-git-commit: 8f06f533afc34b4bcf7fcc690c1b9ab5cafcef4a
-workflow-type: tm+mt
-source-wordcount: '143'
-ht-degree: 88%
+role: Business Practitioner, Developer
+level: Advanced
+exl-id: 824f62dc-accb-4b3a-aaed-9b4e11b807f3
+translation-type: ht
+source-git-commit: 298d3745a32d4509a82295be851f6e390f33749a
+workflow-type: ht
+source-wordcount: '139'
+ht-degree: 100%
 
 ---
-
 
 # 使用 AMP 定义交互式电子邮件内容
 
