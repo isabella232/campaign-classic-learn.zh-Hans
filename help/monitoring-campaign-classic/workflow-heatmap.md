@@ -1,22 +1,22 @@
 ---
 title: 工作流热图
-description: 了解如何相应地监控实例和计划工作流的负载。
+description: 了解如何监测实例上的负载并相应地规划工作流。
 feature: 热图
 topics: Monitoring and Guardrails
 kt: 2093
 doc-type: feature video
 activity: understand
 team: PM
-role: 管理员
-level: 初学者
-translation-type: tm+mt
-source-git-commit: a16eb6d92ca40a1188e1ba6730bc28c2fb8358ce
-workflow-type: tm+mt
-source-wordcount: '171'
-ht-degree: 90%
+role: Administrator
+level: Beginner
+exl-id: b6d0d4b2-3b76-4e14-ba80-c0f370274b04
+translation-type: ht
+source-git-commit: 298d3745a32d4509a82295be851f6e390f33749a
+workflow-type: ht
+source-wordcount: '169'
+ht-degree: 100%
 
 ---
-
 
 # 工作流热图
 
