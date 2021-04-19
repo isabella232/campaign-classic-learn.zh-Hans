@@ -8,16 +8,16 @@ thumbnail: 25604.jpg
 doc-type: feature video
 activity: use
 team: DOC
-role: 业务从业者
-level: 初学者
+role: Business Practitioner
+level: Beginner
+exl-id: 89765be2-366d-45f8-8e1c-a192ecbb2694
 translation-type: tm+mt
-source-git-commit: a16eb6d92ca40a1188e1ba6730bc28c2fb8358ce
+source-git-commit: 15811ffa49770a8cc5ff59c8f477029c96425074
 workflow-type: tm+mt
-source-wordcount: '54'
-ht-degree: 57%
+source-wordcount: '51'
+ht-degree: 76%
 
 ---
-
 
 # 从活动创建电子邮件
 
@@ -27,4 +27,4 @@ ht-degree: 57%
 
 ## 其他资源
 
-* [用例：创建电子邮件投放](https://experienceleague.adobe.com/docs/campaign-classic/using/designing-content/editing-html-content/use-case)
+* [用例：创建电子邮件投放](https://experienceleague.adobe.com/docs/campaign-classic/using/designing-content/editing-html-content/use-case--creating-an-email-delivery.html?lang=zh-Hans#designing-content)
