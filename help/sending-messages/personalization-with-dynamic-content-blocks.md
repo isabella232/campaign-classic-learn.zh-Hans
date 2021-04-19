@@ -1,17 +1,17 @@
 ---
 title: 如何使用动态内容块个性化电子邮件
 description: 本教程演示如何个性化投放内容、在投放模板中使用 JavaScript 代码、标准化和在不同投放模板中共享内容块。
-feature: Dynamic Content Blocks
+feature: 动态内容
 topics: Email Channel
 kt: 1559
 doc-type: feature video
 activity: use
 team: TM
 translation-type: tm+mt
-source-git-commit: 838c617ca163a09fcb57b7b4706433e98869bc3d
+source-git-commit: 15811ffa49770a8cc5ff59c8f477029c96425074
 workflow-type: tm+mt
-source-wordcount: '251'
-ht-degree: 100%
+source-wordcount: '253'
+ht-degree: 99%
 
 ---
 
