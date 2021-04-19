@@ -1,23 +1,23 @@
 ---
 title: 使用个性化字段个性化电子邮件
 description: 了解如何将个性化字段添加到主题行和电子邮件投放的内容。
-feature: 动态内容块
+feature: 动态内容
 topics: Email Channel
 kt: 5921
 thumbnail: 24925.jpg
 doc-type: feature video
 activity: use
 team: TM
-role: 业务从业者
-level: 初学者
+role: Business Practitioner
+level: Beginner
+exl-id: 7f9d927f-41e8-4f8c-bcd6-5042ae64a433
 translation-type: tm+mt
-source-git-commit: a16eb6d92ca40a1188e1ba6730bc28c2fb8358ce
+source-git-commit: 15811ffa49770a8cc5ff59c8f477029c96425074
 workflow-type: tm+mt
-source-wordcount: '130'
-ht-degree: 36%
+source-wordcount: '126'
+ht-degree: 37%
 
 ---
-
 
 # 使用个性化字段个性化电子邮件
 
