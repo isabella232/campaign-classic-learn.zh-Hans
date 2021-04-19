@@ -5,22 +5,22 @@ description: 了解如何配置不同的审批验证工作流。
 seo-description: 本视频介绍了如何在ACCAdobe 活动中配置和使用投放模板,优惠了多个选项，供营销人员查看和提供投放内容、活动目标、数据提取和预算批准。 本教程介绍如何配置不同的批准验证工作流。
 uuid: fdeb7aef-95aa-4bc1-9c51-2eb7ce802107
 discoiquuid: 29abc57d-c359-472d-817a-0671818894f0
-feature: 工作流、批准
+feature: 工作流，批准
 topics: Validation
 kt: KT-1566
 doc-type: feature video
 activity: setup
 team: TM
-role: 业务从业者
-level: 高级
+role: Business Practitioner
+level: Experienced
+exl-id: 34fbb91d-ae99-497c-872e-55ce2e6ea2aa
 translation-type: tm+mt
-source-git-commit: 8f06f533afc34b4bcf7fcc690c1b9ab5cafcef4a
+source-git-commit: 15811ffa49770a8cc5ff59c8f477029c96425074
 workflow-type: tm+mt
-source-wordcount: '339'
+source-wordcount: '336'
 ht-degree: 0%
 
 ---
-
 
 # 如何在Adobe Campaign Classic中配置验证工作流
 
