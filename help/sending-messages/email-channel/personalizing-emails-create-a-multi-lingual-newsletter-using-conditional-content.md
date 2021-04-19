@@ -1,23 +1,23 @@
 ---
 title: 个性化电子邮件 - 使用条件内容创建多语言新闻稿
 description: 阅读多语言新闻稿示例，了解如何向投放添加条件内容。
-feature: 动态内容块
+feature: 动态内容
 topics: Email Channel
 kt: 5922
 thumbnail: 24926.jpg
 doc-type: feature video
 activity: use
 team: TM
-role: 业务从业者
-level: 初学者
+role: Business Practitioner
+level: Beginner
+exl-id: 080f5229-9eae-45b6-b0e0-13b4721ad79c
 translation-type: tm+mt
-source-git-commit: a16eb6d92ca40a1188e1ba6730bc28c2fb8358ce
+source-git-commit: 15811ffa49770a8cc5ff59c8f477029c96425074
 workflow-type: tm+mt
-source-wordcount: '122'
-ht-degree: 59%
+source-wordcount: '118'
+ht-degree: 62%
 
 ---
-
 
 # 个性化电子邮件 - 使用条件内容创建多语言新闻稿
 
@@ -34,7 +34,7 @@ ht-degree: 59%
 * [关于个性化](https://docs.adobe.com/content/help/zh-Hans/campaign-classic/using/sending-messages/personalizing-deliveries/about-personalization.html)
 * [条件内容](https://docs.adobe.com/content/help/en/campaign-classic/using/sending-messages/personalizing-deliveries/conditional-content.html)
 
-视频Tutorials:
+视频教程:
 
 * [使用动态内容块个性化电子邮件](/help/sending-messages/email-channel/personalization-with-dynamic-content-blocks.md)
 * [使用个性化字段个性化电子邮件](/help/sending-messages/email-channel/personalizing-emails-using-personalization-fields.md)
