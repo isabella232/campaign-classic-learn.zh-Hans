@@ -1,23 +1,23 @@
 ---
 title: 使用动态内容块个性化电子邮件
 description: 了解如何创建动态内容块以及如何使用它们个性化您的电子邮件投放内容。
-feature: 动态内容块
+feature: 动态内容
 topics: Email Channel
 kt: 1559
 thumbnail: 24924
 doc-type: feature video
 activity: use
 team: TM
-role: 管理员、开发人员
-level: 初学者
+role: Administrator, Developer
+level: Beginner
+exl-id: 0f49c286-ebb7-419d-98ab-89a8c0772636
 translation-type: tm+mt
-source-git-commit: 8f06f533afc34b4bcf7fcc690c1b9ab5cafcef4a
+source-git-commit: 15811ffa49770a8cc5ff59c8f477029c96425074
 workflow-type: tm+mt
-source-wordcount: '153'
-ht-degree: 64%
+source-wordcount: '149'
+ht-degree: 67%
 
 ---
-
 
 # 使用动态内容块个性化电子邮件
 
@@ -36,7 +36,7 @@ ht-degree: 64%
 * [关于个性化](https://docs.adobe.com/content/help/zh-Hans/campaign-classic/using/sending-messages/personalizing-deliveries/about-personalization.html)
 * ([个性化块](https://docs.adobe.com/content/help/en/campaign-classic/using/sending-messages/personalizing-deliveries/personalization-blocks.html)
 
-视频Tutorials:
+视频教程:
 
 * [使用个性化字段个性化电子邮件](/help/sending-messages/email-channel/personalizing-emails-using-personalization-fields.md)
 * [个性化电子邮件 - 使用条件内容创建多语言新闻稿](/help/sending-messages/email-channel/personalizing-emails-create-a-multi-lingual-newsletter-using-conditional-content.md)
