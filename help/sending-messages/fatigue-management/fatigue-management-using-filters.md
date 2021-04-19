@@ -7,16 +7,16 @@ kt: 2148
 doc-type: feature video
 activity: use
 team: TM
-role: 业务从业者、开发人员、管理员
-level: 高级
+role: Business Practitioner, Developer, Administrator
+level: Experienced
+exl-id: c6fcdaa9-75ae-4975-9463-ca32a2ae849a
 translation-type: tm+mt
-source-git-commit: 8f06f533afc34b4bcf7fcc690c1b9ab5cafcef4a
+source-git-commit: 15811ffa49770a8cc5ff59c8f477029c96425074
 workflow-type: tm+mt
-source-wordcount: '108'
+source-wordcount: '103'
 ht-degree: 6%
 
 ---
-
 
 # 使用预定义的过滤器设置疲劳管理
 
