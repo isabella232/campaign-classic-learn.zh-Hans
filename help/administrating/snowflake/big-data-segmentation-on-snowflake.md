@@ -1,7 +1,7 @@
 ---
 title: 大数据管理Snowflake
 description: 了解如何在Adobe Campaign Classic中利用Snowflake连接器
-feature: 联合数据访问
+feature: Federated Data Access
 topics: FDA
 kt: 4405
 doc-type: feature video

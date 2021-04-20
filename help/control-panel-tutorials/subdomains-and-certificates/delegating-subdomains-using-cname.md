@@ -1,15 +1,15 @@
 ---
 title: 使用 CNAME 委派子域
 description: 了解如何将子域完全委派给 Adobe Campaign。
-feature: 控制面板
+feature: Control Panel
 topics: Control Panel
 kt: 6015
 thumbnail: 326612.jpg
 doc-type: feature video
 activity: use
 team: PM
-role: 管理员
-level: 富有经验
+role: Administrator
+level: Experienced
 translation-type: tm+mt
 source-git-commit: a16eb6d92ca40a1188e1ba6730bc28c2fb8358ce
 workflow-type: tm+mt

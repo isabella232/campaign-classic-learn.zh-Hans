@@ -1,15 +1,15 @@
 ---
 title: 添加 URL 权限
 description: 了解如何建立从Adobe Campaign Classic持久性到外部URL的连接。
-feature: 控制面板
+feature: Control Panel
 topics: Instance Settings
 kt: 3259
 thumbnail: 28149.jpg
 doc-type: feature video
 activity: use
 team: TM
-role: 管理员
-level: 富有经验
+role: Administrator
+level: Experienced
 original-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/administrating/control-panel-acc/adding-url-permissions.html
 translation-type: tm+mt
 source-git-commit: 8847c322c63adb23ea33679714336d0aaac20100

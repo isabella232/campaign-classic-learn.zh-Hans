@@ -1,15 +1,15 @@
 ---
 title: 浏览 Adobe Campaign Classic 用户界面
 description: 了解Adobe Campaign Classic的主用户界面，并向您展示如何导航主要功能。
-feature: 概述
+feature: Overview
 topics: Getting started
 kt: 5009
 thumbnail: 35130.jpg
 doc-type: feature video
 activity: understand
 team: WWFRE
-role: 业务从业者
-level: 初学者
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: a16eb6d92ca40a1188e1ba6730bc28c2fb8358ce
 workflow-type: tm+mt

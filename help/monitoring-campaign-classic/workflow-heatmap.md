@@ -1,7 +1,7 @@
 ---
 title: 工作流热图
 description: 了解如何监测实例上的负载并相应地规划工作流。
-feature: 热图
+feature: Heatmap
 topics: Monitoring and Guardrails
 kt: 2093
 doc-type: feature video

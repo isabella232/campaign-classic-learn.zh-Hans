@@ -1,15 +1,15 @@
 ---
 title: 解密数据
 description: 以下视频介绍如何创建公钥并将其导入和安装在 Campaign 实例上以进行数据解密。
-feature: 控制面板
+feature: Control Panel
 topics: null
 kt: 5543
 thumbnail: 36482.jpg
 doc-type: feature video
 activity: use
 team: PM
-role: 管理员
-level: 富有经验
+role: Administrator
+level: Experienced
 original-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/administrating/control-panel-acc/gpg-key-management/decrypting-data.html
 translation-type: tm+mt
 source-git-commit: 8847c322c63adb23ea33679714336d0aaac20100

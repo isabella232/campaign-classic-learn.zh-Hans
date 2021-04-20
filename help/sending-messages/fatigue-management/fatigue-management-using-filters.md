@@ -1,7 +1,7 @@
 ---
 title: 使用压力规则管理营销疲劳
 description: 了解如何使用过滤器在Adobe Campaign Classic中实施疲劳管理。
-feature: 疲劳管理
+feature: Fatigue Management
 topics: null
 kt: 2148
 doc-type: feature video

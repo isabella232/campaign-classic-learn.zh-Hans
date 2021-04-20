@@ -1,15 +1,15 @@
 ---
 title: '配置和发送推送通知 '
 description: 了解如何配置推送通知并将其发送给android应用程序用户。
-feature: 推送
+feature: Push
 topics: mobile channels
 kt: 6579
 thumbnail: 328154.jpg
 doc-type: feature video
 activity: setup
 team: TM
-role: 管理员、开发人员、业务从业者
-level: 初学者、中级人士、经验丰富的
+role: Administrator, Developer, Business Practitioner
+level: Beginner, Intermediate, Experienced
 translation-type: tm+mt
 source-git-commit: 8f06f533afc34b4bcf7fcc690c1b9ab5cafcef4a
 workflow-type: tm+mt

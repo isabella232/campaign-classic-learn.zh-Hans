@@ -1,15 +1,15 @@
 ---
 title: 在Adobe Campaign Classic中设置投放模板属性
 description: 了解如何配置投放模板属性。
-feature: 投放模板
+feature: Delivery Templates
 topics: Templates
 kt: 1981
 thumbnail: 24067.jpg
 doc-type: feature video
 activity: use
 team: TM
-role: 管理员
-level: 初学者
+role: Administrator
+level: Beginner
 translation-type: tm+mt
 source-git-commit: a16eb6d92ca40a1188e1ba6730bc28c2fb8358ce
 workflow-type: tm+mt

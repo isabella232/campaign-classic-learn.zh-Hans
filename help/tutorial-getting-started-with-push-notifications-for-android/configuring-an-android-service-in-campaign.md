@@ -1,15 +1,15 @@
 ---
 title: 在活动中配置Android服务和创建Android移动应用程序
 description: 了解如何在活动中配置Android Services和创建Android移动应用程序。 这是将Neotrip应用程序定义为推送通知目标所必需的。
-feature: 推送
+feature: Push
 topics: mobile channels
 kt: 6554
 thumbnail: 327788.jpg
 doc-type: feature video
 activity: setup
 team: TM
-role: 管理员、开发人员
-level: 富有经验
+role: Administrator, Developer
+level: Experienced
 translation-type: tm+mt
 source-git-commit: 8f06f533afc34b4bcf7fcc690c1b9ab5cafcef4a
 workflow-type: tm+mt

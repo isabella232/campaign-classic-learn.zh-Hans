@@ -1,7 +1,7 @@
 ---
 title: 使用个性化字段个性化电子邮件
 description: 了解如何将个性化字段添加到主题行和电子邮件投放的内容。
-feature: 动态内容
+feature: Dynamic Content
 topics: Email Channel
 kt: 5921
 thumbnail: 24925.jpg

@@ -1,7 +1,7 @@
 ---
 title: 创建直邮投放
 description: 了解如何创建、格式化和执行直邮投放。
-feature: 直邮
+feature: Direct Mail
 topics: null
 kt: 3859
 thumbnail: 21377.jpg

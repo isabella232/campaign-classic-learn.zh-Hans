@@ -3,15 +3,15 @@ title: 向允许列表添加 IP 地址
 seo-title: 向允许列表添加 IP 地址
 description: 了解如何向Campaign Classic实例的允许列表添加IP范围，以及如何使用控制面板从允许列表中删除它们。
 seo-description: 以下视频介绍如何通过将 IP 地址范围添加到允许列表来设置实例的新连接。
-feature: 控制面板
+feature: Control Panel
 topics: null
 kt: 3479
 thumbnail: 28726.jpg
 doc-type: feature video
 activity: use
 team: PM
-role: 管理员
-level: 富有经验
+role: Administrator
+level: Experienced
 original-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/administrating/control-panel-acc/ip-whitelisting.html,https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/administrating/control-panel-acc/ip-allow-listing.html
 translation-type: tm+mt
 source-git-commit: 8847c322c63adb23ea33679714336d0aaac20100

@@ -1,7 +1,7 @@
 ---
 title: 如何使用对照组
 description: 了解对照组的概念以及如何将对照组用于投放。
-feature: 对照组
+feature: Control Groups
 kt: 5085
 thumbnail: 330955.jpg
 doc-type: feature video

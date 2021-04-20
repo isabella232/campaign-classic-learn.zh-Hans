@@ -2,7 +2,7 @@
 title: 创建和管理用户档案
 description: 了解如何访问个人资料数据、对个人资料进行排序和筛选以及手动创建和管理个人资料。了解对一般数据保护条例 (GDPR) 和加州消费者隐私权法案 (CCPA) 的合规性。
 landing-page-description: 了解用户档案的概念。了解如何访问个人资料数据、对个人资料进行排序和筛选以及手动创建和管理个人资料。了解 GDPR 和 CCPA。
-feature: 用户档案
+feature: Profiles
 topics: null
 kt: 5081
 thumbnail: 35611.jpg

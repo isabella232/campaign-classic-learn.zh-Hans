@@ -1,7 +1,7 @@
 ---
 title: 从活动创建电子邮件
 description: 了解如何直接从营销活动创建电子邮件进行投放。
-feature: 电子邮件
+feature: Email
 topics: null
 kt: 2172
 thumbnail: 25604.jpg

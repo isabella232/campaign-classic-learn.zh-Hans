@@ -1,7 +1,7 @@
 ---
 title: 个性化电子邮件 - 使用条件内容创建多语言新闻稿
 description: 阅读多语言新闻稿示例，了解如何向投放添加条件内容。
-feature: 动态内容
+feature: Dynamic Content
 topics: Email Channel
 kt: 5922
 thumbnail: 24926.jpg

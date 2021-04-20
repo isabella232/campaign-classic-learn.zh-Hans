@@ -1,15 +1,15 @@
 ---
 title: 通过组合查询结果优化目标
 description: 了解如何通过使用交叉点或目标活动将查询结果组合到工作流中来优化合并。
-feature: 工作流，定位活动,查询编辑器
+feature: Workflows, Targeting Activity, Query Editor
 topics: Targeting Activities
 kt: 5547
 thumbnail: 36832.jpg
 doc-type: feature video
 activity: use
 team: WWFRE
-role: 业务从业者
-level: 初学者
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: 8f06f533afc34b4bcf7fcc690c1b9ab5cafcef4a
 workflow-type: tm+mt

@@ -1,7 +1,7 @@
 ---
 title: 如何创建和设计电子邮件投放
 description: 了解创建电子邮件投放的过程，并了解如何设计和个性化电子邮件内容。
-feature: 电子邮件、电子邮件设计、个性化
+feature: Email, Email Design, Personalization
 topics: null
 kt: 6824
 thumbnail: 330941.jpg

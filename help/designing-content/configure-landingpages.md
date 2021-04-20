@@ -1,15 +1,15 @@
 ---
 title: 如何在Adobe Campaign Classic中配置登陆页
 description: 了解如何通过创建首选项中心来导航Web应用程序编辑器。
-feature: 登陆页面
+feature: Landing Pages
 topics: Configure
 kt: 1562
 thumbnail: 25041.jpg
 doc-type: feature video
 activity: setup
 team: DOC
-role: 开发人员、管理员
-level: 初学者
+role: Developer, Administrator
+level: Beginner
 translation-type: tm+mt
 source-git-commit: 8f06f533afc34b4bcf7fcc690c1b9ab5cafcef4a
 workflow-type: tm+mt

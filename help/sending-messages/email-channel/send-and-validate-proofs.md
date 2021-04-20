@@ -1,7 +1,7 @@
 ---
 title: 如何发送并确认验证
 description: 了解如何发送并确认验证。
-feature: 电子邮件、验证
+feature: Email, Proofs
 kt: 5094
 thumbnail: 330945.jpg
 doc-type: feature video

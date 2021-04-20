@@ -1,7 +1,7 @@
 ---
 title: Adobe Campaign Classic 简介
 description: 了解 Adobe Campaign Classic 如何融入 Adobe 数字体验产品组合，并概述其主要特性和功能。
-feature: 概述
+feature: Overview
 topics: Getting started
 kt: 5457
 thumbnail: 35129.jpg

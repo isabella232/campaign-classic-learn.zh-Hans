@@ -1,14 +1,14 @@
 ---
 title: 故障排除控制面板
 description: 该控制面板允许您按实例监测和管理 SFTP 存储以及将 IP 地址添加到允许列表。
-feature: 控制面板
+feature: Control Panel
 topics: Control Panel
 kt: 2938
 doc-type: article
 activity: use
 team: PM
-role: 管理员
-level: 富有经验
+role: Administrator
+level: Experienced
 original-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/administrating/control-panel-acc/trouble-shooting.html
 translation-type: tm+mt
 source-git-commit: 8847c322c63adb23ea33679714336d0aaac20100

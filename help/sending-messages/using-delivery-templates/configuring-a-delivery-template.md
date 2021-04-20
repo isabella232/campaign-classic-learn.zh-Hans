@@ -1,15 +1,15 @@
 ---
 title: 在Adobe Campaign Classic中配置投放模板
 description: 了解如何为临时投放配置模板。
-feature: 投放模板
+feature: Delivery Templates
 topics: Templates
 kt: 1980
 thumbnail: 24066.jpg
 doc-type: feature video
 activity: use
 team: TM
-role: 管理员
-level: 初学者
+role: Administrator
+level: Beginner
 original-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/sending-messages/delivery-template-configuration.html
 translation-type: tm+mt
 source-git-commit: 8847c322c63adb23ea33679714336d0aaac20100

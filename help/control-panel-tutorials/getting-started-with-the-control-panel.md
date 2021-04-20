@@ -1,14 +1,14 @@
 ---
 title: 控制面板入门
 description: 了解如何访问控制面板，以及使用控制面板所需的先决条件。
-feature: 控制面板
+feature: Control Panel
 kt: 6388
 thumbnail: kt-6385.jpg
 doc-type: feature video
 activity: setup
 team: TM
-role: 管理员
-level: 富有经验
+role: Administrator
+level: Experienced
 translation-type: tm+mt
 source-git-commit: 2232079c569a46325807befd04ea91d2a64e1597
 workflow-type: tm+mt

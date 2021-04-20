@@ -1,7 +1,7 @@
 ---
 title: 配置和管理订阅服务
 description: 了解如何设置和管理订阅和目标订阅者。
-feature: '订阅     '
+feature: Subscriptions     
 topics: null
 kt: 5088
 thumbnail: 329941.jpg

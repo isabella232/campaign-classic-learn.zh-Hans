@@ -1,15 +1,15 @@
 ---
 title: 访问内置报告
 description: 了解内置报告和分析，并了解如何生成投放报告。
-feature: 报告
+feature: Reporting
 topics: null
 kt: 5090
 thumbnail: 329935.jpg
 doc-type: feature video
 activity: use
 team: WWFRE
-role: 业务从业者
-level: 初学者
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: 8f06f533afc34b4bcf7fcc690c1b9ab5cafcef4a
 workflow-type: tm+mt

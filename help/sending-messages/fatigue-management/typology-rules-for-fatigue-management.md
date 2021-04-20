@@ -1,14 +1,14 @@
 ---
 title: 如何使用Adobe Campaign Classic中的类型规则设置疲劳管理
 description: 了解如何利用类型规则来实施疲劳管理。
-feature: 疲劳管理
+feature: Fatigue Management
 topics: null
 kt: 1564
 doc-type: feature video
 activity: use
 team: TM
-role: 业务从业者
-level: 初学者
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: a16eb6d92ca40a1188e1ba6730bc28c2fb8358ce
 workflow-type: tm+mt

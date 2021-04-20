@@ -1,15 +1,15 @@
 ---
 title: 生成描述性分析报告
 description: 了解如何根据 Adobe Campaign Classic 中的工作流程生成描述性分析报告。
-feature: 报告
+feature: Reporting
 topics: null
 kt: 5079
 thumbnail: 35616.jpg
 doc-type: feature video
 activity: use
 team: WWFRE
-role: 业务从业者
-level: 初学者
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: a16eb6d92ca40a1188e1ba6730bc28c2fb8358ce
 workflow-type: tm+mt

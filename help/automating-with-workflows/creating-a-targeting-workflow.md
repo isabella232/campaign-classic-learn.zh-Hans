@@ -1,14 +1,14 @@
 ---
 title: 创建定位工作流
 description: 了解如何使用定位投放定义多个目标工作流。
-feature: 工作流，定位活动,查询编辑器
+feature: Workflows, Targeting Activity, Query Editor
 topics: Targeting Activities
 kt: 2174
 doc-type: feature video
 activity: use
 team: DOC
-role: 业务从业者
-level: 初学者
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: 8f06f533afc34b4bcf7fcc690c1b9ab5cafcef4a
 workflow-type: tm+mt

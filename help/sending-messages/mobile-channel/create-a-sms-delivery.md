@@ -1,7 +1,7 @@
 ---
 title: 如何创建SMS投放
 description: 了解如何创建SMS投放。
-feature: 短信
+feature: SMS
 kt: 5083
 thumbnail: 330982.jpg
 doc-type: feature video

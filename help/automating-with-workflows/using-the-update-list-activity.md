@@ -1,15 +1,15 @@
 ---
 title: 使用更新列表活动通过工作流创建列表
 description: 了解如何通过对工作流应用标准排除来优化目标。 您还将学习如何创建预定义过滤器以及如何难以拍摄您的工作流。
-feature: 工作流，定位活动,查询编辑器
+feature: Workflows, Targeting Activity, Query Editor
 topics: Targeting Activities
 kt: 5078
 thumbnail: 35620.jpg
 doc-type: feature video
 activity: use
 team: WWFRE
-role: 业务从业者
-level: 初学者
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: 8f06f533afc34b4bcf7fcc690c1b9ab5cafcef4a
 workflow-type: tm+mt

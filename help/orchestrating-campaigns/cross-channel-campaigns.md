@@ -1,7 +1,7 @@
 ---
 title: 创建多渠道活动
 description: 了解如何创建多渠道活动。
-feature: 工作流
+feature: Workflows
 kt: 7018
 thumbnail: 330990.jpg
 doc-type: feature video

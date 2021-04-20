@@ -1,7 +1,7 @@
 ---
 title: 监视数据库
 description: 了解如何监视实例的数据库使用情况。
-feature: 控制面板
+feature: Control Panel
 topics: Control Panel
 kt: 6434
 thumbnail: 327175.jpg
@@ -9,8 +9,8 @@ doc-type: feature video
 audience: administrator
 activity: use
 team: TM
-role: 管理员
-level: 富有经验
+role: Administrator
+level: Experienced
 translation-type: tm+mt
 source-git-commit: a16eb6d92ca40a1188e1ba6730bc28c2fb8358ce
 workflow-type: tm+mt

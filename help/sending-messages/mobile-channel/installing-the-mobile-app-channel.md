@@ -1,15 +1,15 @@
 ---
 title: 安装移动应用程序渠道
 description: 了解如何检查实例中是否安装了移动应用程序渠道以及如何安装。
-feature: 推送
+feature: Push
 topics: mobile channels
 kt: 6438
 thumbnail: 326544.jpg
 doc-type: feature video
 activity: setup
 team: TM
-role: 管理员
-level: 初学者
+role: Administrator
+level: Beginner
 translation-type: tm+mt
 source-git-commit: a16eb6d92ca40a1188e1ba6730bc28c2fb8358ce
 workflow-type: tm+mt

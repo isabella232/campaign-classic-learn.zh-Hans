@@ -1,7 +1,7 @@
 ---
 title: 如何在设计电子邮件时确保可投放性？
 description: 了解如何应用可投放性最佳实践。
-feature: 电子邮件、可投放性
+feature: Email, Deliverability
 topics: null
 kt: 5095
 thumbnail: 330943.jpg

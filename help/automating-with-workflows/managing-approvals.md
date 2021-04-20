@@ -1,15 +1,15 @@
 ---
 title: 在活动中管理批准
 description: 了解如何设置审批和活动，以及如何区分投放和工作流审批。
-feature: 工作流，批准
+feature: Workflows, Approvals
 topics: null
 kt: 5093
 thumbnail: 329605.jpg
 doc-type: feature video
 activity: use
 team: WWFRE
-role: 业务从业者
-level: 初学者
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: a16eb6d92ca40a1188e1ba6730bc28c2fb8358ce
 workflow-type: tm+mt

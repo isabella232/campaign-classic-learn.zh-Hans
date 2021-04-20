@@ -1,15 +1,15 @@
 ---
 title: 创建多渠道活动
 description: 了解如何利用电子邮件、短信和直邮投放创建多渠道营销活动。
-feature: 工作流
+feature: Workflows
 topics: null
 kt: 1563
 thumbnail: 24981.jpg
 doc-type: feature video
 activity: use
 team: TM
-role: 业务从业者
-level: 初学者
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: 8847c322c63adb23ea33679714336d0aaac20100
 workflow-type: tm+mt
