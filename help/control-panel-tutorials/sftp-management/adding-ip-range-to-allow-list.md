@@ -1,8 +1,7 @@
 ---
 title: '向允许列表添加 IP 范围 '
 description: 了解如何向允许列表添加IP地址范围。
-feature: Control Panel
-topics: Control Panel
+feature: 控制面板
 kt: 6430
 thumbnail: 41775.jpg
 doc-type: feature video
@@ -11,14 +10,14 @@ activity: use
 team: PM
 role: Administrator
 level: Experienced
+exl-id: 16e4f5ed-fd1f-400d-8010-2c1612399596
 translation-type: tm+mt
-source-git-commit: a16eb6d92ca40a1188e1ba6730bc28c2fb8358ce
+source-git-commit: 137d1e0c36d038f3fb8a4742bafef6fbac96f41d
 workflow-type: tm+mt
-source-wordcount: '96'
-ht-degree: 21%
+source-wordcount: '94'
+ht-degree: 22%
 
 ---
-
 
 # 向允许列表添加 IP 范围
 
