@@ -1,16 +1,15 @@
 ---
 title: 故障排除控制面板
 description: 该控制面板允许您按实例监测和管理 SFTP 存储以及将 IP 地址添加到允许列表。
-feature: Control Panel
-topics: Control Panel
+feature: 控制面板
 kt: 2938
 doc-type: article
 activity: use
 team: PM
 translation-type: tm+mt
-source-git-commit: fe3d8945922aa1a2b78772cf0a033976b67b85a5
+source-git-commit: 137d1e0c36d038f3fb8a4742bafef6fbac96f41d
 workflow-type: tm+mt
-source-wordcount: '339'
+source-wordcount: '341'
 ht-degree: 100%
 
 ---
