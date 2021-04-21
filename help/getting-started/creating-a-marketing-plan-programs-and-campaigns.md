@@ -1,8 +1,7 @@
 ---
 title: 如何创建营销计划、项目和活动
 description: 了解 Adobe Campaign 的主要概念，帮助有效规划、执行和衡量跨渠道营销活动。
-feature: Campaigns
-topics: Getting started
+feature: 营销活动
 kt: 5347
 thumbnail: 35132.jpg
 doc-type: feature video
@@ -10,14 +9,14 @@ activity: understand
 team: WWFRE
 role: Business Practitioner
 level: Beginner
+exl-id: b63431c6-d09a-49d1-9281-e1f260842b86
 translation-type: tm+mt
-source-git-commit: a16eb6d92ca40a1188e1ba6730bc28c2fb8358ce
+source-git-commit: 137d1e0c36d038f3fb8a4742bafef6fbac96f41d
 workflow-type: tm+mt
-source-wordcount: '71'
-ht-degree: 73%
+source-wordcount: '68'
+ht-degree: 86%
 
 ---
-
 
 # 创建营销计划、项目和活动
 
