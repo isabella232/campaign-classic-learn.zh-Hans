@@ -1,8 +1,7 @@
 ---
 title: 工作流热图
 description: 了解如何监测实例上的负载并相应地规划工作流。
-feature: Heatmap
-topics: Monitoring and Guardrails
+feature: 热图
 kt: 2093
 doc-type: feature video
 activity: understand
@@ -10,9 +9,9 @@ team: PM
 role: Administrator
 level: Beginner
 exl-id: b6d0d4b2-3b76-4e14-ba80-c0f370274b04
-translation-type: ht
-source-git-commit: 298d3745a32d4509a82295be851f6e390f33749a
-workflow-type: ht
+translation-type: tm+mt
+source-git-commit: 137d1e0c36d038f3fb8a4742bafef6fbac96f41d
+workflow-type: tm+mt
 source-wordcount: '169'
 ht-degree: 100%
 
