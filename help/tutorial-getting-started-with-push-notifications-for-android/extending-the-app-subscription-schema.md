@@ -1,8 +1,7 @@
 ---
 title: 扩展应用程序订阅模式以个性化推送通知
 description: 了解如何扩展应用程序订阅模式，以便能够存储活动从移动应用程序收到的个性化价值。
-feature: Push, Schema Extension
-topics: mobile channels
+feature: 推送，模式扩展
 kt: 6451
 thumbnail: 327306.jpg
 doc-type: feature video
@@ -10,14 +9,14 @@ activity: setup
 team: TM
 role: Administrator, Developer
 level: Experienced
+exl-id: 6cc1d83c-58a1-4c83-bb4c-8a6be4a12841
 translation-type: tm+mt
-source-git-commit: 8f06f533afc34b4bcf7fcc690c1b9ab5cafcef4a
+source-git-commit: 137d1e0c36d038f3fb8a4742bafef6fbac96f41d
 workflow-type: tm+mt
-source-wordcount: '95'
+source-wordcount: '92'
 ht-degree: 2%
 
 ---
-
 
 # 扩展[!UICONTROL app subscription]模式以个性化推送通知
 
