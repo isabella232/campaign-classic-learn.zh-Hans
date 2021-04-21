@@ -1,8 +1,7 @@
 ---
 title: 使用动态内容块个性化电子邮件
 description: 了解如何创建动态内容块以及如何使用它们个性化您的电子邮件投放内容。
-feature: Dynamic Content
-topics: Email Channel
+feature: 动态内容
 kt: 1559
 thumbnail: 24924
 doc-type: feature video
@@ -12,7 +11,7 @@ role: Administrator, Developer
 level: Beginner
 exl-id: 0f49c286-ebb7-419d-98ab-89a8c0772636
 translation-type: tm+mt
-source-git-commit: 15811ffa49770a8cc5ff59c8f477029c96425074
+source-git-commit: 137d1e0c36d038f3fb8a4742bafef6fbac96f41d
 workflow-type: tm+mt
 source-wordcount: '149'
 ht-degree: 67%
