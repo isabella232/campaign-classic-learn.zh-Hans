@@ -1,26 +1,25 @@
 ---
-title: 电子邮件投放活动与Adobe Campaign Classic投放活动
+title: 电子邮件投放活动与Adobe Campaign Classic中的投放活动
 description: 此视频介绍如何配置和使用投放模板。
-feature: Delivery Templates
-topics: Templates
+feature: 投放模板
 kt: 3232
 doc-type: feature video
 activity: use
 team: TM
 translation-type: tm+mt
-source-git-commit: 838c617ca163a09fcb57b7b4706433e98869bc3d
+source-git-commit: 137d1e0c36d038f3fb8a4742bafef6fbac96f41d
 workflow-type: tm+mt
-source-wordcount: '133'
-ht-degree: 9%
+source-wordcount: '135'
+ht-degree: 8%
 
 ---
 
 
 # 电子邮件投放活动与投放活动
 
-[!UICONTROL Delivery-type activity]允许您创建投放操作。 它可以使用输入元素来构建。
+[!UICONTROL Delivery-type activity]允许您创建投放操作。 它可以用输入元素来构造。
 
-此视频介绍如何部署电子邮件投放模板。 它解释了电子邮件投放和投放工作流程之间的区别。
+此视频介绍如何部署电子邮件投放模板。 它解释了电子邮件投放与投放工作流之间的区别。
 
 >[!VIDEO](https://video.tv.adobe.com/v/24065?quality=12)
 
