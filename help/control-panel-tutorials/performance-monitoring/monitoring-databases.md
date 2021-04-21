@@ -1,8 +1,7 @@
 ---
-title: 监视数据库
-description: 了解如何监视实例的数据库使用情况。
-feature: Control Panel
-topics: Control Panel
+title: 监测数据库
+description: 了解如何监测实例的数据库使用情况。
+feature: 控制面板
 kt: 6434
 thumbnail: 327175.jpg
 doc-type: feature video
@@ -11,23 +10,23 @@ activity: use
 team: TM
 role: Administrator
 level: Experienced
+exl-id: eefe2adc-d1f2-4d38-b93b-c38069f4acd4
 translation-type: tm+mt
-source-git-commit: a16eb6d92ca40a1188e1ba6730bc28c2fb8358ce
+source-git-commit: 137d1e0c36d038f3fb8a4742bafef6fbac96f41d
 workflow-type: tm+mt
-source-wordcount: '90'
-ht-degree: 20%
+source-wordcount: '88'
+ht-degree: 100%
 
 ---
 
+# 监测数据库
 
-# 监视数据库
+您的 Campaign 实例的所有资源、工作流程和数据都存储在数据库中。数据库达到最大容量可能会导致实例出现问题（无法登录、无法发送电子邮件等）。因此，定期监测实例的数据库是确保理想性能的关键。
 
-您的活动实例的所有资源、工作流和数据都存储在数据库中。 达到最大容量的数据库可能会导致实例出现问题（无法登录、发送电子邮件等）。 因此，定期监控实例的数据库是确保最佳性能的关键。
-
-了解如何使用[!DNL Control Panel]监视实例的数据库使用情况。
+了解如何使用[!DNL Control Panel]监测实例的数据库使用情况。
 
 >[!VIDEO](https://video.tv.adobe.com/v/327175?quality=12)
 
 ## 其他资源
 
-* [数据库监控（指南）](https://experienceleague.adobe.com/docs/control-panel/using/performance-monitoring/database-monitoring.html?lang=en#performance-monitoring)
+* [数据库监测（指南）](https://experienceleague.adobe.com/docs/control-panel/using/performance-monitoring/database-monitoring.html?lang=zh-Hans#performance-monitoring)
