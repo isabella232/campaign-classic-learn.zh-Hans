@@ -1,22 +1,21 @@
 ---
 title: Adobe Campaign Classic中的数据分段
 description: '了解整合式客户用户档案，如何创建和更新用户档案，以及如何根据这些用户档案创建客户细分。 '
-feature: Profiles, Data Management Activity
-topics: Data Management
+feature: 用户档案,数据管理活动
 kt: 1656
 doc-type: feature video
 activity: use
 team: evangelist
 role: Business Practitioner
 level: Beginner
+exl-id: d31023ca-aa81-4a65-a4c7-ddbf0d0a4a99
 translation-type: tm+mt
-source-git-commit: 8f06f533afc34b4bcf7fcc690c1b9ab5cafcef4a
+source-git-commit: 137d1e0c36d038f3fb8a4742bafef6fbac96f41d
 workflow-type: tm+mt
-source-wordcount: '310'
-ht-degree: 1%
+source-wordcount: '307'
+ht-degree: 4%
 
 ---
-
 
 # 数据细分
 
@@ -45,4 +44,4 @@ Adobe Campaign的集成客户用户档案使营销人员能够大规模捕获和
 ## 其他资源 {#additional-resources}
 
 * [定位数据](https://docs.adobe.com/content/help/en/campaign-classic/using/automating-with-workflows/general-operation/targeting-data.html)
-* [工作流程最佳实践](https://docs.adobe.com/content/help/en/campaign-classic/using/automating-with-workflows/general-operation/workflow-best-practices.html)
+* [工作流程最佳实践](https://docs.adobe.com/content/help/zh-Hans/campaign-classic/using/automating-with-workflows/general-operation/workflow-best-practices.html)
