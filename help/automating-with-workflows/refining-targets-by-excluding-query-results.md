@@ -1,8 +1,7 @@
 ---
 title: 通过排除查询结果优化目标
 description: 了解如何通过对工作流应用标准排除来优化目标。 您还将学习如何创建预定义过滤器以及如何难以拍摄您的工作流。
-feature: Workflows, Targeting Activity, Query Editor
-topics: Targeting Activities
+feature: 工作流，定位活动,查询编辑器
 kt: 5548
 thumbnail: 36826.jpg
 doc-type: feature video
@@ -10,14 +9,14 @@ activity: use
 team: WWFRE
 role: Business Practitioner
 level: Beginner
+exl-id: 4322a36c-9550-4b94-a742-b02f52c523c2
 translation-type: tm+mt
-source-git-commit: 8f06f533afc34b4bcf7fcc690c1b9ab5cafcef4a
+source-git-commit: 137d1e0c36d038f3fb8a4742bafef6fbac96f41d
 workflow-type: tm+mt
-source-wordcount: '145'
-ht-degree: 32%
+source-wordcount: '142'
+ht-degree: 33%
 
 ---
-
 
 # 通过排除查询结果优化目标
 
