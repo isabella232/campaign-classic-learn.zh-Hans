@@ -1,8 +1,7 @@
 ---
 title: 如何在工作流中目标用户档案
 description: 了解活动工作流的使用，了解如何使用过滤条件在工作流中创建工作流和目标用户档案。
-feature: Workflows
-topics: Targeting Activities
+feature: 工作流
 kt: 5080
 thumbnail: 35614.jpg
 doc-type: feature video
@@ -10,14 +9,14 @@ activity: use
 team: WWFRE
 role: Business Practitioner
 level: Beginner
+exl-id: c078146c-f59c-4de6-90de-4f5c6e31c096
 translation-type: tm+mt
-source-git-commit: a16eb6d92ca40a1188e1ba6730bc28c2fb8358ce
+source-git-commit: 137d1e0c36d038f3fb8a4742bafef6fbac96f41d
 workflow-type: tm+mt
-source-wordcount: '135'
-ht-degree: 30%
+source-wordcount: '132'
+ht-degree: 31%
 
 ---
-
 
 # 在工作流中定位用户档案
 
