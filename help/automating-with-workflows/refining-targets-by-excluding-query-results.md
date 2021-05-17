@@ -10,10 +10,9 @@ team: WWFRE
 role: Business Practitioner
 level: Beginner
 exl-id: 4322a36c-9550-4b94-a742-b02f52c523c2
-translation-type: tm+mt
-source-git-commit: 137d1e0c36d038f3fb8a4742bafef6fbac96f41d
+source-git-commit: 3757eaf573dab5139bad084b664475c6a7de4b02
 workflow-type: tm+mt
-source-wordcount: '142'
+source-wordcount: '134'
 ht-degree: 33%
 
 ---
@@ -28,9 +27,9 @@ ht-degree: 33%
 
 文档：
 
-* [关于工作流](https://docs.adobe.com/content/help/en/campaign-classic/using/automating-with-workflows/introduction/about-workflows.html)
-* [排除](https://docs.adobe.com/content/help/en/campaign-classic/using/automating-with-workflows/targeting-activities/exclusion.html)
-* [监控工作流执行](https://docs.adobe.com/content/help/en/campaign-classic/using/automating-with-workflows/monitoring-workflows/monitoring-workflow-execution.html)
+* [关于工作流](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/introduction/about-workflows.html)
+* [交集](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/targeting-activities/intersection.html)
+* [并集](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/targeting-activities/union.html)
 
 教程:
 
