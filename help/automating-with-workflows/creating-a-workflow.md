@@ -9,11 +9,10 @@ team: DOC
 role: Business Practitioner
 level: Beginner
 exl-id: 0f2a5be5-54e1-4ed3-b154-b87a91cd16a2
-translation-type: tm+mt
-source-git-commit: 137d1e0c36d038f3fb8a4742bafef6fbac96f41d
+source-git-commit: 3757eaf573dab5139bad084b664475c6a7de4b02
 workflow-type: tm+mt
-source-wordcount: '186'
-ht-degree: 29%
+source-wordcount: '201'
+ht-degree: 27%
 
 ---
 
@@ -32,3 +31,7 @@ Adobe Campaign使用工作流:
 此视频介绍如何在Adobe Campaign Classic中创建工作流。
 
 >[!VIDEO](https://video.tv.adobe.com/v/25559?quality=12)
+
+## 其他资源
+
+* [工作流入门（文档）](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/introduction/about-workflows.html)
