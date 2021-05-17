@@ -13,10 +13,9 @@ team: TM
 role: Business Practitioner
 level: Experienced
 exl-id: 34fbb91d-ae99-497c-872e-55ce2e6ea2aa
-translation-type: tm+mt
-source-git-commit: 137d1e0c36d038f3fb8a4742bafef6fbac96f41d
+source-git-commit: 3757eaf573dab5139bad084b664475c6a7de4b02
 workflow-type: tm+mt
-source-wordcount: '336'
+source-wordcount: '335'
 ht-degree: 0%
 
 ---
@@ -27,7 +26,7 @@ Adobe Campaign优惠了多种选项，供营销人员查看和提供投放内容
 
 本教程介绍如何配置不同的批准验证工作流。
 
-## 先决条件{#prerequisite}
+## 先决条件 {#prerequisite}
 
 在启用审批步骤之前，营销团队必须定义各个审阅者：
 
@@ -52,4 +51,4 @@ Adobe Campaign优惠了多种选项，供营销人员查看和提供投放内容
 
 >[!VIDEO](https://video.tv.adobe.com/v/25174?quality=12)
 
-有关详细信息，请参阅[批准文档](https://docs.adobe.com/help/en/campaign-classic/using/automating-with-workflows/flow-control-activities/approval.html)
+有关详细信息，请参阅[批准文档](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/flow-control-activities/approval.html)
