@@ -10,10 +10,9 @@ team: DOC
 role: Developer, Administrator
 level: Beginner
 exl-id: d14d0b67-dcc7-4cc8-b507-9ce389234c09
-translation-type: tm+mt
-source-git-commit: 137d1e0c36d038f3fb8a4742bafef6fbac96f41d
+source-git-commit: 528fe71f02c584d5b8a48b40b3266fecc837f310
 workflow-type: tm+mt
-source-wordcount: '91'
+source-wordcount: '87'
 ht-degree: 2%
 
 ---
@@ -26,4 +25,4 @@ Adobe Campaign Classic使您能够在其服务器上设计和托管各种登陆�
 
 >[!VIDEO](https://video.tv.adobe.com/v/25041?quality=12)
 
-有关详细信息，请参阅有关[创建登陆页](https://docs.adobe.com/content/help/en/campaign-classic/using/designing-content/editing-html-content/creating-a-landing-page.html)的详细文档。
+有关详细信息，请参阅有关[创建登陆页](https://experienceleague.adobe.com/docs/campaign-classic/using/designing-content/editing-html-content/creating-a-landing-page.html)的详细文档。
