@@ -10,18 +10,22 @@ team: TM
 role: Administrator, Developer
 level: Beginner
 exl-id: 0f49c286-ebb7-419d-98ab-89a8c0772636
-source-git-commit: 748455765298c639357c8b463f5da8e23bdb7800
+source-git-commit: b668dc4f6568be3d239c93fef50132acb26cb40c
 workflow-type: tm+mt
-source-wordcount: '124'
-ht-degree: 34%
+source-wordcount: '147'
+ht-degree: 50%
 
 ---
 
-# 使用个性化字段个性化电子邮件
 
-个性化字段用于投放消息内容的一级个性化。在主内容中插入的字段显示从选定数据源插入数据的位置。
+# 使用动态内容块个性化电子邮件
 
-了解如何将个性化字段添加到主题行和电子邮件投放的内容。
+在 Adobe Campaign 中，您可以个性化内容或消息的外观，并将它们与收件人用户档案的条件相结合。
+
+个性化基块是动态的、个性化的，并包含可添加到投放的特定呈现代码。 例如，您可以添加图像、电子邮件页眉、电子邮件页脚、镜像页面链接、退订链接等。
+
+了解如何创建动态内容块以及如何使用它们个性化您的电子邮件投放内容。
+
 
 >[!VIDEO](https://video.tv.adobe.com/v/24924?quality=12)
 
