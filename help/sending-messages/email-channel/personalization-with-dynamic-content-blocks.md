@@ -10,7 +10,7 @@ team: TM
 role: Administrator, Developer
 level: Beginner
 exl-id: 0f49c286-ebb7-419d-98ab-89a8c0772636
-source-git-commit: 24d2e2e760200d7311a638506f394b78edd118a5
+source-git-commit: 3687dd91016602f595c606d21a4905ff28b91b1a
 workflow-type: tm+mt
 source-wordcount: '146'
 ht-degree: 43%
@@ -34,7 +34,7 @@ ht-degree: 43%
 文档：
 
 * [关于个性化](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/personalizing-deliveries/about-personalization.html)
-* ([个性化块](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/personalizing-deliveries/personalization-blocks.html)
+* [个性化块](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/personalizing-deliveries/personalization-blocks.html)
 
 视频教程:
 
