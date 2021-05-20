@@ -4,12 +4,11 @@ user-guide-description: 了解如何在控制面板中监测您的 Adobe Campaig
 breadcrumb-title: 控制面板教程
 breadcrumb-url: /docs/campaign-classic-learn/control-panel/control-panel-overview.html
 index: true
-feature: Control Panel
+feature: 控制面板
 role: Administrator
 level: Experienced
-translation-type: tm+mt
 source-git-commit: 963cd6dd61c8678aece3d639f72db4c100bcbbdc
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '125'
 ht-degree: 100%
 
@@ -39,5 +38,5 @@ ht-degree: 100%
       + [使用 GPG 密钥加密数据](/help/control-panel-tutorials/instance-settings/gpg-key-management/using-a-gpg-key-to-encrypt-data.md)
       + [解密数据](/help/control-panel-tutorials/instance-settings/gpg-key-management/decrypting-data.md)
 + 性能监控 {#performance-monitoring}
-   + [监视数据库](/help/control-panel-tutorials/performance-monitoring/monitoring-databases.md)
+   + [监测数据库](/help/control-panel-tutorials/performance-monitoring/monitoring-databases.md)
 + [控制面板故障排除](/help/control-panel-tutorials/trouble-shooting.md)
