@@ -13,18 +13,18 @@ team: TM
 role: Business Practitioner, Developer
 level: Experienced
 exl-id: a8e60b8f-48a6-4ef7-9d4e-994241ff2d97
-source-git-commit: 84d5dd568b0d8bae2ad97676f1eb1a312c0ff01e
+source-git-commit: 57ca0ea806c14c148d67e4f9b609764dfaec80db
 workflow-type: tm+mt
-source-wordcount: '161'
+source-wordcount: '153'
 ht-degree: 1%
 
 ---
 
 # 如何配置扩充活动
 
-扩充活动是允许用户向工作表添加数据的工作流对象。 通过扩充，您可以向该表添加列以保存附加数据，或定义从工作表到其他现有数据的新链接。
+扩充活动是向工作表添加数据的工作流对象。 利用扩充活动，可向表格添加列，以存储附加数据或定义指向其他现有数据的新链接。
 
-此视频介绍如何根据投放日志信息配置扩充活动。
+了解如何根据投放日志信息配置扩充活动。
 
 >[!VIDEO](https://video.tv.adobe.com/v/25193?quality=12)
 
