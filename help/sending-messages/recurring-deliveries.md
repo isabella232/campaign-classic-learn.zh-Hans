@@ -1,6 +1,6 @@
 ---
-title: 如何设置循环和连续的电子邮件活动
-description: 了解如何设置循环和连续投放并了解两种方法之间的差异。
+title: 如何设置定期和连续的电子邮件促销活动
+description: 了解如何设置定期和连续投放，并了解两种方法之间的差异。
 feature: 工作流
 kt: 1560
 doc-type: feature video
@@ -9,44 +9,43 @@ team: TM
 role: Business Practitioner
 level: Beginner
 exl-id: 42f2a7e6-7d88-473b-b913-fe09b7016b28
-translation-type: tm+mt
-source-git-commit: 137d1e0c36d038f3fb8a4742bafef6fbac96f41d
+source-git-commit: 5fb898eca821c5078393003c41032801f8454fd5
 workflow-type: tm+mt
-source-wordcount: '267'
+source-wordcount: '268'
 ht-degree: 6%
 
 ---
 
-# 如何设置循环和连续的电子邮件活动
+# 如何设置定期和连续的电子邮件促销活动
 
-本教程介绍如何设置循环和连续投放，以及两种方法之间的差异。
+本教程介绍如何设置定期和连续投放，以及这两种方法之间的差异。
 
-## 循环和连续投放跟踪{#recurring-and-continuous-delivery-tracking}
+## 定期和连续投放跟踪{#recurring-and-continuous-delivery-tracking}
 
-循环投放和连续数据在管理联系数据的方式上有所不同：
+定期投放和连续投放在管理联系人数据的方式上有所不同：
 
-* **连续投放**&#x200B;允许您向现有投放添加新收件人，并避免您每次添加新收件人时都必须创建新投放。 您可以直接在活动工作流中更新创意，它将更新投放模板资源文件夹中的模板。
+* **连续投放**&#x200B;允许您向现有投放添加新收件人，并避免在每次添加新收件人时都创建新投放。 您可以直接在营销活动工作流中更新创作内容，它将在投放模板资源文件夹中更新模板。
 
-   连续投放将创建SINGLE投放和投放日志(broadLog)以及引用每次执行一个投放时添加一个的跟踪日志。
+   连续投放将创建单个投放和投放日志(broadLog)以及跟踪日志，这些日志引用每次执行一次投放时都添加一次投放。
 
-![连续投放](/help/assets/delivery_continuous.jpg)
+   ![连续投放](/help/assets/delivery_continuous.jpg)
 
-* 每次执行&#x200B;**循环投放**&#x200B;时，都将创建一个新投放实例。 例如，如果该工作流计划每周运行一次，则一年后将产生52个投放。 这也意味着，广义日志和跟踪日志将由每个投放实例分隔。
+* 每次执行&#x200B;**循环投放**&#x200B;时，都会创建一个新投放实例。 例如，如果工作流计划每周运行一次，则一年后将产生52次投放。 这也意味着广泛的日志和跟踪日志将由每个投放实例分隔。
 
-![循环投放](/help/assets/delivery_recurring.jpg)
+   ![定期投放](/help/assets/delivery_recurring.jpg)
 
 ## 如何设置循环投放 {#how-to-set-up-a-recurring-delivery}
 
-此视频介绍如何配置循环投放和调度程序活动。
+此视频介绍如何配置定期投放和调度程序活动。
 
 >[!VIDEO](https://video.tv.adobe.com/v/25040?quality=12)
 
 ## 如何设置连续投放 {#how-to-set-up-a-continuous-delivery}
 
-此视频演示如何使用增量投放配置连续查询。
+以下视频演示了如何使用增量查询配置连续投放。
 
 >[!VIDEO](https://video.tv.adobe.com/v/25039?quality=12)
 
 ## 其他资源
 
-[在定位工作流中创建重复投放](https://docs.adobe.com/content/help/en/campaign-classic/using/automating-with-workflows/use-cases/sending-a-birthday-email.html#creating-a-recurring-delivery-in-a-targeting-workflow)
+[在定位工作流中创建定期投放](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/use-cases/deliveries/sending-a-birthday-email.html?lang=en#creating-a-recurring-delivery-in-a-targeting-workflow)
