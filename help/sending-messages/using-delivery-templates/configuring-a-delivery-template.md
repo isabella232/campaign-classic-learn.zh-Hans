@@ -7,32 +7,31 @@ thumbnail: 24066.jpg
 doc-type: feature video
 activity: use
 team: TM
-role: Administrator
+role: Admin
 level: Beginner
 original-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/sending-messages/delivery-template-configuration.html
 exl-id: b4870f22-e7d7-4257-b073-71b92e53361f
-translation-type: tm+mt
-source-git-commit: 137d1e0c36d038f3fb8a4742bafef6fbac96f41d
+source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
 workflow-type: tm+mt
 source-wordcount: '178'
-ht-degree: 16%
+ht-degree: 92%
 
 ---
 
 # 配置投放模板
 
-营销部门会制作投放模板来标准化创意外观，以便更快地执行和启动活动。
+营销部门制作投放模板，以规范创意外观，能够更快地执行和启动活动。
 
 模板可以系统地包括：
 
-* 分类
+* 类型
 * 发件人和回复地址
-* 基本个性化块
-* 指向镜像页面和退订的链接
+* 基本的个性化块
+* 镜像页面和退订的链接
 * 内容、公司徽标或签名
-* 其他投放属性，如资源有效性、批数量……
+* 其他投放属性，如资源有效性、批次数量…
 
-以下视频演示如何为临时投放配置模板。
+以下视频演示了如何为临时投放配置模板。
 
 >[!VIDEO](https://video.tv.adobe.com/v/24066?quality=12)
 
@@ -45,7 +44,7 @@ ht-degree: 16%
 
 文档：
 
-* [关于模板](https://docs.campaign.adobe.com/doc/AC/en/DLV_Using_delivery_templates_About_templates.html)
-* [创建投放模板](https://docs.campaign.adobe.com/doc/AC/en/DLV_Using_delivery_templates_Creating_a_delivery_template.html)
-* [选择目标映射](https://docs.campaign.adobe.com/doc/AC/en/DLV_Using_delivery_templates_Selecting_a_target_mapping.html)
-* [从模板创建投放](https://docs.campaign.adobe.com/doc/AC/en/DLV_Using_delivery_templates_Creating_a_delivery_from_a_template.html)
+* [关于模板](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/using-delivery-templates/about-templates.html?lang=zh-Hans)
+* [创建投放模板](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/using-delivery-templates/creating-a-delivery-template.html?lang=zh-Hans)
+* [选择目标映射](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/using-delivery-templates/selecting-a-target-mapping.html?lang=zh-Hans)
+* [从模板创建投放](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/using-delivery-templates/creating-a-delivery-from-a-template.html?lang=zh-Hans)
