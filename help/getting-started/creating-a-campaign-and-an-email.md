@@ -1,5 +1,5 @@
 ---
-title: 从活动创建电子邮件
+title: 根据营销活动创建电子邮件
 description: 了解如何直接从营销活动创建电子邮件进行投放。
 feature: 电子邮件
 kt: 2172
@@ -7,18 +7,17 @@ thumbnail: 25604.jpg
 doc-type: feature video
 activity: use
 team: DOC
-role: Business Practitioner
+role: User
 level: Beginner
 exl-id: 89765be2-366d-45f8-8e1c-a192ecbb2694
-translation-type: tm+mt
-source-git-commit: 137d1e0c36d038f3fb8a4742bafef6fbac96f41d
+source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
 workflow-type: tm+mt
 source-wordcount: '51'
 ht-degree: 76%
 
 ---
 
-# 从活动创建电子邮件
+# 根据营销活动创建电子邮件
 
 了解如何直接从营销活动创建电子邮件进行投放。
 
