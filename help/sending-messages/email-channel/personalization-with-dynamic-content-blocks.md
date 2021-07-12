@@ -1,19 +1,19 @@
 ---
 title: 使用动态内容块个性化电子邮件
-description: 了解如何创建动态内容块以及如何使用它们个性化您的电子邮件投放内容。
+description: 了解如何创建动态内容块以及如何使用动态内容块将电子邮件投放内容个性化。
 feature: 动态内容
 kt: 1559
 thumbnail: 24924
 doc-type: feature video
 activity: use
 team: TM
-role: Administrator, Developer
+role: Admin, Developer
 level: Beginner
 exl-id: 0f49c286-ebb7-419d-98ab-89a8c0772636
-source-git-commit: 3687dd91016602f595c606d21a4905ff28b91b1a
+source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
 workflow-type: tm+mt
 source-wordcount: '146'
-ht-degree: 43%
+ht-degree: 88%
 
 ---
 
@@ -22,9 +22,9 @@ ht-degree: 43%
 
 在 Adobe Campaign 中，您可以个性化内容或消息的外观，并将它们与收件人用户档案的条件相结合。
 
-个性化基块是动态的、个性化的，并包含可添加到投放的特定呈现代码。 例如，您可以添加图像、电子邮件页眉、电子邮件页脚、镜像页面链接、退订链接等。
+个性化块是动态的、个性化的，并包含可添加到投放中的特定渲染代码。例如，您可以添加图像、电子邮件页眉、电子邮件页脚、镜像页面链接、退订链接等。
 
-了解如何创建动态内容块以及如何使用它们个性化您的电子邮件投放内容。
+了解如何创建动态内容块以及如何使用动态内容块将电子邮件投放内容个性化。
 
 
 >[!VIDEO](https://video.tv.adobe.com/v/24924?quality=12)
