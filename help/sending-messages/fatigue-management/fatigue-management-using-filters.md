@@ -1,25 +1,24 @@
 ---
-title: 使用压力规则管理营销疲劳
+title: 使用压力规则管理营销疲劳度
 description: 了解如何使用过滤器在Adobe Campaign Classic中实施疲劳管理。
 feature: 疲劳管理
 kt: 2148
 doc-type: feature video
 activity: use
 team: TM
-role: Business Practitioner, Developer, Administrator
+role: User, Developer, Admin
 level: Experienced
 exl-id: c6fcdaa9-75ae-4975-9463-ca32a2ae849a
-translation-type: tm+mt
-source-git-commit: 137d1e0c36d038f3fb8a4742bafef6fbac96f41d
+source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
 workflow-type: tm+mt
 source-wordcount: '103'
-ht-degree: 6%
+ht-degree: 25%
 
 ---
 
-# 使用预定义的过滤器设置疲劳管理
+# 使用预定义过滤器设置疲劳管理
 
-疲劳管理控制消息的频率和数量，以避免过度索取收件人。 如果您的活动实例中没有活动优化模块，您可以配置一个预定义的过滤器，该过滤器将按收到的消息数来过滤目标群。
+疲劳管理控制消息传送的频度和数量，以避免过度招徕收件人。如果您的促销活动实例中没有促销活动优化模块，则可以配置一个预定义过滤器，该过滤器将按收到的消息数过滤目标群体。
 
 此视频介绍如何使用过滤器在Adobe Campaign Classic中实施疲劳管理。
 
