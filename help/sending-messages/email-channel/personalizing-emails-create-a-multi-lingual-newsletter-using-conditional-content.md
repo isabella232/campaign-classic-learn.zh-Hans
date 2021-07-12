@@ -1,28 +1,27 @@
 ---
 title: 个性化电子邮件 - 使用条件内容创建多语言新闻稿
-description: 阅读多语言新闻稿示例，了解如何向投放添加条件内容。
+description: 了解如何在多语言新闻稿的示例中向投放添加条件内容。
 feature: 动态内容
 kt: 5922
 thumbnail: 24926.jpg
 doc-type: feature video
 activity: use
 team: TM
-role: Business Practitioner
+role: User
 level: Beginner
 exl-id: 080f5229-9eae-45b6-b0e0-13b4721ad79c
-translation-type: tm+mt
-source-git-commit: 137d1e0c36d038f3fb8a4742bafef6fbac96f41d
+source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
 workflow-type: tm+mt
 source-wordcount: '118'
-ht-degree: 62%
+ht-degree: 64%
 
 ---
 
 # 个性化电子邮件 - 使用条件内容创建多语言新闻稿
 
-通过配置条件内容字段，您可以创建高级个性化。当满足特定条件时，替换完整的文本块和/或图像。
+通过配置条件内容字段，您可以创建高级个性化。满足特定条件时可替换完整的文本块和/或图像。
 
-阅读多语言新闻稿示例，了解如何向投放添加条件内容。
+了解如何在多语言新闻稿的示例中向投放添加条件内容。
 
 >[!VIDEO](https://video.tv.adobe.com/v/24926?quality=12)
 
