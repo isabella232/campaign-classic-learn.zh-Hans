@@ -1,34 +1,33 @@
 ---
-title: 控制面板入门
-description: 了解如何访问控制面板，以及使用控制面板所需的先决条件。
-feature: Control Panel
+title: 控制面板快速入门
+description: 了解如何访问控制面板，以及使用控制面板的先决条件。
+feature: 控制面板
 kt: 6388
 thumbnail: kt-6385.jpg
 doc-type: feature video
 activity: setup
 team: TM
-role: Administrator
+role: Admin
 level: Experienced
-translation-type: tm+mt
-source-git-commit: 2232079c569a46325807befd04ea91d2a64e1597
+exl-id: 797a24fc-cd4d-447e-a8c7-275e57b75716
+source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
 workflow-type: tm+mt
-source-wordcount: '288'
-ht-degree: 34%
+source-wordcount: '286'
+ht-degree: 53%
 
 ---
 
-
-# [!UICONTROL Control Panel] {#control-panel}入门
+#  快速入门[!UICONTROL Control Panel] {#control-panel}
 
 >[!NOTE]
 >
-> 控制面板可供所有管理员用户访问。 授予用户管理员访问权限的步骤详见[产品文档](https://experienceleague.adobe.com/docs/control-panel/using/discover-control-panel/managing-permissions.html?lang=en#discover-control-panel)。
+> 所有管理员用户都可访问控制面板。[产品文档](https://experienceleague.adobe.com/docs/control-panel/using/discover-control-panel/managing-permissions.html?lang=zh-Hans#discover-control-panel)中详细描述了授予用户管理员访问权限的步骤。
 >
-> 请注意，您的实例必须托管在AWS上，并使用最新的[Gold Standard](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/gs-release/gs-overview.html)版本或最新的[GA版本(21.1)](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/latest-release.html?lang=en#release-notes)进行升级。 了解如何在[本节](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/starting-with-adobe-campaign/launching-adobe-campaign.html?lang=en#getting-your-campaign-version)中检查您的版本。 要检查您的实例是否托管在AWS上，请按照[本页](https://experienceleague.adobe.com/docs/control-panel/using/faq.html)中详细介绍的步骤操作。
+> 请注意，您的实例必须托管在AWS上，并升级为最新的[Gold Standard](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/gs-release/gs-overview.html?lang=zh-Hans)内部版本或最新的[GA内部版本(21.1)](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/latest-release.html?lang=en#release-notes)。 在[本节](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/starting-with-adobe-campaign/launching-adobe-campaign.html?lang=en#getting-your-campaign-version)中了解如何确认您的版本。要检查您的实例是否托管在 AWS 上，请按照[此页面](https://experienceleague.adobe.com/docs/control-panel/using/faq.html)中详述的步骤操作。
 
 [!UICONTROL Control Panel]允许Adobe Campaign管理员监视关键资产并执行管理任务，例如按实例管理[!DNL SFTP]存储、管理[!DNL GPG]键或[!UICONTROL subdomains]和[!UICONTROL certificates]。
 
-本文说明如何访问控制面板，以及使用控制面板所需的先决条件。
+本文介绍如何访问控制面板以及使用控制面板的先决条件。
 
 ## 访问 [!UICONTROL Control Panel]
 
@@ -63,4 +62,3 @@ ht-degree: 34%
 ## 其他资源
 
 * [控制面板帮助中心](https://docs.adobe.com/content/help/zh-Hans/control-panel/using/control-panel-home.html)
-
