@@ -1,25 +1,24 @@
 ---
 title: 电子邮件投放问题疑难解答
-description: 了解如何解决活动中的电子邮件投放问题。
+description: 了解如何对 Campaign 中的电子邮件投放问题进行故障诊断。
 feature: 电子邮件、可投放性
 kt: 5091
 thumbnail: 329920.jpg
 doc-type: feature video
 activity: understand
 team: WWFRE
-role: Business Practitioner
+role: User
 level: Beginner
 exl-id: a362a627-9812-4753-a5de-8eb97ea1b606
-translation-type: tm+mt
-source-git-commit: 137d1e0c36d038f3fb8a4742bafef6fbac96f41d
+source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
 workflow-type: tm+mt
 source-wordcount: '28'
-ht-degree: 35%
+ht-degree: 100%
 
 ---
 
 # 电子邮件投放问题疑难解答
 
-了解如何解决活动中的电子邮件投放问题。
+了解如何对 Campaign 中的电子邮件投放问题进行故障诊断。
 
 >[!VIDEO](https://video.tv.adobe.com/v/329920?quality=12)
