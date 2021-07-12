@@ -7,23 +7,23 @@ thumbnail: 35614.jpg
 doc-type: feature video
 activity: use
 team: WWFRE
-role: Business Practitioner
+role: User
 level: Beginner
 exl-id: c078146c-f59c-4de6-90de-4f5c6e31c096
-source-git-commit: 86b546688c3b96505bfca758eca5af9ed65d22e7
+source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
 workflow-type: tm+mt
 source-wordcount: '128'
-ht-degree: 35%
+ht-degree: 73%
 
 ---
 
-# 在工作流中确定用户档案目标
+# 在工作流中定位用户档案
 
 了解活动工作流的使用情况，并了解如何使用过滤条件在工作流中创建工作流和定位用户档案。
 
 >[!VIDEO](https://video.tv.adobe.com/v/35614?quality=12)
 
-## 下一个Tutorials要观看
+## 观看下一个教程
 
 * [通过组合查询结果优化目标](/help/automating-with-workflows/refining-targets-by-combining-query-results.md)
 * [通过排除查询结果优化目标](/help/automating-with-workflows/refining-targets-by-excluding-query-results.md)
