@@ -1,17 +1,16 @@
 ---
-title: 创建列表收件人 的
-description: 了解如何通过从资源管理器中配置列表受众来创建收件人。
+title: 创建列表收件人 工作流
+description: 了解如何通过从Explorer配置收件人列表来创建受众。
 feature: 受众
 kt: 2173
 thumbnail: 25603.jpg
 doc-type: feature video
 activity: setup
 team: DOC
-role: Business Practitioner
+role: User
 level: Beginner
 exl-id: 101e32c1-6a70-49a6-b987-6aa55de3e72a
-translation-type: tm+mt
-source-git-commit: 137d1e0c36d038f3fb8a4742bafef6fbac96f41d
+source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
 workflow-type: tm+mt
 source-wordcount: '85'
 ht-degree: 50%
@@ -20,7 +19,7 @@ ht-degree: 50%
 
 # 使用工作流创建收件人列表
 
-了解如何创建工作流以目标收件人，以及如何在电子邮件目标中使用列表之前使其重复。
+了解如何创建工作流以定位收件人，以及如何在电子邮件目标中使用列表之前使其循环。
 
 >[!VIDEO](https://video.tv.adobe.com/v/25603?quality=12)
 
@@ -34,4 +33,4 @@ ht-degree: 50%
 
 * [创建和管理用户档案](/help/profile-management/create-and-manage-profiles.md)
 * [导入用户档案](/help/data-management/importing-profiles.md)
-* [创建收件人列表](/help/profile-management/creating-a-list-of-recipients.md)
+* [创建列表收件人](/help/profile-management/creating-a-list-of-recipients.md)
