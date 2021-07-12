@@ -5,10 +5,10 @@ breadcrumb-title: 控制面板教程
 breadcrumb-url: /docs/campaign-classic-learn/control-panel/control-panel-overview.html
 index: true
 feature: 控制面板
-role: Administrator
+role: Admin
 level: Experienced
-source-git-commit: 963cd6dd61c8678aece3d639f72db4c100bcbbdc
-workflow-type: ht
+source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
+workflow-type: tm+mt
 source-wordcount: '125'
 ht-degree: 100%
 
@@ -18,9 +18,9 @@ ht-degree: 100%
 # Adobe Campaign 控制面板 - 教程 {#control-panel}
 
 + [控制面板概述](/help/control-panel-tutorials/control-panel-overview.md)
-+ [控制面板入门](/help/control-panel-tutorials/getting-started-with-the-control-panel.md)
++ [控制面板快速入门](/help/control-panel-tutorials/getting-started-with-the-control-panel.md)
 + SFTP 管理 {#sftp-management}
-   + [监视服务器容量](/help/control-panel-tutorials/sftp-management/monitoring-server-capacity.md)
+   + [监测服务器容量](/help/control-panel-tutorials/sftp-management/monitoring-server-capacity.md)
    + [向允许列表添加 IP 范围](/help/control-panel-tutorials/sftp-management/adding-ip-range-to-allow-list.md)
    + [生成 SSH 密钥](/help/control-panel-tutorials/sftp-management/generate-ssh-key.md)
    + [连接到 SFTP 服务器](/help/control-panel-tutorials/sftp-management/connect-to-sftp-server.md)
@@ -37,6 +37,6 @@ ht-degree: 100%
       + [生成和安装用于数据加密的 GPG 密钥](/help/control-panel-tutorials/instance-settings/gpg-key-management/generating-and-installing-gpg-keys-for-data-encryption.md)
       + [使用 GPG 密钥加密数据](/help/control-panel-tutorials/instance-settings/gpg-key-management/using-a-gpg-key-to-encrypt-data.md)
       + [解密数据](/help/control-panel-tutorials/instance-settings/gpg-key-management/decrypting-data.md)
-+ 性能监控 {#performance-monitoring}
++ 性能监测 {#performance-monitoring}
    + [监测数据库](/help/control-panel-tutorials/performance-monitoring/monitoring-databases.md)
 + [控制面板故障排除](/help/control-panel-tutorials/trouble-shooting.md)
