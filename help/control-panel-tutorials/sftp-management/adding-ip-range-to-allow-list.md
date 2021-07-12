@@ -8,10 +8,10 @@ doc-type: feature video
 audience: administrator
 activity: use
 team: PM
-role: Administrator
+role: Admin
 level: Experienced
 exl-id: 16e4f5ed-fd1f-400d-8010-2c1612399596
-source-git-commit: 3757eaf573dab5139bad084b664475c6a7de4b02
+source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
 workflow-type: tm+mt
 source-wordcount: '96'
 ht-degree: 20%
@@ -28,4 +28,4 @@ ht-degree: 20%
 
 ## 其他资源
 
-* [IP范围允许列表（文档）](https://experienceleague.adobe.com/docs/control-panel/using/sftp-management/ip-range-allow-listing.html)
+* [将IP范围添加到允许列表（文档）](https://experienceleague.adobe.com/docs/control-panel/using/sftp-management/ip-range-allow-listing.html)
