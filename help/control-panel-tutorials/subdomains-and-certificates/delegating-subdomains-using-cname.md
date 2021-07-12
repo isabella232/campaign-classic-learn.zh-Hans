@@ -7,13 +7,13 @@ thumbnail: 326612.jpg
 doc-type: feature video
 activity: use
 team: PM
-role: Administrator
+role: Admin
 level: Experienced
 exl-id: 5845478e-8e2e-42dd-b8b1-a85687355f3f
-source-git-commit: 3757eaf573dab5139bad084b664475c6a7de4b02
+source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
 workflow-type: tm+mt
 source-wordcount: '95'
-ht-degree: 92%
+ht-degree: 100%
 
 ---
 
@@ -32,5 +32,5 @@ ht-degree: 92%
 ## 其他资源
 
 * [完全子域委派（视频）](./subdomain-delegation.md)
-* [设置新子域（文档）](https://experienceleague.adobe.com/docs/control-panel/using/subdomains-and-certificates/setting-up-new-subdomain.html)
+* [设置新子域（文档）](https://experienceleague.adobe.com/docs/control-panel/using/subdomains-and-certificates/setting-up-new-subdomain.html?lang=zh-Hans)
 
