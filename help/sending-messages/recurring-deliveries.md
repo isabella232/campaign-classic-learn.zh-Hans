@@ -1,28 +1,28 @@
 ---
-title: 如何设置定期和连续的电子邮件促销活动
-description: 了解如何设置定期和连续投放，并了解两种方法之间的差异。
+title: 如何设置循环和连续的电子邮件活动
+description: 了解如何设置循环和连续投放，并了解两种方法之间的差异。
 feature: 工作流
 kt: 1560
 doc-type: feature video
 activity: use
 team: TM
-role: Business Practitioner
+role: User
 level: Beginner
 exl-id: 42f2a7e6-7d88-473b-b913-fe09b7016b28
-source-git-commit: 5fb898eca821c5078393003c41032801f8454fd5
+source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
 workflow-type: tm+mt
 source-wordcount: '268'
-ht-degree: 6%
+ht-degree: 48%
 
 ---
 
-# 如何设置定期和连续的电子邮件促销活动
+# 如何设置循环和连续的电子邮件营销活动
 
-本教程介绍如何设置定期和连续投放，以及这两种方法之间的差异。
+本教程介绍了如何设置循环和连续投放，以及这两种方法之间的差异。
 
-## 定期和连续投放跟踪{#recurring-and-continuous-delivery-tracking}
+## 循环和连续投放跟踪 {#recurring-and-continuous-delivery-tracking}
 
-定期投放和连续投放在管理联系人数据的方式上有所不同：
+循环投放和连续投放在管理联系人数据的方式上有所不同：
 
 * **连续投放**&#x200B;允许您向现有投放添加新收件人，并避免在每次添加新收件人时都创建新投放。 您可以直接在营销活动工作流中更新创作内容，它将在投放模板资源文件夹中更新模板。
 
@@ -30,9 +30,9 @@ ht-degree: 6%
 
    ![连续投放](/help/assets/delivery_continuous.jpg)
 
-* 每次执行&#x200B;**循环投放**&#x200B;时，都会创建一个新投放实例。 例如，如果工作流计划每周运行一次，则一年后将产生52次投放。 这也意味着广泛的日志和跟踪日志将由每个投放实例分隔。
+* 每次执行&#x200B;**循环投放**&#x200B;时，都会创建一个新投放实例。 例如，如果工作流计划每周运行一次，那么一年后将产生 52 次投放。这也意味着广泛的日志和跟踪日志将由每个投放实例分隔。
 
-   ![定期投放](/help/assets/delivery_recurring.jpg)
+   ![循环投放](/help/assets/delivery_recurring.jpg)
 
 ## 如何设置循环投放 {#how-to-set-up-a-recurring-delivery}
 
