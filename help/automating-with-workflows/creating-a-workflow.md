@@ -9,24 +9,16 @@ team: DOC
 role: User
 level: Beginner
 exl-id: 0f2a5be5-54e1-4ed3-b154-b87a91cd16a2
-source-git-commit: 337da1cf74535e99d4b1b51ce7900054e6b3cb4b
+source-git-commit: 9e48cf10e4f1f264fb84bda07458dfc80e082a08
 workflow-type: tm+mt
-source-wordcount: '199'
-ht-degree: 55%
+source-wordcount: '91'
+ht-degree: 83%
 
 ---
 
 # 创建工作流
 
 Adobe Campaign 包含一个工作流模块，允许您在应用程序服务器的不同模块之间编排所有流程和任务。您可以利用这个全面的图形环境设计各式流程，包括部分划分、活动执行、文件处理、人员参与等。工作流引擎会执行并跟踪这些流程。
-
-工作流在营销活动管理流程的不同上下文和阶段中出现。
-
-Adobe Campaign使用工作流执行以下操作：
-
-* 进行定位营销活动。 有关更多信息，请参阅[实施步骤](https://docs.adobe.com/content/help/en/campaign-classic/using/automating-with-workflows/general-operation/building-a-workflow.html#Implementation_steps_)。
-* 构建营销活动：对于每个营销活动，使用&#x200B;**工作流**&#x200B;选项卡可构建目标并创建投放。 有关更多信息，请参阅[营销活动工作流](https://docs.adobe.com/content/help/zh-Hans/campaign-classic/using/automating-with-workflows/general-operation/building-a-workflow.html#campaign-workflows)。
-* 执行Adobe Campaign技术流程：清理、收集跟踪信息或临时计算。 有关更多信息，请参阅[技术工作流](https://docs.adobe.com/content/help/zh-Hans/campaign-classic/using/automating-with-workflows/general-operation/building-a-workflow.html#technical-workflows)。
 
 以下视频介绍如何在Adobe Campaign Classic中创建工作流。
 
