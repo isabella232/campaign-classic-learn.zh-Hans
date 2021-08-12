@@ -6,7 +6,7 @@ feature: 概述
 role: User, Admin, Developer
 level: Beginner
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
-source-git-commit: e92815e36c3d611f632768b0082a88ca62e64655
+source-git-commit: af19780541ac0f2bc3dbcd37f095ae602b872223
 workflow-type: tm+mt
 source-wordcount: '300'
 ht-degree: 80%
@@ -18,8 +18,7 @@ ht-degree: 80%
 Adobe Campaign 提供了跨渠道客户体验设计平台，并为可视化的活动编排、实时互动管理和跨渠道执行提供了环境。本用户指南包含了有关 Adobe Campaign Classic V7 的众多特性和功能的视频和教程。
 
 >[!INFO]
-> 你有问题吗？ 您想与同行分享您的经验或交流想法吗？ 或者，您是否对Adobe团队的学习内容有反馈？
-在[Adobe Campaign学习社区线程](https://experienceleaguecommunities.adobe.com/t5/adobe-campaign-classic/join-the-discussion-around-adobe-campaign-learning/td-p/419096)中加入对话！
+> 你有问题吗？ 您想与同行分享您的经验或交流想法吗？ 或者，您是否对Adobe团队的学习内容有反馈？ 在[Adobe Campaign学习社区线程](https://experienceleaguecommunities.adobe.com/t5/adobe-campaign-classic/join-the-discussion-around-adobe-campaign-learning/td-p/419096)中加入对话！
 
 ## 新增功能
 
