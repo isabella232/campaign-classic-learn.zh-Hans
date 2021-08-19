@@ -1,6 +1,6 @@
 ---
 title: 故障排除控制面板
-description: 该控制面板允许您按实例监测和管理 SFTP 存储以及将 IP 地址添加到允许列表。
+description: 了解如何对控制面板进行故障诊断。
 feature: 控制面板
 kt: 2938
 doc-type: article
@@ -10,10 +10,10 @@ role: Admin
 level: Experienced
 original-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/administrating/control-panel-acc/trouble-shooting.html
 exl-id: 016e8b77-20df-4ca5-b5e7-fe2f3e7ba7a3
-source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
+source-git-commit: 2f8ae3d47e4debf71311f341d3c02ff3a7f5297a
 workflow-type: tm+mt
-source-wordcount: '341'
-ht-degree: 100%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -21,26 +21,26 @@ ht-degree: 100%
 
 ## 登录和主页
 
-### 症状：无法登录 Experience Cloud
+### 症状：无法登录Experience Cloud
 
 **要做什么：**
-用户需要找到其 IMS Org ID (xxx)。管理员需要将用户添加到要管理的每个实例的产品用户档案“Campaign-xxx-Admins”中。如果用户是所有实例的管理员，则他们仍可能需要将自己添加为用户。
+用户必须找到其IMS组织ID(xxx)。管理员必须将用户添加到要管理的每个实例的产品用户档案“Campaign-xxx-Admins”中。 如果用户是所有实例的管理员，则必须将自己添加为用户。
 
 ### 症状：Experience Cloud 主页中访问 [!UICONTROL Control Panel]的链接不显示给用户
 
 **原因：**
-用户只有在产品用户档案 _Campaign-xxx-Administrators/Admin_ 中将其添加为用户后，才会看到这些链接。
+用户只有在将他们添加为产品用户档案Campaign-xxx-Administrators/Admin _的用户后，才会看到这些链接_。
 
 **要做什么：**
-管理员需要将用户添加到要管理的每个实例的产品用户档案 _Campaign-xxx-Admins_ 中。如果用户是所有实例的管理员，他们可能仍需要将自己添加为“用户”。
+管理员必须将用户添加到要管理的每个 _实例的产品用户档案Campaign-xxx-_  Admin中。如果用户是所有实例的管理员，则必须将自己添加为用户。
 
 ### 症状：实例未列在 [!UICONTROL Control Panel]中
 
 **原因：**
-最可能的原因是对于缺少的实例，需要将用户在产品用户档案 _Campaign-xxx-Administrators/Admin_ 中添加为“用户”。
+对于缺少的实例，最可能的 ** 用户必 _须添加为用户产品用户档案Campaign-xxx-_ Administrators/Admin
 
 **要做什么：**
-管理员需要将用户添加到要管理的每个实例的产品用户档案 _Campaign-xxx-Admins_ 中。如果用户是所有实例的管理员，则他们仍可能需要将自己添加为“用户”。
+管理员必须将用户添加到要管理的每个 _实例的产品用户档案Campaign-xxx-_  Admin中。如果用户是所有实例的管理员，则必须将自己添加为“用户”。
 
 ### 实用视频
 
@@ -54,17 +54,17 @@ ht-degree: 100%
 
 ### 帮助文档
 
-* [了解控制面板](https://helpx.adobe.com/cn/campaign/kb/control-panel-overview.html)
-* [管理 [!UICONTROL Control Panel]的权限](https://helpx.adobe.com/cn/campaign/kb/control-panel-access.html)
+* [了解控制面板](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=zh-Hans)
+* [管理 [!UICONTROL Control Panel]的权限](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=en)
 
 ## 建立与 SFTP 服务器（客户端或 API）的连接
 
 连接到 SFTP 服务器需要：
 
 * [!UICONTROL Allow listing] 您连接到 SFTP 服务器的 IP 地址
-* 需要向 Adobe Campaign 注册的私钥/公钥对
-* 如果直接连接到 SFTP 服务器，您还需要 SFTP 客户端软件
+* 必须在Adobe Campaign中注册的私钥/公钥对
+* 要直接连接到SFTP服务器，您还需要SFTP客户端软件
 
 ### 帮助文档 {#helpful-docs}
 
-* [登录 SFTP 服务器](https://helpx.adobe.com/cn/campaign/kb/control-panel-sftp.html#LoggingintoyourSFTPserver)
+* [登录 SFTP 服务器](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=en)
