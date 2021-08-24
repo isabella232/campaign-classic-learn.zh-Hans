@@ -11,11 +11,10 @@ tutorials-title: 教程
 tutorials-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/overview.html?lang=zh-Hans
 getting-started-title: 文档
 getting-started-url: https://docs.adobe.com/content/help/zh-Hans/campaign-classic/using/getting-started/starting-with-adobe-campaign/about-adobe-campaign-classic.html
-translation-type: ht
-source-git-commit: 2eef4b85e39f80c5b5f012e17cf73b0e188b9253
-workflow-type: ht
+source-git-commit: d7cfbad42f559f87a20c5580e3d7279140bf32e1
+workflow-type: tm+mt
 source-wordcount: '394'
-ht-degree: 100%
+ht-degree: 98%
 
 ---
 
@@ -23,20 +22,19 @@ ht-degree: 100%
 # Adobe Campaign Classic 教程 {#tutorials}
 
 + [概述](/help/overview.md)
-+ 快速入门
-{#getting-started}
++ 快速入门{#getting-started}
    + [Adobe Campaign Classic 简介](/help/getting-started/introduction-to-adobe-campaign-classic.md)
    + [安装和设置 Adobe Campaign 客户端](/help/getting-started/install-and-setup-the-adobe-campaign-client.md)
    + [浏览 Adobe Campaign Classic 用户界面](/help/getting-started/exploring-the-adobe-campaign-classic-user-interface.md)
    + [管理营销活动](/help/getting-started/managing-marketing-campaigns.md)
    + [创建营销计划、项目和活动](/help/getting-started/creating-a-marketing-plan-programs-and-campaigns.md)
    + [创建活动和电子邮件](/help/getting-started/creating-a-campaign-and-an-email.md)
-   + [在工作流中确定用户档案目标](/help/getting-started/targeting-profiles-in-a-workflow.md)
+   + [在工作流中定位用户档案](/help/getting-started/targeting-profiles-in-a-workflow.md)
    + [创建事件触发式活动](/help/getting-started/create-event-triggered-campaigns.md)
-+ 用户档案管理 {#profile-management}
++ 用户档案管理{#profile-management}
    + [创建和管理用户档案](/help/profile-management/create-and-manage-profiles.md)
    + [导入用户档案](/help/data-management/importing-profiles.md)
-   + [创建收件人列表](/help/profile-management/creating-a-list-of-recipients.md)
+   + [创建列表收件人](/help/profile-management/creating-a-list-of-recipients.md)
    + [使用工作流创建收件人列表](/help/profile-management/creating-a-list-of-recipients-with-a-workflow.md)
 + 发送消息{#sending-messages}
    + 电子邮件渠道{#email-channel}
@@ -61,7 +59,7 @@ ht-degree: 100%
       + [Android 推送通知入门（教程）](https://experienceleague.adobe.com/docs/campaign-classic-learn/getting-started-with-push-notifications-for-android/introduction.html?lang=zh-Hans)
    + 直邮 {#direct-mail}
       + [创建直邮投放](/help/sending-messages/direct-mail/creating-direct-mail-deliveries.md)
-   + 使用投放模板 {#using-delivery-templates}
+   + 使用投放模板{#using-delivery-templates}
       + [配置投放模板](/help/sending-messages/using-delivery-templates/configuring-a-delivery-template.md)
       + [设置投放模板属性](/help/sending-messages/using-delivery-templates/setting-delivery-template-properties.md)
       + [部署临时电子邮件投放模板](/help/sending-messages/using-delivery-templates/deploying-ad-hoc-email-delivery-template.md)
@@ -69,15 +67,15 @@ ht-degree: 100%
       + [使用类型规则](/help/sending-messages/fatigue-management/typology-rules-for-fatigue-management.md)
       + [使用预定义过滤器](/help/sending-messages/fatigue-management/fatigue-management-using-filters.md)
    + [配置和管理订阅服务](/help/sending-messages/configuring-and-managing-subscription-services.md)
-+ 编排活动{#orchestration}
++ 编排活动 {#orchestration}
    + [执行活动](/help/orchestrating-campaigns/executing-a-campaign.md)
-   + [多渠道和跨渠道活动简介](/help/orchestrating-campaigns/introduction-to-cross-and-multi-channel-campaigns.md)
+   + [多渠道和跨渠道营销活动简介](/help/orchestrating-campaigns/introduction-to-cross-and-multi-channel-campaigns.md)
    + [创建多渠道活动](/help/orchestrating-campaigns/multi-channel-campaigns.md)
    + [创建跨渠道活动](/help/orchestrating-campaigns/cross-channel-campaigns.md)
 + 报告{#reporting}
    + [访问内置报告](/help/reporting/accessing-built-in-reports.md)
    + [生成描述性分析报告](/help/reporting/generating-a-descriptive-analysis-report.md)
-+ 使用工作流实现自动化{#automating-with-workflows}
++ 使用工作流自动{#automating-with-workflows}
    + [创建工作流](/help/automating-with-workflows/creating-a-workflow.md)
    + [创建定位工作流](/help/automating-with-workflows/creating-a-targeting-workflow.md)
    + [通过组合查询结果优化目标](/help/automating-with-workflows/refining-targets-by-combining-query-results.md)
@@ -89,12 +87,12 @@ ht-degree: 100%
    + [管理审批](/help/automating-with-workflows/managing-approvals.md)
 + 设计内容{#designing-content}
    + [配置登陆页面](/help/designing-content/configure-landingpages.md)
-+ 监控 {#monitoring}
++ 监视器{#monitoring}
    + [工作流热图](/help/monitoring-campaign-classic/workflow-heatmap.md)
    + [审核记录](/help/monitoring-campaign-classic/audit-trail.md)
-+ 集成 {#integrating}
++ 集成{#integrating}
    + [如何将 Dynamics 365 与 Adobe Campaign Classic 相集成](/help/integrations/dynamics365-integration.md)
-+ 管理 {#administrating}
++ 管理{#administrating}
    + [控制面板](https://experienceleague.adobe.com/docs/campaign-classic-learn/control-panel/control-panel-overview.html?lang=zh-Hans)
    + 访问外部数据库（联合数据访问） {#fda}
-      + [大数据管理 [!DNL Snowflake]](/help/administrating/snowflake/big-data-segmentation-on-snowflake.md)
+      + [ [!DNL Snowflake] 的大数据管理](/help/administrating/snowflake/big-data-segmentation-on-snowflake.md)
