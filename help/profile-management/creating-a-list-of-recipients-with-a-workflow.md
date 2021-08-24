@@ -1,5 +1,5 @@
 ---
-title: 创建列表收件人 工作流
+title: 使用工作流创建收件人列表
 description: 了解如何通过从Explorer配置收件人列表来创建受众。
 feature: 受众
 kt: 2173
@@ -10,10 +10,10 @@ team: DOC
 role: User
 level: Beginner
 exl-id: 101e32c1-6a70-49a6-b987-6aa55de3e72a
-source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
+source-git-commit: 8910430585bdaa0db076db9c34b34798f649d39c
 workflow-type: tm+mt
 source-wordcount: '85'
-ht-degree: 50%
+ht-degree: 42%
 
 ---
 
@@ -27,7 +27,7 @@ ht-degree: 50%
 
 文档：
 
-* [创建和管理列表](https://docs.adobe.com/content/help/zh-Hans/campaign-classic/using/getting-started/profile-management/creating-and-managing-lists.html)
+* [创建和管理列表](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/profile-management/creating-and-managing-lists.html?lang=en)
 
 教程:
 
