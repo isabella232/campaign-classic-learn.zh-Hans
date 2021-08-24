@@ -9,7 +9,7 @@ team: TM
 role: User, Admin, Developer
 level: Beginner
 exl-id: 373c0247-fd72-4c36-b2d6-cb758dc72492
-source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
+source-git-commit: 8910430585bdaa0db076db9c34b34798f649d39c
 workflow-type: tm+mt
 source-wordcount: '45'
 ht-degree: 33%
@@ -24,4 +24,4 @@ ht-degree: 33%
 
 ## 其他资源
 
-- [导出和导入用户档案](https://docs.adobe.com/content/help/en/campaign-classic/using/getting-started/profile-management/exporting-and-importing-profiles.html)
+- [导出和导入用户档案](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/profile-management/exporting-and-importing-profiles.html?lang=en)
