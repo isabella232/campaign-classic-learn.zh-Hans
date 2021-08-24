@@ -1,15 +1,15 @@
 ---
-source-git-commit: 3757eaf573dab5139bad084b664475c6a7de4b02
+source-git-commit: 8910430585bdaa0db076db9c34b34798f649d39c
 workflow-type: tm+mt
-source-wordcount: '294'
-ht-degree: 22%
+source-wordcount: '293'
+ht-degree: 16%
 
 ---
-# 贡献
+# 参与
 
-感谢您选择贡献！
+感谢您的贡献！
 
-以下是在参与此项目时要遵循的一套准则。
+以下是参与到此项目时应遵循的一组准则。
 
 ## 行为准则
 
@@ -18,24 +18,25 @@ ht-degree: 22%
 
 ## 参与者指南文档
 
-请参阅[Contributor Guide](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html)。
+请参阅[参与者指南](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html)。
 
-## 有问题吗？
+## 有疑问吗？
 
-开始。 此项目的现有提交者将
-在项目方向和问题线程内就问题解决方案达成共识
-（如果适用）。
+首先，提交问题。 此项目的现有提交者将努力访问
+围绕项目方向达成共识，并在问题线程中提供问题解决方案
+（如适用）。
 
 ## 参与者许可协议
 
-所有第三方对此项目的捐款都必须附有签名的捐款人
-许可协议。 这将允许 Adobe 在项目中再次分发您的贡献。[签署CLA](http://opensource.adobe.com/cla.html)。你
-只需提交一次Adobe CLA，因此，如果您之前已提交过，
+所有参与到该项目的第三方稿件都必须附有签署的参与者
+许可协议。 这将允许 Adobe 在项目中再次分发您的贡献。[签署我们的CLA](https://opensource.adobe.com/cla.html)。您
+只需提交一次AdobeCLA即可，因此，如果您之前已提交过，
 你该走了！
 
 ## 代码审阅
 
-所有提交都应采用提取请求的形式，并且需要由项目提交者进行审核。请阅读 [GitHub 的提取请求文档](https://help.github.com/cn/articles/about-pull-requests/)，了解有关发送提取请求的更多信息。
+所有提交都应以拉取请求的形式提交，并且必须进行审核
+。 请阅读 [GitHub 的提取请求文档](https://help.github.com/cn/articles/about-pull-requests)，了解有关发送提取请求的更多信息。
 
 <!--
 Lastly, please follow the [pull request template](PULL_REQUEST_TEMPLATE.md) when
@@ -44,13 +45,13 @@ submitting a pull request!
 
 ## 从参与者到提交者
 
-我们热爱来自我们社区的贡献！ 如果您想超越参与者
-成为具有完全写入访问权限的提交者，并在项目中发言，您必须
-被邀请参加项目。 现有提交者采用内部提名
-在邀请之前必须达成懒惰协商一致（沉默即批准）的进程
-。 如果你觉得自己有资格，想更深入地参与其中，
-请随时与现有提交者联系，就此进行交谈。
+我们欢迎社区成员的参与！ 如果您想要跳出参与者的范围
+并成为具有完全写入访问权限的提交者以及在项目中的发言权，您必须
+被邀请加入项目。 现有提交者采用内部提名
+在邀请前必须达成懒惰共识（沉默即批准）的流程
+的次数。 如果你觉得自己有资格，想更深入地参与其中，
+请随时与现有提交者联系以进行相关对话。
 
 ## 安全问题
 
-不应报告此问题跟踪器上的安全问题。 相反，[将问题提交给我们的安全专家](https://helpx.adobe.com/security/alertus.html)
+不应在此问题跟踪器上报告安全问题。 相反， [会向我们的安全专家](https://helpx.adobe.com/security/alertus.html)提交问题
