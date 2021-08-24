@@ -1,16 +1,15 @@
 ---
 title: 如何使用动态内容块个性化电子邮件
-description: 本教程演示如何个性化投放内容、在投放模板中使用 JavaScript 代码、标准化和在不同投放模板中共享内容块。
+description: 本教程演示如何个性化投放内容，在投放模板中使用JavaScript代码，以及在不同投放模板中标准化和共享内容块。
 feature: 动态内容
 kt: 1559
 doc-type: feature video
 activity: use
 team: TM
-translation-type: tm+mt
-source-git-commit: 137d1e0c36d038f3fb8a4742bafef6fbac96f41d
+source-git-commit: 8910430585bdaa0db076db9c34b34798f649d39c
 workflow-type: tm+mt
-source-wordcount: '253'
-ht-degree: 99%
+source-wordcount: '254'
+ht-degree: 70%
 
 ---
 
@@ -24,11 +23,11 @@ ht-degree: 99%
 3 - 插入动态的个性化字段\
 4 - 创建条件内容。
 
-本教程演示如何个性化投放内容、在投放模板中使用 JavaScript 代码、标准化和在不同投放模板中共享内容块。
+本教程演示如何个性化投放内容，在投放模板中使用JavaScript代码，以及在不同投放模板中标准化和共享内容块。
 
 ## 创建个性化块并将其添加到投放
 
-个性化块是动态的、个性化的，并包含可添加到投放的特定渲染代码。例如，您可以添加图像、电子邮件页眉、电子邮件页脚、镜像页面链接、退订链接等。
+个性化块是动态的，包含可添加到投放的特定渲染代码。 例如，您可以添加图像、电子邮件页眉、电子邮件页脚、镜像页面链接、退订链接等。
 
 >[!VIDEO](https://video.tv.adobe.com/v/24924?quality=12)
 
@@ -46,4 +45,4 @@ ht-degree: 99%
 
 ## 其他资源
 
-* [关于个性化](https://docs.adobe.com/content/help/zh-Hans/campaign-classic/using/sending-messages/personalizing-deliveries/about-personalization.html)
+* [关于个性化](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/personalizing-deliveries/about-personalization.html?lang=en)
