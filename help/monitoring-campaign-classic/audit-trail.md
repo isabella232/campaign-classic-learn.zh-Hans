@@ -1,6 +1,6 @@
 ---
 title: 如何使用审核记录
-description: '审核记录可实时捕获在 Adobe Campaign 内发生的操作和事件的全面列表。 '
+description: '审核记录可实时捕获在Adobe Campaign内发生的操作和事件的完整列表。 '
 feature: 审核记录
 kt: 2835
 doc-type: feature video
@@ -9,16 +9,16 @@ team: PM
 role: Admin
 level: Beginner
 exl-id: 66ce7a21-f0ca-47a5-80f7-ee8596fac7a7
-source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
+source-git-commit: 8910430585bdaa0db076db9c34b34798f649d39c
 workflow-type: tm+mt
 source-wordcount: '163'
-ht-degree: 100%
+ht-degree: 46%
 
 ---
 
 # 如何使用审核记录
 
-[!UICONTROL Audit Trail]可实时捕获在 Adobe Campaign 内发生的操作和事件的全面列表。这些 [!UICONTROL Audit Trail]功能包括一种访问数据历史的自助方式，可帮助回答以下问题：
+[!UICONTROL Audit Trail] 可实时捕获在Adobe Campaign内发生的操作和事件的完整列表。[!UICONTROL Audit Trail]功能包括一种访问数据历史的自助方式，可帮助回答以下问题：
 
 * 对象发生了什么？
 * 谁最后修改了它以及何时？
@@ -28,7 +28,7 @@ ht-degree: 100%
 >
 >审核记录需要 Campaign Classic 版本 19.1 或更高版本
 
-[!UICONTROL Audit Trail]将记录和列出操作者的操作，例如创建、修改和删除工作流、选项和来源模式。此外，还专门为工作流记录以下操作：
+[!UICONTROL Audit Trail]记录和列出运算符的操作，例如创建、修改和删除工作流、选项和源架构。 此外，还专门为工作流记录以下操作：
 
 * 开始
 * 暂停
@@ -43,4 +43,4 @@ ht-degree: 100%
 
 >[!VIDEO](https://video.tv.adobe.com/v/27425?quality=12)
 
-有关详细信息，请参阅[审核记录文档](https://docs.adobe.com/content/help/zh-Hans/campaign-classic/using/monitoring-campaign-classic/production-procedures/audit-trail.html)。
+有关详细信息，请参阅[审核记录文档](https://experienceleague.adobe.com/docs/campaign-classic/using/monitoring-campaign-classic/production-procedures/audit-trail.html?lang=en)。
