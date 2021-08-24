@@ -10,10 +10,10 @@ team: TM
 role: User
 level: Beginner
 exl-id: 7f9d927f-41e8-4f8c-bcd6-5042ae64a433
-source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
+source-git-commit: 8910430585bdaa0db076db9c34b34798f649d39c
 workflow-type: tm+mt
-source-wordcount: '126'
-ht-degree: 84%
+source-wordcount: '125'
+ht-degree: 68%
 
 ---
 
@@ -29,10 +29,10 @@ ht-degree: 84%
 
 文档：
 
-* [关于个性化](https://docs.adobe.com/content/help/zh-Hans/campaign-classic/using/sending-messages/personalizing-deliveries/about-personalization.html)
-* [个性化字段](https://docs.adobe.com/content/help/en/campaign-classic/using/sending-messages/personalizing-deliveries/personalization-fields.html)
+* [关于个性化](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/personalizing-deliveries/about-personalization.html?lang=en)
+* [个性化字段](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/personalizing-deliveries/personalization-fields.html?lang=en)
 
 教程:
 
 * [使用动态内容块个性化电子邮件](/help/sending-messages/email-channel/personalization-with-dynamic-content-blocks.md)
-* [个性化电子邮件 - 使用条件内容创建多语言新闻稿](/help/sending-messages/email-channel/personalizing-emails-create-a-multi-lingual-newsletter-using-conditional-content.md)
+* [个性化电子邮件 — 使用条件内容创建多语言新闻稿](/help/sending-messages/email-channel/personalizing-emails-create-a-multi-lingual-newsletter-using-conditional-content.md)
