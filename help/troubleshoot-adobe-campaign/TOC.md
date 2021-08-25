@@ -7,9 +7,9 @@ index: true
 feature: Overview
 role: Admin
 level: Experienced
-source-git-commit: 496d9268fdc6276ac9dbb1b6db608aeae24eec5c
+source-git-commit: 8fead8e1e71f26c87033cc72f5a14e38beb602f7
 workflow-type: tm+mt
-source-wordcount: '124'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -25,7 +25,7 @@ ht-degree: 0%
    + [按保留结果条件筛选工作流](/help/troubleshoot-adobe-campaign/keep-result-workflow.md)
 + 投放和渠道{#deliveries-and-channels}
    + [调试投放中消息已取消的错误](/help/troubleshoot-adobe-campaign/message-cancelled-error.md)
-   + [短信投放处于待处理状态](/help/troubleshoot-adobe-campaign/resolve-pending-state-sms-delivery.md)
+   + [短信投放进入待处理状态](/help/troubleshoot-adobe-campaign/resolve-pending-state-sms-delivery.md)
    + [将短信发送到错误号码时，广泛日志状态不正确](/help/troubleshoot-adobe-campaign/sms-broad-log.md)
 + 系统管理{#administration}
    + [允许所有IP地址进行SOAP API调用](/help/troubleshoot-adobe-campaign/allow-all-ip-address-to-make-soap-calls.md)
