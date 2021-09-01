@@ -11,10 +11,10 @@ tutorials-title: Tutorials
 tutorials-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/overview.html
 getting-started-title: Documentation
 getting-started-url: https://docs.campaign.adobe.com/doc/AC/en/PTF_Starting_with_Adobe_Campaign_About_Adobe_Campaign_Classic.html
-source-git-commit: 8fead8e1e71f26c87033cc72f5a14e38beb602f7
+source-git-commit: f52cc63295f831c27623cc540d918d49adc2f5d8
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '369'
+ht-degree: 95%
 
 ---
 
@@ -96,4 +96,4 @@ ht-degree: 0%
    + [控制面板](https://experienceleague.adobe.com/docs/campaign-classic-learn/control-panel/control-panel-overview.html?lang=zh-Hans)
    + 访问外部数据库（联合数据访问） {#fda}
       + [ [!DNL Snowflake] 的大数据管理](/help/administrating/snowflake/big-data-segmentation-on-snowflake.md)
-+ [疑难解答Adobe Campaign](https://experienceleague.adobe.com/docs/campaign-classic-learn/troubleshooting/overview.html)
++ [Adobe Campaign故障诊断](https://experienceleague.adobe.com/docs/campaign-classic-learn/troubleshooting/overview.html)
