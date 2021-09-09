@@ -4,15 +4,15 @@ description: 了解如何解决将短信投放到  新创建外部帐户的挂�
 feature: SMS
 role: Admin
 level: Experienced
-topic: Development
+type: Troubleshooting
 kt: 8429
-source-git-commit: 8fead8e1e71f26c87033cc72f5a14e38beb602f7
+exl-id: f6030e69-143e-40fa-838d-107e3ca3f4ad
+source-git-commit: 772f54e81c42cc88b1aa123843c36a06866c024e
 workflow-type: tm+mt
-source-wordcount: '52'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
-
 
 # 短信投放进入待处理状态
 

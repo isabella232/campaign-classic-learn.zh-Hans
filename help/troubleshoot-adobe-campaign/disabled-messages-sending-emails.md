@@ -1,18 +1,18 @@
 ---
 title: 由禁用的消息触发的电子邮件
 description: 了解如何修复已禁用的消息，以防触发电子邮件
-feature: null
+feature: Email
 role: Admin
 level: Experienced
-topic: Development
+type: Troubleshooting
 kt: 8425
-source-git-commit: 4515849a9302f05948faedf03b642d6e29747997
+exl-id: c21a4521-c207-43ad-9dfc-ea64b377e440
+source-git-commit: 772f54e81c42cc88b1aa123843c36a06866c024e
 workflow-type: tm+mt
-source-wordcount: '27'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
-
 
 # 禁用了触发电子邮件的消息
 

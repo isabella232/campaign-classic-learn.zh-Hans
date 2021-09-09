@@ -1,18 +1,17 @@
 ---
 title: 实例重新启动期间的负载平衡器问题
 description: 了解如何修复在实例重新启动过程中遇到的负载平衡器问题
-feature: null
 role: Admin
 level: Experienced
-topic: Development
+type: Troubleshooting
 kt: 8428
-source-git-commit: 4515849a9302f05948faedf03b642d6e29747997
+exl-id: 9cce6bfa-26e8-416a-bf98-96cd9b5d02ed
+source-git-commit: 772f54e81c42cc88b1aa123843c36a06866c024e
 workflow-type: tm+mt
-source-wordcount: '30'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
-
 
 # 负载平衡器问题
 
