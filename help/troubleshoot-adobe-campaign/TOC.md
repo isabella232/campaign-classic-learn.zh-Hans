@@ -2,12 +2,12 @@
 user-guide-title: Adobe Campaign故障诊断
 user-guide-description: 查找有关如何对 Adobe Campaign 问题进行故障排除的帮助。
 breadcrumb-title: Adobe Campaign故障诊断
-breadcrumb-url: /docs/campaign-classic-learn/troubleshoot-adobe-campaign/overview.html
+breadcrumb-url: /docs/campaign-classic-learn/troubleshooting/overview.html
 index: true
 feature: Overview
 role: Admin
 level: Experienced
-source-git-commit: 80436fb4a92e9d7b6591350e4a38e3f4eec6db88
+source-git-commit: 8bef3cafe2b76d86c79ea01938273765dcc36fe7
 workflow-type: tm+mt
 source-wordcount: '164'
 ht-degree: 9%
