@@ -2,12 +2,11 @@
 user-guide-title: Campaign Classic 中的 Android 推送通知入门
 user-guide-description: 本教程将指导您完成将推送通知从 Adobe Campaign 发送到 Android 应用程序时涉及的步骤。
 breadcrumb-title: Android 推送通知入门
-breadcrumb-url: /docs/campaign-classic-learn/getting-started-with-push-notifications-for-android/introduction.html
 index: true
-source-git-commit: 963cd6dd61c8678aece3d639f72db4c100bcbbdc
-workflow-type: ht
-source-wordcount: '81'
-ht-degree: 100%
+source-git-commit: d0fc0f9009f090af6f2bc366d199594026044d18
+workflow-type: tm+mt
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
