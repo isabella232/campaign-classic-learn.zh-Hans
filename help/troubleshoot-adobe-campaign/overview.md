@@ -1,18 +1,18 @@
 ---
-title: Adobe Campaign故障诊断 — 概述
-description: 查找有关如何对Adobe Campaign问题进行故障诊断的帮助。
+title: Adobe Campaign 故障排除 - 概述
+description: 查找有关如何对 Adobe Campaign 问题进行故障排除的帮助。
 sub-product: Campaign Classic
 feature: Overview
 role: User, Admin, Developer
 level: Beginner, Experienced
-source-git-commit: a244150716a6f7cb55e9ca614c83159961342e5e
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+exl-id: f8945058-4f2b-4b9c-bbb4-2761c420b278
+source-git-commit: d8b4d1f2a82b108cd94854460c858dae04cd4725
+workflow-type: ht
+source-wordcount: '54'
+ht-degree: 100%
 
 ---
 
+# Adobe Campaign 故障排除 - 概述
 
-# Adobe Campaign故障诊断 — 概述
-
-查找有关如何对Adobe Campaign问题进行故障诊断的帮助。 此部分由Adobe客户支持部门提供，用于帮助您解决在Adobe Campaign Classic v7或Adobe Campaign v8中可能遇到的问题。
+查找有关如何对 Adobe Campaign 问题进行故障排除的帮助。此部分由 Adobe 客户支持提供，用于帮助您排除在 Adobe Campaign Classic v7 或 Adobe Campaign v8 中可能遇到的问题。
