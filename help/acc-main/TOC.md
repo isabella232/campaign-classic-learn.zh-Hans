@@ -12,9 +12,9 @@ tutorials-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tu
 getting-started-title: Documentation
 getting-started-url: https://docs.campaign.adobe.com/doc/AC/en/PTF_Starting_with_Adobe_Campaign_About_Adobe_Campaign_Classic.html
 source-git-commit: f52cc63295f831c27623cc540d918d49adc2f5d8
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '369'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
@@ -34,7 +34,7 @@ ht-degree: 95%
 + 用户档案管理{#profile-management}
    + [创建和管理用户档案](/help/profile-management/create-and-manage-profiles.md)
    + [导入用户档案](/help/data-management/importing-profiles.md)
-   + [创建列表收件人](/help/profile-management/creating-a-list-of-recipients.md)
+   + [创建收件人列表](/help/profile-management/creating-a-list-of-recipients.md)
    + [使用工作流创建收件人列表](/help/profile-management/creating-a-list-of-recipients-with-a-workflow.md)
 + 发送消息{#sending-messages}
    + 电子邮件渠道{#email-channel}
@@ -55,9 +55,9 @@ ht-degree: 95%
       + [创建短信投放](/help/sending-messages/mobile-channel/create-a-sms-delivery.md)
    + 推送渠道{#push-channel}
       + [安装移动应用程序通道](/help/sending-messages/mobile-channel/installing-the-mobile-app-channel.md)
-      + [使用 Experience Platform Mobile SDK 配置推送渠道 ](/help/sending-messages/mobile-channel/configure-push-using-aep-mobile-sdk.md)
+      + [使用 Experience Platform Mobile SDK 配置推送渠道](/help/sending-messages/mobile-channel/configure-push-using-aep-mobile-sdk.md)
       + [Android 推送通知入门（教程）](https://experienceleague.adobe.com/docs/campaign-classic-learn/getting-started-with-push-notifications-for-android/introduction.html?lang=zh-Hans)
-   + 直邮 {#direct-mail}
+   + 直邮{#direct-mail}
       + [创建直邮投放](/help/sending-messages/direct-mail/creating-direct-mail-deliveries.md)
    + 使用投放模板{#using-delivery-templates}
       + [配置投放模板](/help/sending-messages/using-delivery-templates/configuring-a-delivery-template.md)
@@ -67,15 +67,15 @@ ht-degree: 95%
       + [使用类型规则](/help/sending-messages/fatigue-management/typology-rules-for-fatigue-management.md)
       + [使用预定义过滤器](/help/sending-messages/fatigue-management/fatigue-management-using-filters.md)
    + [配置和管理订阅服务](/help/sending-messages/configuring-and-managing-subscription-services.md)
-+ 编排活动 {#orchestration}
++ 编排活动{#orchestration}
    + [执行活动](/help/orchestrating-campaigns/executing-a-campaign.md)
-   + [多渠道和跨渠道营销活动简介](/help/orchestrating-campaigns/introduction-to-cross-and-multi-channel-campaigns.md)
+   + [多渠道和跨渠道活动简介](/help/orchestrating-campaigns/introduction-to-cross-and-multi-channel-campaigns.md)
    + [创建多渠道活动](/help/orchestrating-campaigns/multi-channel-campaigns.md)
    + [创建跨渠道活动](/help/orchestrating-campaigns/cross-channel-campaigns.md)
 + 报告{#reporting}
    + [访问内置报告](/help/reporting/accessing-built-in-reports.md)
    + [生成描述性分析报告](/help/reporting/generating-a-descriptive-analysis-report.md)
-+ 使用工作流自动{#automating-with-workflows}
++ 借助工作流实现自动化{#automating-with-workflows}
    + [创建工作流](/help/automating-with-workflows/creating-a-workflow.md)
    + [创建定位工作流](/help/automating-with-workflows/creating-a-targeting-workflow.md)
    + [通过组合查询结果优化目标](/help/automating-with-workflows/refining-targets-by-combining-query-results.md)
@@ -83,17 +83,17 @@ ht-degree: 95%
    + [使用更新列表活动通过工作流创建列表](/help/automating-with-workflows/using-the-update-list-activity.md)
    + [配置验证工作流](/help/automating-with-workflows/validation-flow-configuration.md)
    + [配置扩充活动](/help/automating-with-workflows/enrichment-activity.md)
-   + [数据细分](/help/data-management/data-segmentation.md)
+   + [数据分段](/help/data-management/data-segmentation.md)
    + [管理审批](/help/automating-with-workflows/managing-approvals.md)
 + 设计内容{#designing-content}
    + [配置登陆页面](/help/designing-content/configure-landingpages.md)
-+ 监视器{#monitoring}
++ 监测{#monitoring}
    + [工作流热图](/help/monitoring-campaign-classic/workflow-heatmap.md)
    + [审核记录](/help/monitoring-campaign-classic/audit-trail.md)
 + 集成{#integrating}
    + [如何将 Dynamics 365 与 Adobe Campaign Classic 相集成](/help/integrations/dynamics365-integration.md)
 + 管理{#administrating}
    + [控制面板](https://experienceleague.adobe.com/docs/campaign-classic-learn/control-panel/control-panel-overview.html?lang=zh-Hans)
-   + 访问外部数据库（联合数据访问） {#fda}
-      + [ [!DNL Snowflake] 的大数据管理](/help/administrating/snowflake/big-data-segmentation-on-snowflake.md)
-+ [Adobe Campaign故障诊断](https://experienceleague.adobe.com/docs/campaign-classic-learn/troubleshooting/overview.html)
+   + 访问外部数据库（联合数据访问）{#fda}
+      + [ [!DNL Snowflake]的大数据管理](/help/administrating/snowflake/big-data-segmentation-on-snowflake.md)
++ [Adobe Campaign 故障排除](https://experienceleague.adobe.com/docs/campaign-classic-learn/troubleshooting/overview.html?lang=zh-Hans)
