@@ -1,7 +1,7 @@
 ---
 title: Android 推送通知入门 - 简介
 description: 本教程将指导您完成从 Adobe Campaign 发送推送通知以及在 Android 应用程序中接收这些通知所涉及的步骤。
-feature: 推送
+feature: Push
 kt: 6438
 doc-type: article
 activity: setup
@@ -10,8 +10,8 @@ role: Admin, Developer
 level: Experienced
 exl-id: 291c2e3a-c126-439d-9753-06a4091bbda0
 source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
-workflow-type: tm+mt
-source-wordcount: '366'
+workflow-type: ht
+source-wordcount: '365'
 ht-degree: 100%
 
 ---
