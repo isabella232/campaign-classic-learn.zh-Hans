@@ -1,7 +1,7 @@
 ---
 title: 使用工作流创建收件人列表
 description: 了解如何通过从Explorer配置收件人列表来创建受众。
-feature: 受众
+feature: Audiences
 kt: 2173
 thumbnail: 25603.jpg
 doc-type: feature video
@@ -12,8 +12,8 @@ level: Beginner
 exl-id: 101e32c1-6a70-49a6-b987-6aa55de3e72a
 source-git-commit: 8910430585bdaa0db076db9c34b34798f649d39c
 workflow-type: tm+mt
-source-wordcount: '85'
-ht-degree: 42%
+source-wordcount: '84'
+ht-degree: 41%
 
 ---
 
@@ -33,4 +33,4 @@ ht-degree: 42%
 
 * [创建和管理用户档案](/help/profile-management/create-and-manage-profiles.md)
 * [导入用户档案](/help/data-management/importing-profiles.md)
-* [创建列表收件人](/help/profile-management/creating-a-list-of-recipients.md)
+* [创建收件人列表](/help/profile-management/creating-a-list-of-recipients.md)

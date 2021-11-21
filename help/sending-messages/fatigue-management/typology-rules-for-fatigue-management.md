@@ -1,7 +1,7 @@
 ---
 title: 如何在Adobe Campaign Classic中使用类型学规则设置疲劳管理
 description: 了解如何通过应用类型规则来实施疲劳管理。
-feature: 疲劳管理
+feature: Fatigue Management
 kt: 1564
 doc-type: feature video
 activity: use
@@ -11,8 +11,8 @@ level: Beginner
 exl-id: 1bb86ce5-39b1-4081-aa63-72b218a02f28
 source-git-commit: 8910430585bdaa0db076db9c34b34798f649d39c
 workflow-type: tm+mt
-source-wordcount: '156'
-ht-degree: 53%
+source-wordcount: '154'
+ht-degree: 52%
 
 ---
 
@@ -20,7 +20,7 @@ ht-degree: 53%
 
 疲劳管理控制消息传送的频度和数量，以避免过度招徕收件人。通常使用类型规则来应用疲劳管理功能。
 
-利用类型规则，营销人员可以更高效地规范所有投放的业务实践，以便控制向客户发送的活动消息。他们通过消除将排除项或常用规则应用于每个营销活动的需要来实现此目的。 在分析阶段，符合&#x200B;*分类规则*&#x200B;中标准的收件人将从投放中排除。
+利用类型规则，营销人员可以更高效地规范所有投放的业务实践，以便控制向客户发送的活动消息。他们通过消除将排除项或常用规则应用于每个营销活动的需要来实现此目的。 符合 *类型规则* 在分析阶段从投放中排除。
 
 以下视频介绍如何通过应用分类规则在Adobe Campaign Classic中实施疲劳管理。
 

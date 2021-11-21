@@ -1,9 +1,9 @@
 ---
 title: 向允许列表添加 IP 地址
-seo-title: 向允许列表添加 IP 地址
+seo-title: Adding IP addresses to allow lists
 description: 了解如何添加IP范围以Campaign Classic实例的允许列表，以及如何使用控制面板从允许列表中删除它们。
-seo-description: 以下视频介绍如何通过将 IP 地址范围添加到允许列表来设置实例的新连接。
-feature: 控制面板
+seo-description: The video below explains how to set up new connections to your instances by allow listing IP addresses ranges.
+feature: Control Panel
 kt: 3479
 thumbnail: 28726.jpg
 doc-type: feature video
@@ -15,8 +15,8 @@ original-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tut
 exl-id: 9c68543d-af10-4836-951f-7eef5a3515a8
 source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
 workflow-type: tm+mt
-source-wordcount: '221'
-ht-degree: 70%
+source-wordcount: '194'
+ht-degree: 69%
 
 ---
 
@@ -41,4 +41,4 @@ ht-degree: 70%
 
 >[!VIDEO](https://video.tv.adobe.com/v/28726?quality=12)
 
-有关将 IP 地址添加到允许列表的详细信息，请参阅 [详细的产品文档](https://experienceleague.adobe.com/docs/control-panel/using/sftp-management/ip-range-allow-listing.html)。
+有关将 IP 地址列入允许列表的详细信息，请参阅[详细的产品文档](https://experienceleague.adobe.com/docs/control-panel/using/sftp-management/ip-range-allow-listing.html?lang=zh-Hans)。

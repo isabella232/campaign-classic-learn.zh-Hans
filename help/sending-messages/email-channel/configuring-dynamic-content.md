@@ -1,7 +1,7 @@
 ---
 title: 配置动态内容
 description: 了解不同类型的动态内容，并了解如何创建个性化块和条件语句并将它们应用到投放中。
-feature: 动态内容、个性化、电子邮件
+feature: Dynamic Content, Personalization, Email
 kt: 6824
 thumbnail: 329936.jpg
 doc-type: feature video
@@ -12,8 +12,8 @@ level: Beginner
 exl-id: a649e71c-1866-4596-88cf-0ede861c8845
 source-git-commit: 8910430585bdaa0db076db9c34b34798f649d39c
 workflow-type: tm+mt
-source-wordcount: '81'
-ht-degree: 79%
+source-wordcount: '77'
+ht-degree: 77%
 
 ---
 

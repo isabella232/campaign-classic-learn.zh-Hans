@@ -1,7 +1,7 @@
 ---
 title: 创建多渠道活动
 description: 了解如何根据收件人的首选渠道，使用电子邮件、短信和直邮投放创建多渠道营销活动。
-feature: 工作流
+feature: Workflows
 kt: 1563
 thumbnail: 24981.jpg
 doc-type: feature video
@@ -12,14 +12,14 @@ level: Beginner
 exl-id: 5f71cea8-aa13-4b89-a1c5-10c97a8992c8
 source-git-commit: cfd9148fddd9bfca9595f5acacc3e9d9d9140020
 workflow-type: tm+mt
-source-wordcount: '93'
-ht-degree: 16%
+source-wordcount: '92'
+ht-degree: 79%
 
 ---
 
 # 创建多渠道活动
 
-在多渠道营销活动中，单个营销通信使用多个渠道来覆盖更广的目标受众。 渠道是独立使用的，它们之间没有连接，这意味着客户只能停留在一个工作流中的一个渠道中。
+在多渠道营销活动中，单个营销通信使用多个渠道来覆盖更广泛的目标受众。 渠道是独立使用的，它们之间没有连接，这意味着客户只能停留在一个工作流中的一个渠道中。
 
 了解如何根据收件人的首选渠道，使用电子邮件、短信和直邮投放创建多渠道营销活动。
 

@@ -1,7 +1,7 @@
 ---
 title: 故障排除控制面板
-description: 了解如何对控制面板进行故障诊断。
-feature: 控制面板
+description: 了解如何对控制面板进行故障排除。
+feature: Control Panel
 kt: 2938
 doc-type: article
 activity: use
@@ -12,8 +12,8 @@ original-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tut
 exl-id: 016e8b77-20df-4ca5-b5e7-fe2f3e7ba7a3
 source-git-commit: 2f8ae3d47e4debf71311f341d3c02ff3a7f5297a
 workflow-type: tm+mt
-source-wordcount: '322'
-ht-degree: 38%
+source-wordcount: '320'
+ht-degree: 100%
 
 ---
 
@@ -21,32 +21,32 @@ ht-degree: 38%
 
 ## 登录和主页
 
-### 症状：无法登录Experience Cloud
+### 症状：无法登录 Experience Cloud
 
 **要做什么：**
-用户必须找到其IMS组织ID(xxx)。管理员必须将用户添加到要管理的每个实例的产品用户档案“Campaign-xxx-Admins”中。 如果用户是所有实例的管理员，则必须将自己添加为用户。
+用户须找到其 IMS Org ID (xxx)。管理员须将用户添加到要管理的每个实例的产品用户档案“Campaign-xxx-Admins”中。如果用户是所有实例的管理员，他们仍须将自己添加为用户。
 
 ### 症状：Experience Cloud 主页中访问 [!UICONTROL Control Panel]的链接不显示给用户
 
 **原因：**
-用户只有在将他们添加为产品用户档案Campaign-xxx-Administrators/Admin _的用户后，才会看到这些链接_。
+用户只有在被添加为产品用户档案 _Campaign-xxx-Administrators/Admin_ 中的用户后，才会看到这些链接。
 
 **要做什么：**
-管理员必须将用户添加到要管理的每个 _实例的产品用户档案Campaign-xxx-_  Admin中。如果用户是所有实例的管理员，则必须将自己添加为用户。
+管理员须将用户添加到要管理的每个实例的产品用户档案 _Campaign-xxx-Admins_ 中。如果用户是所有实例的管理员，他们仍须将自己添加为用户。
 
 ### 症状：实例未列在 [!UICONTROL Control Panel]中
 
 **原因：**
-对于缺少的实例，最可能的 ** 用户必 _须添加为用户产品用户档案Campaign-xxx-_ Administrators/Admin
+最可能的原因是，对于缺少的实例，须将用户在产品用户档案 _Campaign-xxx-Administrators/Admin_ 中添加为&#x200B;*用户*
 
 **要做什么：**
-管理员必须将用户添加到要管理的每个 _实例的产品用户档案Campaign-xxx-_  Admin中。如果用户是所有实例的管理员，则必须将自己添加为“用户”。
+管理员须将用户添加到要管理的每个实例的产品用户档案 _Campaign-xxx-Admins_ 中。如果用户是所有实例的管理员，他们须将自己添加为“用户”。
 
 ### 实用视频
 
 >[!VIDEO](https://video.tv.adobe.com/v/27183?quality=12)
 
-*查找 IMS Org ID（00:26 分钟）*
+*查找 IMS Org ID（00:26 分）*
 
 >[!VIDEO](https://video.tv.adobe.com/v/27147?quality=12)
 
@@ -62,8 +62,8 @@ ht-degree: 38%
 连接到 SFTP 服务器需要：
 
 * [!UICONTROL Allow listing] 您连接到 SFTP 服务器的 IP 地址
-* 必须在Adobe Campaign中注册的私钥/公钥对
-* 要直接连接到SFTP服务器，您还需要SFTP客户端软件
+* 须在 Adobe Campaign 中注册的私钥/公钥对
+* 要直接连接到 SFTP 服务器，您还需要有 SFTP 客户端软件
 
 ### 帮助文档 {#helpful-docs}
 

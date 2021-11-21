@@ -1,7 +1,7 @@
 ---
 title: 如何在电子邮件中管理种子和验证
 description: 了解如何向现有电子邮件添加种子和验证，以及如何发送它。
-feature: 电子邮件
+feature: Email
 kt: 2178
 thumbnail: 25606.jpg
 doc-type: feature video
@@ -12,7 +12,7 @@ level: Beginner
 exl-id: a10824f4-c2ea-4c9a-bbf4-3290a96a0de8
 source-git-commit: 8910430585bdaa0db076db9c34b34798f649d39c
 workflow-type: tm+mt
-source-wordcount: '79'
+source-wordcount: '78'
 ht-degree: 32%
 
 ---

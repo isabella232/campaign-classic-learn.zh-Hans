@@ -1,7 +1,7 @@
 ---
 title: GPG 密钥管理 - 概述
 description: 以下视频介绍如何在指定的 Campaign 实例上生成和安装公钥/私钥对以加密出站数据，以及在 Campaign 实例上导入和安装公钥以解密入站数据。
-feature: 控制面板
+feature: Control Panel
 team: TM
 role: Admin
 level: Experienced
@@ -9,7 +9,7 @@ original-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tut
 exl-id: 1a3e8320-f992-428a-8dc8-ba5429042751
 source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
 workflow-type: tm+mt
-source-wordcount: '161'
+source-wordcount: '159'
 ht-degree: 100%
 
 ---

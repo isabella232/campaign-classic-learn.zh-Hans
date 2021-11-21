@@ -1,7 +1,7 @@
 ---
 title: 完全子域委派
 description: 了解如何将子域完全委派给 Adobe Campaign。
-feature: 控制面板
+feature: Control Panel
 kt: 4115
 thumbnail: 31390.jpg
 doc-type: feature video
@@ -13,7 +13,7 @@ original-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tut
 exl-id: 28960c68-860c-4707-8d59-65c3222307dd
 source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
 workflow-type: tm+mt
-source-wordcount: '115'
+source-wordcount: '113'
 ht-degree: 74%
 
 ---
@@ -22,7 +22,7 @@ ht-degree: 74%
 
 >[!IMPORTANT]
 >
-> 从[!UICONTROL Control Panel]委派子域属于测试版，可能会频繁更新和修改，恕不另行通知。
+> 从 [!UICONTROL Control Panel] 处于测试阶段，可能会频繁更新和修改，恕不另行通知。
 
 Adobe Campaign [!UICONTROL Control Panel]允许您将子域完全委派给 Adobe Campaign。
 

@@ -1,7 +1,7 @@
 ---
 title: 电子邮件投放问题疑难解答
 description: 了解如何对 Campaign 中的电子邮件投放问题进行故障诊断。
-feature: 电子邮件、可投放性
+feature: Email, Deliverability
 kt: 5091
 thumbnail: 329920.jpg
 doc-type: feature video
@@ -12,7 +12,7 @@ level: Beginner
 exl-id: a362a627-9812-4753-a5de-8eb97ea1b606
 source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
 workflow-type: tm+mt
-source-wordcount: '28'
+source-wordcount: '26'
 ht-degree: 100%
 
 ---

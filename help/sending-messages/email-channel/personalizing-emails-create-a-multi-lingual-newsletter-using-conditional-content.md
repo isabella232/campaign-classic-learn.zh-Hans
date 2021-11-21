@@ -1,7 +1,7 @@
 ---
 title: 个性化电子邮件 — 使用条件内容创建多语言新闻稿
 description: 了解如何在多语言新闻稿的示例中向投放添加条件内容。
-feature: 动态内容
+feature: Dynamic Content
 kt: 5922
 thumbnail: 24926.jpg
 doc-type: feature video
@@ -12,8 +12,8 @@ level: Beginner
 exl-id: 080f5229-9eae-45b6-b0e0-13b4721ad79c
 source-git-commit: 8910430585bdaa0db076db9c34b34798f649d39c
 workflow-type: tm+mt
-source-wordcount: '116'
-ht-degree: 39%
+source-wordcount: '114'
+ht-degree: 38%
 
 ---
 

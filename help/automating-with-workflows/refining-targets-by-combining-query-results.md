@@ -1,7 +1,7 @@
 ---
 title: 通过组合查询结果优化目标
 description: 了解如何通过使用交叉或合并活动组合工作流中的查询结果来优化目标。
-feature: 工作流、定位活动、查询编辑器
+feature: Workflows, Targeting Activity, Query Editor
 kt: 5547
 thumbnail: 36832.jpg
 doc-type: feature video
@@ -12,14 +12,14 @@ level: Beginner
 exl-id: 3bd6a4cf-95ae-4f4a-b53a-ac04a29843f7
 source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
 workflow-type: tm+mt
-source-wordcount: '110'
-ht-degree: 67%
+source-wordcount: '105'
+ht-degree: 65%
 
 ---
 
 # 通过组合查询结果优化目标
 
-了解如何通过使用&#x200B;**[!UICONTROL intersection]**&#x200B;或&#x200B;**[!UICONTROL union]**&#x200B;活动在工作流中组合查询结果来优化目标。
+了解如何通过在工作流中使用 **[!UICONTROL intersection]** 或 **[!UICONTROL union]** 活动。
 
 >[!VIDEO](https://video.tv.adobe.com/v/36832?quality=12)
 

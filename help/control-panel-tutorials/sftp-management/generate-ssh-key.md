@@ -1,6 +1,6 @@
 ---
 title: 生成SSH密钥
-description: 了解如何使用终端生成SSH密钥，以及如何在控制面板中存储该密钥的公共版本。
+description: 了解如何使用终端生成 SSH 密钥，以及如何在控制面板中存储该密钥的公共版本。
 feature: Control Panel
 kt: 6348
 thumbnail: 27259.jpg
@@ -14,7 +14,7 @@ exl-id: 6ff9713c-9392-425d-9a13-3c1cc7afe2c2
 source-git-commit: e6446906ccd0ca521175a24675b7fae61854217c
 workflow-type: tm+mt
 source-wordcount: '129'
-ht-degree: 28%
+ht-degree: 77%
 
 ---
 
@@ -31,10 +31,10 @@ ht-degree: 28%
    或者
 * 直接从 URL 访问：[http://experience.adobe.com/#/controlpanel/sftp](https://experience.adobe.com/)
 
-## 如何生成SSH密钥
+## 如何生成 SSH 密钥
 
-了解如何使用终端生成SSH密钥，以及如何在控制面板中存储该密钥的公共版本。
+了解如何使用终端生成 SSH 密钥，以及如何在控制面板中存储该密钥的公共版本。
 
 >[!VIDEO](https://video.tv.adobe.com/v/27259?quality=12)
 
-*如何创建SSH密钥（2:16分钟）*
+*如何创建 SSH 密钥（2:16 分）*

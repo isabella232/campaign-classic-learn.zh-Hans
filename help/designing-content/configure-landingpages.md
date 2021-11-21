@@ -1,7 +1,7 @@
 ---
 title: 如何在Adobe Campaign Classic中配置登陆页面
 description: 了解如何通过创建首选项中心来导航 Web 应用程序编辑器。
-feature: 登陆页面
+feature: Landing Pages
 kt: 1562
 thumbnail: 25041.jpg
 doc-type: feature video
@@ -12,8 +12,8 @@ level: Beginner
 exl-id: d14d0b67-dcc7-4cc8-b507-9ce389234c09
 source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
 workflow-type: tm+mt
-source-wordcount: '87'
-ht-degree: 35%
+source-wordcount: '85'
+ht-degree: 34%
 
 ---
 
@@ -25,4 +25,4 @@ Adobe Campaign Classic允许您在其服务器上设计和托管各种登陆页�
 
 >[!VIDEO](https://video.tv.adobe.com/v/25041?quality=12)
 
-有关更多信息，请参阅[创建登陆页面](https://experienceleague.adobe.com/docs/campaign-classic/using/designing-content/editing-html-content/creating-a-landing-page.html)的详细文档。
+有关详细信息，请参阅 [创建登陆页面](https://experienceleague.adobe.com/docs/campaign-classic/using/designing-content/editing-html-content/creating-a-landing-page.html).

@@ -1,7 +1,7 @@
 ---
 title: 如何在工作流中定向用户档案
 description: 了解活动工作流的使用情况，并了解如何使用过滤条件在工作流中创建工作流和定位用户档案。
-feature: 工作流
+feature: Workflows
 kt: 5080
 thumbnail: 35614.jpg
 doc-type: feature video
@@ -12,7 +12,7 @@ level: Beginner
 exl-id: c078146c-f59c-4de6-90de-4f5c6e31c096
 source-git-commit: 6dc03c7b994e4a734e2aae9e66264462d5a9bbd3
 workflow-type: tm+mt
-source-wordcount: '128'
+source-wordcount: '127'
 ht-degree: 73%
 
 ---

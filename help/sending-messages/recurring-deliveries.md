@@ -1,7 +1,7 @@
 ---
 title: 如何设置循环和连续的电子邮件活动
 description: 了解如何设置循环和连续投放，并了解两种方法之间的差异。
-feature: 工作流
+feature: Workflows
 kt: 1560
 doc-type: feature video
 activity: use
@@ -11,8 +11,8 @@ level: Beginner
 exl-id: 42f2a7e6-7d88-473b-b913-fe09b7016b28
 source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
 workflow-type: tm+mt
-source-wordcount: '268'
-ht-degree: 48%
+source-wordcount: '267'
+ht-degree: 47%
 
 ---
 
@@ -24,13 +24,13 @@ ht-degree: 48%
 
 循环投放和连续投放在管理联系人数据的方式上有所不同：
 
-* **连续投放**&#x200B;允许您向现有投放添加新收件人，并避免在每次添加新收件人时都创建新投放。 您可以直接在营销活动工作流中更新创作内容，它将在投放模板资源文件夹中更新模板。
+* 的 **连续投放** 允许您向现有投放中添加新收件人，并避免在每次添加新收件人时都创建新投放。 您可以直接在营销活动工作流中更新创作内容，它将在投放模板资源文件夹中更新模板。
 
    连续投放将创建单个投放和投放日志(broadLog)以及跟踪日志，这些日志引用每次执行一次投放时都添加一次投放。
 
    ![连续投放](/help/assets/delivery_continuous.jpg)
 
-* 每次执行&#x200B;**循环投放**&#x200B;时，都会创建一个新投放实例。 例如，如果工作流计划每周运行一次，那么一年后将产生 52 次投放。这也意味着广泛的日志和跟踪日志将由每个投放实例分隔。
+* A **循环投放** 将在每次执行时创建一个新投放实例。 例如，如果工作流计划每周运行一次，那么一年后将产生 52 次投放。这也意味着广泛的日志和跟踪日志将由每个投放实例分隔。
 
    ![循环投放](/help/assets/delivery_recurring.jpg)
 
@@ -42,7 +42,7 @@ ht-degree: 48%
 
 ## 如何设置连续投放 {#how-to-set-up-a-continuous-delivery}
 
-以下视频演示了如何使用增量查询配置连续投放。
+本视频演示了如何使用增量查询配置连续投放。
 
 >[!VIDEO](https://video.tv.adobe.com/v/25039?quality=12)
 

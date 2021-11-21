@@ -1,7 +1,7 @@
 ---
 title: Snowflake 的大数据管理
 description: 了解如何在Adobe Campaign Classic中利用Snowflake连接器
-feature: 联合数据访问
+feature: Federated Data Access
 kt: 4405
 doc-type: feature video
 activity: use
@@ -11,14 +11,14 @@ level: Experienced
 exl-id: e46560c3-d911-4cd9-8be2-8057c70d7881
 source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
 workflow-type: tm+mt
-source-wordcount: '110'
-ht-degree: 63%
+source-wordcount: '107'
+ht-degree: 62%
 
 ---
 
 # Snowflake 的大数据管理
 
-本教程介绍如何在Adobe Campaign Classic中利用[!DNL Snowflake]连接器。
+本教程介绍如何利用 [!DNL Snowflake] 连接器。Adobe Campaign Classic
 您将学习如何
 
 * 连接到 Snowflake

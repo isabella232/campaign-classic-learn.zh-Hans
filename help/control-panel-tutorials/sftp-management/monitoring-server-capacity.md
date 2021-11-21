@@ -1,7 +1,7 @@
 ---
 title: 监测服务器容量
 description: 了解如何按实例监控和管理SFTP存储，以及向允许列表添加IP地址。
-feature: 控制面板
+feature: Control Panel
 audience: administrator
 kt: 3266
 thumbnail: 27270.jpg
@@ -14,14 +14,14 @@ original-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tut
 exl-id: cad80fc2-cf82-44fd-b192-0ceda90d6745
 source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
 workflow-type: tm+mt
-source-wordcount: '92'
-ht-degree: 53%
+source-wordcount: '90'
+ht-degree: 80%
 
 ---
 
 # 监测服务器容量
 
-利用控制面板，可按实例监控和管理SFTP存储。
+该控制面板使您可按实例监测和管理 SFTP 存储。
 
 ## 访问[!UICONTROL Control Panel]子域管理
 
@@ -34,6 +34,6 @@ ht-degree: 53%
 
 ## 监测服务器容量、 [!UICONTROL allow list]IP 地址和添加 SSH 密钥
 
-了解如何监控SFTP服务器的存储容量。
+了解如何监测 SFTP 服务器的存储容量。
 
 >[!VIDEO](https://video.tv.adobe.com/v/27270?quality=12)

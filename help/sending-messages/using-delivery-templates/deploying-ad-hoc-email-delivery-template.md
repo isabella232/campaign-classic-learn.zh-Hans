@@ -1,7 +1,7 @@
 ---
 title: 在Adobe Campaign Classic中部署临时电子邮件投放模板
 description: '了解如何部署临时电子邮件投放模板，并了解电子邮件投放与投放工作流之间的区别。 '
-feature: 投放模板
+feature: Delivery Templates
 kt: 1565
 thumbnail: 24065.jpg
 doc-type: feature video
@@ -12,7 +12,7 @@ level: Beginner
 exl-id: 2e4bb39d-fd03-44f5-8249-dc415b87808a
 source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
 workflow-type: tm+mt
-source-wordcount: '144'
+source-wordcount: '142'
 ht-degree: 61%
 
 ---
