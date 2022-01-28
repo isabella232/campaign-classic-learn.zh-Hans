@@ -11,10 +11,10 @@ role: Admin
 level: Experienced
 original-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/administrating/control-panel-acc/gpg-key-management/decrypting-data.html
 exl-id: d9f4be99-6e41-4c75-b3dc-bbdae1a63677
-source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
+source-git-commit: 7d63f43c26182bd7ffb618392463283da0b3d307
 workflow-type: tm+mt
-source-wordcount: '86'
-ht-degree: 100%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -24,8 +24,3 @@ ht-degree: 100%
 了解如何创建公钥并将其导入和安装在 [!DNL Campaign] 实例上，以解密入站数据。
 
 >[!VIDEO](https://video.tv.adobe.com/v/36482?quality=12)
-
-## 其他资源
-
-* [GPG 密钥管理（视频）](./gpg-key-management-overview.md)
-* [GPG 密钥管理（文档）](https://experienceleague.adobe.com/docs/control-panel/using/instances-settings/gpg-keys-management.html?lang=zh-Hans)

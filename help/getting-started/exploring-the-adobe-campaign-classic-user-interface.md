@@ -10,10 +10,10 @@ team: WWFRE
 role: User
 level: Beginner
 exl-id: 521b970a-55eb-498f-9350-3fd7546bf1df
-source-git-commit: 77aa26692532bd83d219dc6e83af0704ea35367e
+source-git-commit: 7d63f43c26182bd7ffb618392463283da0b3d307
 workflow-type: tm+mt
-source-wordcount: '68'
-ht-degree: 64%
+source-wordcount: '50'
+ht-degree: 66%
 
 ---
 
@@ -22,7 +22,3 @@ ht-degree: 64%
 本课介绍主要 Adobe Campaign Classic 用户界面，并向您展示如何导航主要功能。
 
 >[!VIDEO](https://video.tv.adobe.com/v/35130?quality=12)
-
-## 其他资源
-
-* [Campaign UI入门（文档）](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/starting-with-adobe-campaign/campaign-workspace/adobe-campaign-workspace.html?lang=zh-Hans)

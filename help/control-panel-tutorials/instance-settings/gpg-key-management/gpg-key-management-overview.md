@@ -7,9 +7,9 @@ role: Admin
 level: Experienced
 original-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/administrating/control-panel-acc/gpg-key-management/gpg-key-management-overview.html
 exl-id: 1a3e8320-f992-428a-8dc8-ba5429042751
-source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
+source-git-commit: 7d63f43c26182bd7ffb618392463283da0b3d307
 workflow-type: tm+mt
-source-wordcount: '159'
+source-wordcount: '146'
 ht-degree: 100%
 
 ---
@@ -23,7 +23,3 @@ GPG (GnuPG) 使用非对称的单个密钥对加密消息。要使用 [!DNL Camp
 * [生成和安装用于数据加密的 GPG 密钥](./generating-and-installing-gpg-keys-for-data-encryption.md)
 * [使用 GPG 密钥加密数据](./using-a-gpg-key-to-encrypt-data.md)
 * [解密数据](./decrypting-data.md)
-
-## 其他资源
-
-* [GPG 密钥管理（文档）](https://experienceleague.adobe.com/docs/control-panel/using/instances-settings/gpg-keys-management.html?lang=zh-Hans)

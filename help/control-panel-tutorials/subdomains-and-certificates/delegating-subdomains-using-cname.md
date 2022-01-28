@@ -10,9 +10,9 @@ team: PM
 role: Admin
 level: Experienced
 exl-id: 5845478e-8e2e-42dd-b8b1-a85687355f3f
-source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
+source-git-commit: 7d63f43c26182bd7ffb618392463283da0b3d307
 workflow-type: tm+mt
-source-wordcount: '93'
+source-wordcount: '74'
 ht-degree: 100%
 
 ---
@@ -28,9 +28,3 @@ ht-degree: 100%
 了解如何使用控制面板中的 CNAME 设置和提交子域。
 
 >[!VIDEO](https://video.tv.adobe.com/v/326612?quality=12)
-
-## 其他资源
-
-* [完全子域委派（视频）](./subdomain-delegation.md)
-* [设置新子域（文档）](https://experienceleague.adobe.com/docs/control-panel/using/subdomains-and-certificates/setting-up-new-subdomain.html?lang=zh-Hans)
-

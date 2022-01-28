@@ -1,7 +1,7 @@
 ---
 title: 如何在Adobe Campaign Classic中使用类型学规则设置疲劳管理
 description: 了解如何通过应用类型规则来实施疲劳管理。
-feature: Fatigue Management
+feature: Fatigue Management, Typology Rules
 kt: 1564
 doc-type: feature video
 activity: use
@@ -9,10 +9,10 @@ team: TM
 role: User
 level: Beginner
 exl-id: 1bb86ce5-39b1-4081-aa63-72b218a02f28
-source-git-commit: 8910430585bdaa0db076db9c34b34798f649d39c
+source-git-commit: 7d63f43c26182bd7ffb618392463283da0b3d307
 workflow-type: tm+mt
-source-wordcount: '154'
-ht-degree: 52%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -26,7 +26,4 @@ ht-degree: 52%
 
 >[!VIDEO](https://video.tv.adobe.com/v/25090?quality=12)
 
-## 其他资源
-
-* [关于营销活动类型](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/campaign-optimization/about-campaign-typologies.html?lang=zh-Hans)
-* [使用压力规则管理营销疲劳度](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/campaign-optimization/pressure-rules.html?lang=zh-Hans)
+请访问产品文档，了解有关 [活动类型](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/campaign-optimization/about-campaign-typologies.html?lang=zh-Hans).

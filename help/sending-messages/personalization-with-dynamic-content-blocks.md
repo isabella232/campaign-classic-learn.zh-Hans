@@ -1,15 +1,15 @@
 ---
 title: 如何使用动态内容块个性化电子邮件
 description: 本教程演示如何个性化投放内容，在投放模板中使用JavaScript代码，以及在不同投放模板中标准化和共享内容块。
-feature: Dynamic Content
+feature: Dynamic Content, Personalization
 kt: 1559
 doc-type: feature video
 activity: use
 team: TM
-source-git-commit: 8910430585bdaa0db076db9c34b34798f649d39c
+source-git-commit: 7d63f43c26182bd7ffb618392463283da0b3d307
 workflow-type: tm+mt
-source-wordcount: '252'
-ht-degree: 70%
+source-wordcount: '257'
+ht-degree: 67%
 
 ---
 
@@ -43,6 +43,4 @@ ht-degree: 70%
 
 >[!VIDEO](https://video.tv.adobe.com/v/24926?quality=12)
 
-## 其他资源
-
-* [关于个性化](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/personalizing-deliveries/about-personalization.html?lang=en)
+要了解有关个性化的更多信息，请参阅 [产品文档](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/personalizing-deliveries/about-personalization.html?lang=en).

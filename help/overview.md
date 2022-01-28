@@ -5,11 +5,12 @@ sub-product: Campaign Classic
 feature: Overview
 role: User, Admin, Developer
 level: Beginner
+recommendations: noCatalog, noDisplay
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
-source-git-commit: 566aeb86b931525137cc1ad5edb766272976390d
+source-git-commit: 7d63f43c26182bd7ffb618392463283da0b3d307
 workflow-type: tm+mt
-source-wordcount: '297'
-ht-degree: 100%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -33,14 +34,6 @@ Adobe Campaign 提供了跨渠道客户体验设计平台，并为可视化的�
 * **[发送并确认验证](/help/sending-messages/email-channel/send-and-validate-proofs.md)**
 
    *了解如何发送并确认验证。*
-
-* **[设计可投放的电子邮件](/help/sending-messages/email-channel/design-emails-for-deliverability.md)**
-
-   *了解如何应用可投放性最佳实践。*
-
-* **[创建和设计电子邮件投放](/help/sending-messages/email-channel/create-and-design-email-deliveries.md)**
-
-   *了解创建电子邮件投放的过程，并了解如何设计和个性化电子邮件内容。*
 
 
 ## 员工挑选
