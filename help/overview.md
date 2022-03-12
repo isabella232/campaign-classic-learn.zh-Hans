@@ -7,10 +7,10 @@ role: User, Admin, Developer
 level: Beginner
 recommendations: noCatalog, noDisplay
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
-source-git-commit: 7d63f43c26182bd7ffb618392463283da0b3d307
-workflow-type: ht
-source-wordcount: '264'
-ht-degree: 100%
+source-git-commit: 7048f1ac4fefb382941ec611b0b28b31f1de1df3
+workflow-type: tm+mt
+source-wordcount: '269'
+ht-degree: 93%
 
 ---
 
@@ -23,6 +23,10 @@ Adobe Campaign 提供了跨渠道客户体验设计平台，并为可视化的�
 
 ## 新增功能
 
+* **[与Adobe Target集成](/help/integrations/target-integration.md)**
+
+   *了解如何使用Adobe Target提供的动态内容对投放进行个性化。*
+
 * **[创建跨渠道活动](/help/orchestrating-campaigns/cross-channel-campaigns.md)**
 
    *了解如何创建和执行跨渠道活动。*
@@ -30,11 +34,6 @@ Adobe Campaign 提供了跨渠道客户体验设计平台，并为可视化的�
 * **[使用对照组](/help/sending-messages/email-channel/use-control-groups.md)**
 
    *了解对照组的概念以及如何将对照组用于投放。*
-
-* **[发送并确认验证](/help/sending-messages/email-channel/send-and-validate-proofs.md)**
-
-   *了解如何发送并确认验证。*
-
 
 ## 员工挑选
 
