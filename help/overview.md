@@ -8,9 +8,9 @@ level: Beginner
 recommendations: noCatalog, noDisplay
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
 source-git-commit: 7048f1ac4fefb382941ec611b0b28b31f1de1df3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '269'
-ht-degree: 93%
+ht-degree: 100%
 
 ---
 
@@ -23,9 +23,9 @@ Adobe Campaign 提供了跨渠道客户体验设计平台，并为可视化的�
 
 ## 新增功能
 
-* **[与Adobe Target集成](/help/integrations/target-integration.md)**
+* **[与 Adobe Target 集成](/help/integrations/target-integration.md)**
 
-   *了解如何使用Adobe Target提供的动态内容对投放进行个性化。*
+   *了解如何使用 Adobe Target 提供的动态内容对投放进行个性化。*
 
 * **[创建跨渠道活动](/help/orchestrating-campaigns/cross-channel-campaigns.md)**
 
