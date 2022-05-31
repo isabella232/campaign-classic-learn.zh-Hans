@@ -4,17 +4,17 @@ sub-product: Campaign Classic
 user-guide-title: Adobe Campaign Classic 教程
 user-guide-description: 借助 Adobe Campaign Classic，营销人员可以设计跨渠道客户体验并提供可视活动编排、实时交互管理和跨渠道执行的环境。
 breadcrumb-title: 教程
-source-git-commit: 7048f1ac4fefb382941ec611b0b28b31f1de1df3
-workflow-type: ht
-source-wordcount: '368'
-ht-degree: 100%
+source-git-commit: 1425897404136a6ec492b94532ea957b528d00e3
+workflow-type: tm+mt
+source-wordcount: '371'
+ht-degree: 98%
 
 ---
 
 
 # Adobe Campaign Classic 教程 {#tutorials}
 
-+ [概述](/help/overview.md)
++ [Adobe Campaign Classic V7](/help/overview.md)
 + 快速入门{#getting-started}
    + [Adobe Campaign Classic 简介](/help/getting-started/introduction-to-adobe-campaign-classic.md)
    + [安装和设置 Adobe Campaign 客户端](/help/getting-started/install-and-setup-the-adobe-campaign-client.md)
