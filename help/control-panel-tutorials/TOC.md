@@ -6,9 +6,9 @@ index: true
 feature: Control Panel
 role: Admin
 level: Experienced
-source-git-commit: d0fc0f9009f090af6f2bc366d199594026044d18
-workflow-type: ht
-source-wordcount: '123'
+source-git-commit: cae588174705dea60149788944be7faa3a9b50cd
+workflow-type: tm+mt
+source-wordcount: '122'
 ht-degree: 100%
 
 ---
@@ -16,7 +16,7 @@ ht-degree: 100%
 
 # Adobe Campaign 控制面板 - 教程 {#control-panel}
 
-+ [控制面板概述](/help/control-panel-tutorials/control-panel-overview.md)
++ [控制面板](/help/control-panel-tutorials/control-panel-overview.md)
 + [控制面板快速入门](/help/control-panel-tutorials/getting-started-with-the-control-panel.md)
 + SFTP 管理 {#sftp-management}
    + [监测服务器容量](/help/control-panel-tutorials/sftp-management/monitoring-server-capacity.md)

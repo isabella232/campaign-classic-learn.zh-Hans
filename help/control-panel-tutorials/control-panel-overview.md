@@ -12,10 +12,10 @@ level: Experienced
 original-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/administrating/control-panel-acc/control-panel-overview.html
 recommendations: noDisplay
 exl-id: ae4c0448-ca8a-4599-8aaa-96c8184feff7
-source-git-commit: 7d63f43c26182bd7ffb618392463283da0b3d307
-workflow-type: ht
-source-wordcount: '234'
-ht-degree: 100%
+source-git-commit: cae588174705dea60149788944be7faa3a9b50cd
+workflow-type: tm+mt
+source-wordcount: '252'
+ht-degree: 95%
 
 ---
 
@@ -32,6 +32,8 @@ Adobe Campaign 控制面板允许 Adobe Campaign 管理员监视关键资产并�
 * **[使用 CNAME 委派子域](/help/control-panel-tutorials/subdomains-and-certificates/delegating-subdomains-using-cname.md)**
 
    *了解如何使用控制面板中的 CNAME 设置和提交子域。*
+
+请参阅 [发行说明](https://experienceleague.adobe.com/docs/control-panel/using/release-notes.html?lang=zh-Hans) 有关最新产品版本的更多信息。
 
 ## 员工挑选
 
