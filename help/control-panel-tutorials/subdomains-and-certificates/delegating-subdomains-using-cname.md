@@ -10,18 +10,14 @@ team: PM
 role: Admin
 level: Experienced
 exl-id: 5845478e-8e2e-42dd-b8b1-a85687355f3f
-source-git-commit: e9dbb169f14e6a1b8a0a51c659c2ba6b12e8e7e7
+source-git-commit: 1c6626847e3fcd8f07332dddabc6a9355f83a120
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '54'
+ht-degree: 100%
 
 ---
 
 # 使用 CNAME 委派子域
-
->[!IMPORTANT]
->
-> 使用 CNAME 进行子域委派还处于测试阶段，可能会频繁更新和修改，恕不另行通知。
 
 要使用 Adobe Campaign 开始发送电子邮件或发布登陆页面，您需要设置一个新子域。
 
