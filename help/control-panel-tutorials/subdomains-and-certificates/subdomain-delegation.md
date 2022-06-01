@@ -11,18 +11,14 @@ role: Admin
 level: Experienced
 original-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/administrating/control-panel-acc/subdomain-delegation.html
 exl-id: 28960c68-860c-4707-8d59-65c3222307dd
-source-git-commit: 7d63f43c26182bd7ffb618392463283da0b3d307
+source-git-commit: 80d6c06de5f14996daaedeb07b050db81908c370
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '99'
+ht-degree: 79%
 
 ---
 
 # 完全子域委派
-
->[!IMPORTANT]
->
-> 从 [!UICONTROL Control Panel] 处于测试阶段，可能会频繁更新和修改，恕不另行通知。
 
 Adobe Campaign [!UICONTROL Control Panel]允许您将子域完全委派给 Adobe Campaign。
 
