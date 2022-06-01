@@ -6,10 +6,10 @@ index: true
 feature: Control Panel
 role: Admin
 level: Experienced
-source-git-commit: cae588174705dea60149788944be7faa3a9b50cd
+source-git-commit: e36c5a082f5e7bbe9c5996a1ee0dbf9348968c1c
 workflow-type: tm+mt
-source-wordcount: '122'
-ht-degree: 100%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -24,8 +24,8 @@ ht-degree: 100%
    + [生成 SSH 密钥](/help/control-panel-tutorials/sftp-management/generate-ssh-key.md)
    + [连接到 SFTP 服务器](/help/control-panel-tutorials/sftp-management/connect-to-sftp-server.md)
 + 子域和证书 {#subdomains-and-certificates}
-   + [完全子域委派（测试版）](/help/control-panel-tutorials/subdomains-and-certificates/subdomain-delegation.md)
-   + [使用 CNAME（测试版）委派子域](/help/control-panel-tutorials/subdomains-and-certificates/delegating-subdomains-using-cname.md)
+   + [完全子域委派](/help/control-panel-tutorials/subdomains-and-certificates/subdomain-delegation.md)
+   + [使用CNAME委派子域](/help/control-panel-tutorials/subdomains-and-certificates/delegating-subdomains-using-cname.md)
    + [添加 SSL 证书](/help/control-panel-tutorials/subdomains-and-certificates/adding-ssl-certificates.md)
    + [Google TXT 记录管理](/help/control-panel-tutorials/subdomains-and-certificates/google-txt-record-management.md)
 + 实例设置 {#instance-settings}
