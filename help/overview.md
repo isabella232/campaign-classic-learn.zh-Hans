@@ -7,10 +7,10 @@ role: User, Admin, Developer
 level: Beginner
 recommendations: noCatalog, noDisplay
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
-source-git-commit: 7048f1ac4fefb382941ec611b0b28b31f1de1df3
-workflow-type: ht
-source-wordcount: '269'
-ht-degree: 100%
+source-git-commit: 35c931b7859be5d5d4353b51ddf4f9a923f7270c
+workflow-type: tm+mt
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -23,17 +23,20 @@ Adobe Campaign 提供了跨渠道客户体验设计平台，并为可视化的�
 
 ## 新增功能
 
-* **[与 Adobe Target 集成](/help/integrations/target-integration.md)**
+* **[短信简介](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/introduction-to-sms.html)**:
+   *了解短信的工作方式以及Adobe Campaign发送短信的方式。*
 
-   *了解如何使用 Adobe Target 提供的动态内容对投放进行个性化。*
+* **[为标准SMPP提供商设置短信帐户](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/set-up-account-for-standard-smpp-provider.html)**
 
-* **[创建跨渠道活动](/help/orchestrating-campaigns/cross-channel-campaigns.md)**
+   *了解如何根据您的SMPP提供商调整SMS连接器。 优化短信设置以处理连接限制、设置最大吞吐量、发送窗口，以及使用TLS进行加密。*
 
-   *了解如何创建和执行跨渠道活动。*
+* **[根据您的SMPP提供商调整SMS连接器](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/adapt-sms-connector-to-smpp-provider.html)**
 
-* **[使用对照组](/help/sending-messages/email-channel/use-control-groups.md)**
+   *了解如何优化短信设置以处理连接限制、设置最大吞吐量、发送窗口，以及使用TLS进行加密。*
 
-   *了解对照组的概念以及如何将对照组用于投放。*
+* **[最大限度地提高电子邮件投资回报率，并了解实现订阅者重新参与的最佳实践](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/strategy/campaign-maximize-email-best-practices.html)**
+
+   *了解如何最大限度地提高电子邮件投资回报，并了解实现订阅者重新参与的最佳实践。 了解提高订阅者参与度的策略，并了解电子邮件促销活动的整体成功情况。*
 
 ## 员工挑选
 
