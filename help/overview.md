@@ -8,9 +8,9 @@ level: Beginner
 recommendations: noCatalog, noDisplay
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
 source-git-commit: da73463b67cefbd617e837ec54d5632f51f8aa34
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '371'
-ht-degree: 59%
+ht-degree: 100%
 
 ---
 
@@ -23,21 +23,21 @@ Adobe Campaign 提供了跨渠道客户体验设计平台，并为可视化的�
 
 ## 新增功能
 
-* **[短信简介](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/introduction-to-sms.html)**
+* **[短信简介](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/introduction-to-sms.html?lang=zh-Hans)**
 
-   *了解短信的工作方式以及Adobe Campaign发送短信的方式。*
+   *了解短信的工作方式以及 Adobe Campaign 发送短信的方式。*
 
-* **[为标准SMPP提供商设置短信帐户](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/set-up-account-for-standard-smpp-provider.html)**
+* **[针对标准 SMPP 提供商设置短信帐户](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/set-up-account-for-standard-smpp-provider.html?lang=zh-Hans)**
 
-   *了解如何根据您的SMPP提供商调整SMS连接器。 优化短信设置以处理连接限制、设置最大吞吐量、发送窗口，以及使用TLS进行加密。*
+   *了解如何根据您的 SMPP 提供商调整短信连接器。 优化短信设置以处理连接限制、设置最大吞吐量、发送窗口，以及使用 TLS 进行加密。*
 
-* **[根据您的SMPP提供商调整SMS连接器](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/adapt-sms-connector-to-smpp-provider.html)**
+* **[根据您的 SMPP 提供商调整短信连接器](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/adapt-sms-connector-to-smpp-provider.html?lang=zh-Hans)**
 
-   *了解如何优化短信设置以处理连接限制、设置最大吞吐量、发送窗口，以及使用TLS进行加密。*
+   *了解如何优化短信设置以处理连接限制、设置最大吞吐量、发送窗口，以及使用 TLS 进行加密。*
 
-* **[最大限度地提高电子邮件投资回报率，并了解实现订阅者重新参与的最佳实践](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/strategy/campaign-maximize-email-best-practices.html)**
+* **[最大限度地提高电子邮件投资回报率，并了解实现订阅者重新参与的最佳实践](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/strategy/campaign-maximize-email-best-practices.html?lang=zh-Hans)**
 
-   *了解如何最大限度地提高电子邮件投资回报，并了解实现订阅者重新参与的最佳实践。 了解提高订阅者参与度的策略，并了解电子邮件促销活动的整体成功情况。*
+   *了解如何最大限度地提高电子邮件投资回报，并了解实现订阅者重新参与的最佳实践。 探索提高订阅者参与度的策略，并了解电子邮件促销活动的整体成功情况。*
 
 ## 员工挑选
 
