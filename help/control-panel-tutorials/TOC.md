@@ -7,9 +7,9 @@ feature: Control Panel
 role: Admin
 level: Experienced
 source-git-commit: e36c5a082f5e7bbe9c5996a1ee0dbf9348968c1c
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '120'
+ht-degree: 100%
 
 ---
 
@@ -25,7 +25,7 @@ ht-degree: 0%
    + [连接到 SFTP 服务器](/help/control-panel-tutorials/sftp-management/connect-to-sftp-server.md)
 + 子域和证书 {#subdomains-and-certificates}
    + [完全子域委派](/help/control-panel-tutorials/subdomains-and-certificates/subdomain-delegation.md)
-   + [使用CNAME委派子域](/help/control-panel-tutorials/subdomains-and-certificates/delegating-subdomains-using-cname.md)
+   + [使用 CNAME 委派子域](/help/control-panel-tutorials/subdomains-and-certificates/delegating-subdomains-using-cname.md)
    + [添加 SSL 证书](/help/control-panel-tutorials/subdomains-and-certificates/adding-ssl-certificates.md)
    + [Google TXT 记录管理](/help/control-panel-tutorials/subdomains-and-certificates/google-txt-record-management.md)
 + 实例设置 {#instance-settings}
