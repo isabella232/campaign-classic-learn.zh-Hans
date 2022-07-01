@@ -7,10 +7,10 @@ role: User, Admin, Developer
 level: Beginner
 recommendations: noCatalog, noDisplay
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
-source-git-commit: 1e10b9b29fb7c10f5754c3fdd300c68e27448da6
+source-git-commit: 3341541a9d21a8006da1b910315b2e21efbc5e87
 workflow-type: tm+mt
-source-wordcount: '353'
-ht-degree: 81%
+source-wordcount: '384'
+ht-degree: 74%
 
 ---
 
@@ -22,6 +22,10 @@ Adobe Campaign 提供了跨渠道客户体验设计平台，并为可视化的�
 > 您是否有疑问？您想与同行分享您的经验或交流想法吗？或者，您是否对 Adobe 团队的学习内容有任何反馈意见？在 [Adobe Campaign 学习社区的主题帖](https://experienceleaguecommunities.adobe.com:443/t5/adobe-campaign-classic/join-the-discussion-on-adobe-campaign-learning/td-p/419096)中加入对话！
 
 ## 新增功能
+
+* **[控制面板混合托管模型](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/control-panel-for-hybrid-hosting-models.html)**
+
+   *了解如何为Adobe Campaign混合托管模型启用控制面板、访问控制面板以及解锁关键功能。*
 
 * **[控制面板 — 监控工作流](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/performance-monitoring/monitor-workflows.html){target=&quot;_blank&quot;}**
 
