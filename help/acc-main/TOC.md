@@ -6,8 +6,8 @@ user-guide-description: 借助 Adobe Campaign Classic，营销人员可以设计
 breadcrumb-title: 教程
 source-git-commit: 2dda295d82179e7838a3b6b76fbf79668dd6e1d7
 workflow-type: tm+mt
-source-wordcount: '406'
-ht-degree: 97%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -87,7 +87,7 @@ ht-degree: 97%
    + [与 Adobe Target 集成](/help/integrations/target-integration.md)
    + [与 Dynamics 365 集成](/help/integrations/dynamics365-integration.md)
 + 管理{#administrating}
-   + [控制面板](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/control-panel-overview.html){target=&quot;_blank&quot;}
+   + [控制面板](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/control-panel-overview.html?lang=zh-Hans){target=&quot;_blank&quot;}
    + 访问外部数据库（联合数据访问）{#fda}
       + [ [!DNL Snowflake]的大数据管理](/help/administrating/snowflake/big-data-segmentation-on-snowflake.md)
 + [Adobe Campaign 故障排除](https://experienceleague.adobe.com/docs/campaign-classic-learn/troubleshooting/overview.html?lang=zh-Hans)
