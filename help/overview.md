@@ -8,9 +8,9 @@ level: Beginner
 recommendations: noCatalog, noDisplay
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
 source-git-commit: 3341541a9d21a8006da1b910315b2e21efbc5e87
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '384'
-ht-degree: 74%
+ht-degree: 100%
 
 ---
 
@@ -23,17 +23,17 @@ Adobe Campaign 提供了跨渠道客户体验设计平台，并为可视化的�
 
 ## 新增功能
 
-* **[控制面板混合托管模型](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/control-panel-for-hybrid-hosting-models.html)**
+* **[用于混合托管模型的控制面板](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/control-panel-for-hybrid-hosting-models.html?lang=zh-Hans)**
 
-   *了解如何为Adobe Campaign混合托管模型启用控制面板、访问控制面板以及解锁关键功能。*
+   *了解如何为 Adobe Campaign 混合托管模型启用控制面板、访问控制面板以及解锁关键功能。*
 
-* **[控制面板 — 监控工作流](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/performance-monitoring/monitor-workflows.html){target=&quot;_blank&quot;}**
+* **[控制面板 - 监测工作流](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/performance-monitoring/monitor-workflows.html?lang=zh-Hans){target=&quot;_blank&quot;}**
 
-   *了解如何监控工作流的临时存储使用情况以及在何处配置工作流设置以避免实例上出现数据库或工作流问题。*
+   *了解如何监测工作流的临时存储使用情况，以及在何处配置工作流设置以避免实例上出现数据库或工作流问题。*
 
-* **[控制面板 — 监控吞吐量和延迟](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/performance-monitoring/monitor-throughputs-and-latency.html){target=&quot;_blank&quot;}**
+* **[控制面板 - 监测吞吐量和延迟](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/performance-monitoring/monitor-throughputs-and-latency.html?lang=zh-Hans){target=&quot;_blank&quot;}**
 
-   *了解如何监控Campaign实例的投放吞吐量和事务型消息延迟。*
+   *了解如何监测 Campaign 实例的投放吞吐量和事务性消息延迟。*
 
 * **[短信简介](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/introduction-to-sms.html?lang=zh-Hans)**
 
