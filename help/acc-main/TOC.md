@@ -4,8 +4,8 @@ sub-product: Campaign Classic
 user-guide-title: Adobe Campaign Classic 教程
 user-guide-description: 借助 Adobe Campaign Classic，营销人员可以设计跨渠道客户体验并提供可视活动编排、实时交互管理和跨渠道执行的环境。
 breadcrumb-title: 教程
-source-git-commit: 2dda295d82179e7838a3b6b76fbf79668dd6e1d7
-workflow-type: ht
+source-git-commit: 5ea94a7e00a2c9fdc9fbadb563aa61f43479cb24
+workflow-type: tm+mt
 source-wordcount: '406'
 ht-degree: 100%
 
@@ -44,7 +44,6 @@ ht-degree: 100%
       + [电子邮件投放问题疑难解答](/help/sending-messages/email-channel/troubleshooting-email-delivery-issues.md)
       + [设计可投放的电子邮件](/help/sending-messages/email-channel/design-emails-for-deliverability.md)
    + 短信渠道{#sms-channel}
-      + [设置 Adobe Campaign 短信](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/overview.html?lang=zh-Hans)
       + [创建短信投放](/help/sending-messages/mobile-channel/create-a-sms-delivery.md)
    + 推送渠道{#push-channel}
       + [安装移动应用程序通道](/help/sending-messages/mobile-channel/installing-the-mobile-app-channel.md)
@@ -88,6 +87,7 @@ ht-degree: 100%
    + [与 Dynamics 365 集成](/help/integrations/dynamics365-integration.md)
 + 管理{#administrating}
    + [控制面板](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/control-panel-overview.html?lang=zh-Hans){target=&quot;_blank&quot;}
+   + [设置 Adobe Campaign 短信](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/overview.html?lang=zh-Hans)
    + 访问外部数据库（联合数据访问）{#fda}
       + [ [!DNL Snowflake]的大数据管理](/help/administrating/snowflake/big-data-segmentation-on-snowflake.md)
 + [Adobe Campaign 故障排除](https://experienceleague.adobe.com/docs/campaign-classic-learn/troubleshooting/overview.html?lang=zh-Hans)

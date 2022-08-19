@@ -7,10 +7,10 @@ role: User, Admin, Developer
 level: Beginner
 recommendations: noCatalog, noDisplay
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
-source-git-commit: 3341541a9d21a8006da1b910315b2e21efbc5e87
-workflow-type: ht
-source-wordcount: '384'
-ht-degree: 100%
+source-git-commit: 5ea94a7e00a2c9fdc9fbadb563aa61f43479cb24
+workflow-type: tm+mt
+source-wordcount: '414'
+ht-degree: 92%
 
 ---
 
@@ -22,6 +22,10 @@ Adobe Campaign 提供了跨渠道客户体验设计平台，并为可视化的�
 > 您是否有疑问？您想与同行分享您的经验或交流想法吗？或者，您是否对 Adobe 团队的学习内容有任何反馈意见？在 [Adobe Campaign 学习社区的主题帖](https://experienceleaguecommunities.adobe.com:443/t5/adobe-campaign-classic/join-the-discussion-on-adobe-campaign-learning/td-p/419096)中加入对话！
 
 ## 新增功能
+
+* **[SMPP协议深入研究和疑难解答](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/smpp-deep-dive-and-troubleshooting.html)**
+
+   *了解如何建立SMPP连接，以及SMPP如何通过PDU交换数据。 了解如何对连接进行故障诊断。*
 
 * **[用于混合托管模型的控制面板](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/control-panel-for-hybrid-hosting-models.html?lang=zh-Hans)**
 
@@ -35,11 +39,11 @@ Adobe Campaign 提供了跨渠道客户体验设计平台，并为可视化的�
 
    *了解如何监测 Campaign 实例的投放吞吐量和事务性消息延迟。*
 
-* **[短信简介](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/introduction-to-sms.html?lang=zh-Hans)**
+* **[短信简介](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/introduction-to-sms.html)**
 
    *了解短信的工作方式以及 Adobe Campaign 发送短信的方式。*
 
-* **[针对标准 SMPP 提供商设置短信帐户](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/set-up-account-for-standard-smpp-provider.html?lang=zh-Hans)**
+* **[针对标准 SMPP 提供商设置短信帐户](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/set-up-account-for-standard-smpp-provider.html)**
 
    *了解如何根据您的 SMPP 提供商调整短信连接器。 优化短信设置以处理连接限制，设置最大吞吐量、发送窗口，以及使用 TLS 进行加密。*
 
