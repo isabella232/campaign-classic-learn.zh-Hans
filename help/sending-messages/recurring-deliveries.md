@@ -1,5 +1,5 @@
 ---
-title: 如何设置循环和连续的电子邮件活动
+title: 配置循环和连续的电子邮件活动
 description: 了解如何设置循环和连续投放，并了解两种方法之间的差异。
 feature: Workflows, Campaigns
 kt: 1560
@@ -9,14 +9,14 @@ team: TM
 role: User
 level: Beginner
 exl-id: 42f2a7e6-7d88-473b-b913-fe09b7016b28
-source-git-commit: 7d63f43c26182bd7ffb618392463283da0b3d307
+source-git-commit: 5f0cfc42aa1405c37787cd16d4cd0d6b7a462227
 workflow-type: tm+mt
-source-wordcount: '245'
-ht-degree: 51%
+source-wordcount: '239'
+ht-degree: 50%
 
 ---
 
-# 如何设置循环和连续的电子邮件营销活动
+# 配置循环和连续的电子邮件活动
 
 本教程介绍了如何设置循环和连续投放，以及这两种方法之间的差异。
 
