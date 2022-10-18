@@ -7,9 +7,9 @@ role: User, Admin, Developer
 level: Beginner
 recommendations: noCatalog, noDisplay
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
-source-git-commit: e9b7b7e76e026227bd8c44a854bde98d1adf1428
+source-git-commit: 10be650f7a5e001d7afb74dcab1edb7dbfc0ec96
 workflow-type: ht
-source-wordcount: '420'
+source-wordcount: '0'
 ht-degree: 100%
 
 ---
@@ -20,6 +20,8 @@ Adobe Campaign 提供了跨渠道客户体验设计平台，并为可视化的�
 
 >[!INFO]
 > 您是否有疑问？您想与同行分享您的经验或交流想法吗？或者，您是否对 Adobe 团队的学习内容有任何反馈意见？在 [Adobe Campaign 学习社区的主题帖](https://experienceleaguecommunities.adobe.com:443/t5/adobe-campaign-classic/join-the-discussion-on-adobe-campaign-learning/td-p/419096)中加入对话！
+
+<div id="whats-new-section">
 
 ## 新增功能
 
@@ -46,6 +48,17 @@ Adobe Campaign 提供了跨渠道客户体验设计平台，并为可视化的�
 * **[针对标准 SMPP 提供商设置短信帐户](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/set-up-account-for-standard-smpp-provider.html?lang=zh-Hans)**
 
    *了解如何根据您的 SMPP 提供商调整短信连接器。 优化短信设置以处理连接限制，设置最大吞吐量、发送窗口，以及使用 TLS 进行加密。*
+
+</div>
+
+<div id="recs-overview-body-1"></div>
+<div id="recs-overview-body-2"></div>
+<div id="recs-overview-body-3"></div>
+<div id="recs-overview-body-4"></div>
+<div id="recs-overview-body-5"></div>
+<div id="recs-overview-body-6"></div>
+
+<div id="staff-picks-section">
 
 ## 员工挑选
 
@@ -92,6 +105,8 @@ Adobe Campaign 提供了跨渠道客户体验设计平台，并为可视化的�
   </td>
 </tr>
 </table>
+
+</div>
 
 ## 其他资源
 
