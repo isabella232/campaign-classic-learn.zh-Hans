@@ -5,16 +5,15 @@ sub-product: Campaign Classic
 feature: Overview
 role: User, Admin, Developer
 level: Beginner
-recommendations: noCatalog, noDisplay
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
-source-git-commit: 10be650f7a5e001d7afb74dcab1edb7dbfc0ec96
+source-git-commit: 92d32058534303c35cf111ce9ce3836687391000
 workflow-type: tm+mt
-source-wordcount: '420'
-ht-degree: 100%
+source-wordcount: '419'
+ht-degree: 98%
 
 ---
 
-# Adobe Campaign Classic V7 教程 - 概述
+# Adobe Campaign Classic V7教程
 
 Adobe Campaign 提供了跨渠道客户体验设计平台，并为可视化的活动编排、实时互动管理和跨渠道执行提供了环境。本用户指南包含了有关 Adobe Campaign Classic V7 的众多特性和功能的视频和教程。
 
