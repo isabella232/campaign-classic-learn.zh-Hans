@@ -6,8 +6,8 @@ user-guide-description: 借助 Adobe Campaign Classic，营销人员可以设计
 breadcrumb-title: 教程
 source-git-commit: 4be021933b4124a19282a235fc364b663c9028bf
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '413'
+ht-degree: 99%
 
 ---
 
@@ -77,7 +77,7 @@ ht-degree: 0%
    + [配置扩充活动](/help/automating-with-workflows/enrichment-activity.md)
    + [数据分段](/help/data-management/data-segmentation.md)
    + [管理审批](/help/automating-with-workflows/managing-approvals.md)
-   + [向同行学习 — 工作流最佳实践](/help/automating-with-workflows/workflow-best-practices-for-marketers.md)
+   + [向同行学习 - 工作流最佳实践](/help/automating-with-workflows/workflow-best-practices-for-marketers.md)
 + 设计内容{#designing-content}
    + [配置登陆页面](/help/designing-content/configure-landingpages.md)
 + 监测{#monitoring}
