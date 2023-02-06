@@ -1,19 +1,19 @@
 ---
 title: Adobe Campaign Classic 教程 - 概述
-description: Adobe Campaign提供了跨渠道客户体验设计平台，并提供了可视活动编排、实时交互管理和Cross-channel Execution的环境。 本用户指南包含了有关 Adobe Campaign Standard 的众多特性和功能的视频和教程。
+description: Adobe Campaign 提供了跨渠道客户体验设计平台，并为可视化的活动编排、实时互动管理和跨渠道执行提供了环境。本用户指南包含了有关 Adobe Campaign Standard 的众多特性和功能的视频和教程。
 sub-product: Campaign Classic
 feature: Overview
 role: User, Admin, Developer
 level: Beginner
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
 source-git-commit: 24ef8cdb92d45d24fc15f23045deae137d018b10
-workflow-type: tm+mt
-source-wordcount: '417'
-ht-degree: 92%
+workflow-type: ht
+source-wordcount: '413'
+ht-degree: 100%
 
 ---
 
-# Adobe Campaign Classic V7教程
+# Adobe Campaign Classic V7 教程
 
 Adobe Campaign 提供了跨渠道客户体验设计平台，并为可视化的活动编排、实时互动管理和跨渠道执行提供了环境。本用户指南包含了有关 Adobe Campaign Classic V7 的众多特性和功能的视频和教程。
 
@@ -32,11 +32,11 @@ Adobe Campaign 提供了跨渠道客户体验设计平台，并为可视化的�
 
    *了解如何为 Adobe Campaign 混合托管模型启用控制面板、访问控制面板以及解锁关键功能。*
 
-* **[控制面板 - 监测工作流](https://experienceleague.adobe.com/docs/control-panel-learn/tutorials/performance-monitoring/monitor-workflows.html?lang=zh-Hans){target=&quot;_blank&quot;}**
+* **[控制面板 - 监测工作流](https://experienceleague.adobe.com/docs/control-panel-learn/tutorials/performance-monitoring/monitor-workflows.html?lang=zh-Hans){target="_blank"}**
 
    *了解如何监测工作流的临时存储使用情况，以及在何处配置工作流设置以避免实例上出现数据库或工作流问题。*
 
-* **[控制面板 - 监测吞吐量和延迟](https://experienceleague.adobe.com/docs/control-panel-learn/tutorials/performance-monitoring/monitor-throughputs-and-latency.html?lang=zh-Hans){target=&quot;_blank&quot;}**
+* **[控制面板 - 监测吞吐量和延迟](https://experienceleague.adobe.com/docs/control-panel-learn/tutorials/performance-monitoring/monitor-throughputs-and-latency.html?lang=zh-Hans){target="_blank"}**
 
    *了解如何监测 Campaign 实例的投放吞吐量和事务性消息延迟。*
 
@@ -59,7 +59,7 @@ Adobe Campaign 提供了跨渠道客户体验设计平台，并为可视化的�
 
 <div id="staff-picks-section">
 
-## 员工挑选
+## 员工精选
 
 <table>
 <tr>
