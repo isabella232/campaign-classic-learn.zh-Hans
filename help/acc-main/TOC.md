@@ -4,10 +4,10 @@ sub-product: Campaign Classic
 user-guide-title: Adobe Campaign Classic 教程
 user-guide-description: 借助 Adobe Campaign Classic，营销人员可以设计跨渠道客户体验并提供可视活动编排、实时交互管理和跨渠道执行的环境。
 breadcrumb-title: 教程
-source-git-commit: bc9d5b178d3bb3fc7d76056da0eac700aedb571d
+source-git-commit: 809be24835e288baa8d11aed3ce4d8d85149d66c
 workflow-type: tm+mt
-source-wordcount: '420'
-ht-degree: 100%
+source-wordcount: '426'
+ht-degree: 98%
 
 ---
 
@@ -35,6 +35,7 @@ ht-degree: 100%
       + [通过电子邮件管理种子和验证](/help/sending-messages/email-channel/managing-seed-and-proofs.md)
       + [发送并确认验证](/help/sending-messages/email-channel/send-and-validate-proofs.md)
       + [使用对照组](/help/sending-messages/email-channel/use-control-groups.md)
+      + [为A/B测试配置投放](/help/sending-messages/email-channel/configure-deliveries-for-ab-testing.md)
       + [配置动态内容](/help/sending-messages/email-channel/configuring-dynamic-content.md)
       + [使用动态内容块个性化电子邮件](/help/sending-messages/email-channel/personalization-with-dynamic-content-blocks.md)
       + [使用个性化字段个性化电子邮件](/help/sending-messages/email-channel/personalizing-emails-using-personalization-fields.md)
