@@ -4,10 +4,10 @@ sub-product: Campaign Classic
 user-guide-title: Adobe Campaign Classic 教程
 user-guide-description: 借助 Adobe Campaign Classic，营销人员可以设计跨渠道客户体验并提供可视活动编排、实时交互管理和跨渠道执行的环境。
 breadcrumb-title: 教程
-source-git-commit: 545da6c56096f6d695d63490dc1833bdbbcb46cf
+source-git-commit: 20e337556e1b0db8280c7ed6d64fa5ec8dcfeebf
 workflow-type: tm+mt
-source-wordcount: '436'
-ht-degree: 97%
+source-wordcount: '441'
+ht-degree: 96%
 
 ---
 
@@ -81,8 +81,9 @@ ht-degree: 97%
    + [数据分段](/help/data-management/data-segmentation.md)
    + [管理审批](/help/automating-with-workflows/managing-approvals.md)
    + [向同行学习 - 工作流最佳实践](/help/automating-with-workflows/workflow-best-practices-for-marketers.md)
-+ 设计内容{#designing-content}
++ 配置登陆页面 {#landing-pages}
    + [配置登陆页面](/help/designing-content/configure-landingpages.md)
+   + [创建首选项中心](/help/designing-content/create-a-preference-center.md)
 + 监测{#monitoring}
    + [工作流热图](/help/monitoring-campaign-classic/workflow-heatmap.md)
    + [审核记录](/help/monitoring-campaign-classic/audit-trail.md)
