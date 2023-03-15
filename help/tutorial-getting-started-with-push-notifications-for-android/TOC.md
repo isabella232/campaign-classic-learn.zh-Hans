@@ -4,7 +4,7 @@ user-guide-description: 本教程将指导您完成将推送通知从 Adobe Camp
 breadcrumb-title: Android 推送通知入门
 index: true
 source-git-commit: d0fc0f9009f090af6f2bc366d199594026044d18
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '81'
 ht-degree: 100%
 
