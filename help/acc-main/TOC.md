@@ -5,9 +5,9 @@ user-guide-title: Adobe Campaign Classic 教程
 user-guide-description: 借助 Adobe Campaign Classic，营销人员可以设计跨渠道客户体验并提供可视活动编排、实时交互管理和跨渠道执行的环境。
 breadcrumb-title: 教程
 source-git-commit: 20e337556e1b0db8280c7ed6d64fa5ec8dcfeebf
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '441'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
@@ -35,7 +35,7 @@ ht-degree: 96%
       + [通过电子邮件管理种子和验证](/help/sending-messages/email-channel/managing-seed-and-proofs.md)
       + [发送并确认验证](/help/sending-messages/email-channel/send-and-validate-proofs.md)
       + [使用对照组](/help/sending-messages/email-channel/use-control-groups.md)
-      + [为A/B测试配置投放](/help/sending-messages/email-channel/configure-deliveries-for-ab-testing.md)
+      + [配置 A/B 测试的投放](/help/sending-messages/email-channel/configure-deliveries-for-ab-testing.md)
       + [配置动态内容](/help/sending-messages/email-channel/configuring-dynamic-content.md)
       + [使用动态内容块个性化电子邮件](/help/sending-messages/email-channel/personalization-with-dynamic-content-blocks.md)
       + [使用个性化字段个性化电子邮件](/help/sending-messages/email-channel/personalizing-emails-using-personalization-fields.md)
@@ -89,7 +89,7 @@ ht-degree: 96%
    + [审核记录](/help/monitoring-campaign-classic/audit-trail.md)
 + 数据管理 {#data-management}
    + [查询数据](/help/data-management/query-data.md)
-+ 集成{#integrating}
++ 集成 {#integrating}
    + [与 Adobe Target 集成](/help/integrations/target-integration.md)
    + [与 Dynamics 365 集成](/help/integrations/dynamics365-integration.md)
 + 管理{#administrating}
