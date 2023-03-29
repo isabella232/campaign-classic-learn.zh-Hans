@@ -4,10 +4,10 @@ sub-product: Campaign Classic
 user-guide-title: Adobe Campaign Classic 教程
 user-guide-description: 借助 Adobe Campaign Classic，营销人员可以设计跨渠道客户体验并提供可视活动编排、实时交互管理和跨渠道执行的环境。
 breadcrumb-title: 教程
-source-git-commit: af37ff7388ae3bbc615726372d06a990737676a7
+source-git-commit: d91185009803755731f07a0b187dd60cf9141699
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '452'
+ht-degree: 98%
 
 ---
 
@@ -43,6 +43,7 @@ ht-degree: 0%
       + [配置循环和连续的电子邮件活动](/help/sending-messages/recurring-deliveries.md)
       + [使用 AMP 定义交互式电子邮件内容](/help/sending-messages/email-channel/defining-interactive-email-content-with-amp.md)
       + [电子邮件投放问题疑难解答](/help/sending-messages/email-channel/troubleshooting-email-delivery-issues.md)
+      + [向电子邮件投放添加附件](/help/sending-messages/email-channel/add-attachments-to-an-email-delivery.md)
       + [设计可投放的电子邮件](/help/sending-messages/email-channel/design-emails-for-deliverability.md)
    + 短信渠道{#sms-channel}
       + [创建短信投放](/help/sending-messages/mobile-channel/create-a-sms-delivery.md)
