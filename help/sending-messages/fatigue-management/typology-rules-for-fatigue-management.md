@@ -9,10 +9,10 @@ team: TM
 role: User
 level: Beginner
 exl-id: 1bb86ce5-39b1-4081-aa63-72b218a02f28
-source-git-commit: 7d63f43c26182bd7ffb618392463283da0b3d307
+source-git-commit: 13f7ab2dd41216a603a22f181dc4d06302c5918a
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '143'
+ht-degree: 41%
 
 ---
 
@@ -24,6 +24,6 @@ ht-degree: 0%
 
 以下视频介绍如何通过应用分类规则在Adobe Campaign Classic中实施疲劳管理。
 
->[!VIDEO](https://video.tv.adobe.com/v/25090?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/25090?quality=12&learn=on)
 
 请访问产品文档，了解有关 [活动类型](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/campaign-optimization/about-campaign-typologies.html?lang=zh-Hans).

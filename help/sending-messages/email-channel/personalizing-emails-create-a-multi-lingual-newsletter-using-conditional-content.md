@@ -10,10 +10,10 @@ team: TM
 role: User
 level: Beginner
 exl-id: 080f5229-9eae-45b6-b0e0-13b4721ad79c
-source-git-commit: 7d63f43c26182bd7ffb618392463283da0b3d307
+source-git-commit: 13f7ab2dd41216a603a22f181dc4d06302c5918a
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '91'
+ht-degree: 45%
 
 ---
 
@@ -23,6 +23,6 @@ ht-degree: 0%
 
 了解如何在多语言新闻稿的示例中向投放添加条件内容。
 
->[!VIDEO](https://video.tv.adobe.com/v/24926?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/24926?quality=12&learn=on)
 
-要了解有关个性化的更多信息，请参阅 [产品文档](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/personalizing-deliveries/about-personalization.html).
+要了解有关个性化的更多信息，请参阅[产品文档](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/personalizing-deliveries/about-personalization.html?lang=zh-Hans)。

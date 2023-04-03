@@ -10,8 +10,8 @@ team: WWFRE
 role: User
 level: Beginner
 exl-id: 018e36bc-1afc-42c0-a459-4d51775ff6f8
-source-git-commit: 7d63f43c26182bd7ffb618392463283da0b3d307
-workflow-type: ht
+source-git-commit: 13f7ab2dd41216a603a22f181dc4d06302c5918a
+workflow-type: tm+mt
 source-wordcount: '62'
 ht-degree: 100%
 
@@ -21,6 +21,6 @@ ht-degree: 100%
 
 了解创建电子邮件投放的过程，并了解如何设计和个性化电子邮件内容。
 
->[!VIDEO](https://video.tv.adobe.com/v/330941?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/330941?quality=12&learn=on)
 
 有关更多信息，请参阅 [产品文档](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/sending-emails/defining-the-email-content.html?lang=zh-Hans)

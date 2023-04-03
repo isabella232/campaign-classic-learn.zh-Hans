@@ -6,7 +6,7 @@ kt: 2938
 doc-type: article
 activity: use
 team: PM
-source-git-commit: 8910430585bdaa0db076db9c34b34798f649d39c
+source-git-commit: 13f7ab2dd41216a603a22f181dc4d06302c5918a
 workflow-type: tm+mt
 source-wordcount: '330'
 ht-degree: 80%
@@ -23,7 +23,7 @@ ht-degree: 80%
 **要做什么：**
 用户须找到其 IMS Org ID (xxx)。管理员须将用户添加到要管理的每个实例的产品用户档案“Campaign-xxx-Admins”中。如果用户是所有实例的管理员，他们仍须将自己添加为用户。
 
-### 症状：Experience Cloud 主页中访问 [!UICONTROL Control Panel]的链接不显示给用户
+### 症状：Experience Cloud 主页中访问 [!UICONTROL Control Panel] 的链接不显示给用户
 
 **原因：**
 用户只有在产品用户档案 _Campaign-xxx-Administrators/Admin_ 中将其添加为用户后，才会看到这些链接。
@@ -31,7 +31,7 @@ ht-degree: 80%
 **要做什么：**
 管理员须将用户添加到要管理的每个实例的产品用户档案 _Campaign-xxx-Admins_ 中。如果用户是所有实例的管理员，则必须将自己添加为“用户”。
 
-### 症状：实例未列在 [!UICONTROL Control Panel]中
+### 症状：实例未列在 [!UICONTROL Control Panel] 中
 
 **原因：**
 最可能的用户必须添加为“用户”产品配置文件 _Campaign-xxx-Administrators/Admin_ 对于缺少的实例
@@ -41,18 +41,18 @@ ht-degree: 80%
 
 ### 实用视频
 
->[!VIDEO](https://video.tv.adobe.com/v/27183?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/27183?quality=12&learn=on)
 
 *查找 IMS Org ID（00:26 分）*
 
->[!VIDEO](https://video.tv.adobe.com/v/27147?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/27147?quality=12&learn=on)
 
-*如何将管理员在产品用户档案中添加为管理员，以便能够使用[!UICONTROL Control panel]（01:03 分钟）*
+*如何将管理员在产品用户档案中添加为管理员，以便能够使用[!UICONTROL Control panel]（1 分 3 秒）*
 
 ### 帮助文档
 
 * [了解控制面板](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=zh-Hans)
-* [管理 [!UICONTROL Control Panel]的权限](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=en)
+* [管理 [!UICONTROL Control Panel]的权限](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=zh-Hans)
 
 ## 建立与 SFTP 服务器（客户端或 API）的连接
 
@@ -64,5 +64,5 @@ ht-degree: 80%
 
 ### 帮助文档 {#helpful-docs}
 
-* [登录 SFTP 服务器](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=en)
+* [登录 SFTP 服务器](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=zh-Hans)
 

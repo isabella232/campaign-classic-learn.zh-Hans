@@ -12,7 +12,7 @@ team: WWFRE
 role: User
 level: Beginner
 exl-id: f5694e76-4694-45f3-b4c1-3478f7543b3f
-source-git-commit: fbf37d803677743773e675faa6b66c3a0998d11d
+source-git-commit: 13f7ab2dd41216a603a22f181dc4d06302c5918a
 workflow-type: tm+mt
 source-wordcount: '111'
 ht-degree: 100%
@@ -25,4 +25,4 @@ ht-degree: 100%
 
 此视频还介绍了 Adobe Campaign Classic 对一般数据保护条例 (GDPR) 和加州消费者隐私权法案 (CCPA) 的合规性。
 
->[!VIDEO](https://video.tv.adobe.com/v/35611?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/35611?quality=12&learn=on)

@@ -6,10 +6,10 @@ kt: 3232
 doc-type: feature video
 activity: use
 team: TM
-source-git-commit: 7d63f43c26182bd7ffb618392463283da0b3d307
+source-git-commit: 13f7ab2dd41216a603a22f181dc4d06302c5918a
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '63'
+ht-degree: 88%
 
 ---
 
@@ -20,4 +20,4 @@ A [!UICONTROL Delivery-type activity] 允许您创建投放操作。 它可以�
 
 此视频介绍了如何部署电子邮件投放模板。它解释了电子邮件投放与投放工作流之间的区别。
 
->[!VIDEO](https://video.tv.adobe.com/v/24065?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/24065?quality=12&learn=on)

@@ -1,6 +1,6 @@
 ---
 title: 如何使用审核记录
-description: '审核记录可实时捕获在 Adobe Campaign 内发生的操作和事件的全面列表。 '
+description: 审核记录可实时捕获在 Adobe Campaign 内发生的操作和事件的全面列表。
 feature: Audit Trail
 kt: 2835
 doc-type: feature video
@@ -9,7 +9,7 @@ team: PM
 role: Admin
 level: Beginner
 exl-id: 66ce7a21-f0ca-47a5-80f7-ee8596fac7a7
-source-git-commit: 8910430585bdaa0db076db9c34b34798f649d39c
+source-git-commit: 13f7ab2dd41216a603a22f181dc4d06302c5918a
 workflow-type: tm+mt
 source-wordcount: '161'
 ht-degree: 100%
@@ -41,6 +41,6 @@ ht-degree: 100%
 
 以下视频介绍访问审核记录日志的位置以及可以配置的设置。
 
->[!VIDEO](https://video.tv.adobe.com/v/27425?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/27425?quality=12&learn=on)
 
 有关详细信息，请参阅[审核记录文档](https://experienceleague.adobe.com/docs/campaign-classic/using/monitoring-campaign-classic/production-procedures/audit-trail.html?lang=zh-Hans)。

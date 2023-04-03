@@ -8,8 +8,8 @@ doc-type: feature video
 activity: use
 team: TM
 exl-id: adf5eec1-9705-48f0-84a9-57a44bf79d0d
-source-git-commit: 7d63f43c26182bd7ffb618392463283da0b3d307
-workflow-type: ht
+source-git-commit: 13f7ab2dd41216a603a22f181dc4d06302c5918a
+workflow-type: tm+mt
 source-wordcount: '84'
 ht-degree: 100%
 
@@ -21,4 +21,4 @@ ht-degree: 100%
 
 了解如何根据客户与首次投放的交互情况，使用电子邮件和直邮投放创建跨渠道营销活动。
 
->[!VIDEO](https://video.tv.adobe.com/v/330990?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/330990?quality=12&learn=on)

@@ -9,7 +9,7 @@ team: TM
 role: User
 level: Experienced
 exl-id: 34fbb91d-ae99-497c-872e-55ce2e6ea2aa
-source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
+source-git-commit: 13f7ab2dd41216a603a22f181dc4d06302c5918a
 workflow-type: tm+mt
 source-wordcount: '269'
 ht-degree: 96%
@@ -34,18 +34,18 @@ Adobe Campaign 为营销人员提供了多个选项，用于审核和提供投�
 
 如果活动工作流中所有投放都设定同一组审阅人，那么您要在活动级别设置批准和审阅人来应用活动批准功能。执行工作流后，审批任务和审阅人会被向下推送到工作流的每个投放活动中。
 
->[!VIDEO](https://video.tv.adobe.com/v/25175?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/25175?quality=12&learn=on)
 
 ## 为投放配置审批  {#configuring-approvals-for-deliveries}
 
 您还可以在投放级别设置批准。如果投放批准步骤及审阅人与活动批准步骤及审阅人不同，那么投放设置会覆盖活动设置。
 
->[!VIDEO](https://video.tv.adobe.com/v/25176?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/25176?quality=12&learn=on)
 
 ## 配置审批活动  {#configuring-an-approval-activity}
 
 与投放或营销活动批准不同，批准活动允许您在工作流中创建批准流程。如此便可以在启动投放之前批准定位选择逻辑。如有必要，您还可以在工作流的多个级别进行批准。
 
->[!VIDEO](https://video.tv.adobe.com/v/25174?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/25174?quality=12&learn=on)
 
 有关更多信息，请参阅[批准文档](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/flow-control-activities/approval.html?lang=zh-Hans)
