@@ -5,9 +5,9 @@ user-guide-title: Adobe Campaign Classic 教程
 user-guide-description: 借助 Adobe Campaign Classic，营销人员可以设计跨渠道客户体验并提供可视活动编排、实时交互管理和跨渠道执行的环境。
 breadcrumb-title: 教程
 source-git-commit: d91185009803755731f07a0b187dd60cf9141699
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '452'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -60,7 +60,7 @@ ht-degree: 98%
    + 疲劳管理{#fatigue-management}
       + [使用类型规则](/help/sending-messages/fatigue-management/typology-rules-for-fatigue-management.md)
       + [使用预定义过滤器](/help/sending-messages/fatigue-management/fatigue-management-using-filters.md)
-   + 监控消息 {#monitoring-messages}
+   + 监测消息{#monitoring-messages}
       + [了解隔离管理](/help/sending-messages/quarantine-management.md)
    + [配置和管理订阅服务](/help/sending-messages/configuring-and-managing-subscription-services.md)
 + 编排活动{#orchestration}
