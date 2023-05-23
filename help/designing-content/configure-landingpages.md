@@ -1,6 +1,6 @@
 ---
-title: 配置登陆页面
-description: 了解如何创建和配置登陆页面。
+title: 設定登入頁面
+description: 瞭解如何建立和設定登入頁面。
 feature: Landing Pages
 kt: 11918
 thumbnail: 3415819
@@ -17,10 +17,10 @@ ht-degree: 0%
 
 ---
 
-# 配置登陆页面
+# 設定登入頁面
 
-了解如何创建和配置登陆页面。
+瞭解如何建立和設定登入頁面。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3415819/?quality=12&learn=on)
 
-有关详细信息，请参阅 [创建登陆页面](https://experienceleague.adobe.com/docs/campaign-classic/using/designing-content/editing-html-content/creating-a-landing-page.html).
+如需詳細資訊，請參閱以下專案的詳細檔案： [建立登入頁面](https://experienceleague.adobe.com/docs/campaign-classic/using/designing-content/editing-html-content/creating-a-landing-page.html).

@@ -19,6 +19,6 @@ ht-degree: 82%
 
 # 通过排除查询结果优化目标
 
-了解如何通过应用 **[!UICONTROL standard exclusion]** 工作流。 您还将了解如何创建预定义过滤器，以及如何对工作流进行故障诊断。
+瞭解如何套用以縮小目標範圍 **[!UICONTROL standard exclusion]** 至工作流程。 您还将了解如何创建预定义过滤器，以及如何对工作流进行故障诊断。
 
 >[!VIDEO](https://video.tv.adobe.com/v/36826?quality=12&learn=on)

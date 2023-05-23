@@ -1,5 +1,5 @@
 ---
-title: 如何配置扩充活动
+title: 如何設定擴充活動
 description: 了解如何根据投放日志信息配置扩充活动。
 feature: Workflows, Enrichment Activity
 kt: 1561
@@ -16,7 +16,7 @@ ht-degree: 70%
 
 ---
 
-# 如何配置扩充活动
+# 如何設定擴充活動
 
 扩充活动是向工作表格添加数据的工作流对象。利用扩充活动，您可以向表格添加列，用来存储更多数据或定义指向其他现有数据的新链接。
 
@@ -24,4 +24,4 @@ ht-degree: 70%
 
 >[!VIDEO](https://video.tv.adobe.com/v/25193?quality=12&learn=on)
 
-有关更多信息扩充，请参阅 [产品文档](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/targeting-activities/enrichment.html)
+如需更多詳細資訊，請參閱 [產品檔案](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/targeting-activities/enrichment.html)

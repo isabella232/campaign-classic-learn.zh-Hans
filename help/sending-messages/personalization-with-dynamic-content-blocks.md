@@ -1,6 +1,6 @@
 ---
 title: 如何使用动态内容块个性化电子邮件
-description: 本教程演示如何个性化投放内容，在投放模板中使用JavaScript代码，以及在不同投放模板中标准化和共享内容块。
+description: 本教學課程示範如何個人化傳遞內容、在傳遞範本中使用JavaScript程式碼，以及在不同傳遞範本中標準化和共用內容區塊。
 feature: Dynamic Content, Personalization
 kt: 1559
 doc-type: feature video
@@ -23,11 +23,11 @@ ht-degree: 67%
 3 - 插入动态的个性化字段\
 4 - 创建条件内容。
 
-本教程演示如何个性化投放内容，在投放模板中使用JavaScript代码，以及在不同投放模板中标准化和共享内容块。
+本教學課程示範如何個人化傳遞內容、在傳遞範本中使用JavaScript程式碼，以及在不同傳遞範本中標準化和共用內容區塊。
 
 ## 创建个性化块并将其添加到投放
 
-个性化块是动态的，包含可添加到投放的特定渲染代码。 例如，您可以添加图像、电子邮件页眉、电子邮件页脚、镜像页面链接、退订链接等。
+個人化區塊是動態的，並包含可以新增至傳遞的特定轉譯程式碼。 例如，您可以添加图像、电子邮件页眉、电子邮件页脚、镜像页面链接、退订链接等。
 
 >[!VIDEO](https://video.tv.adobe.com/v/24924?quality=12&learn=on)
 
@@ -43,4 +43,4 @@ ht-degree: 67%
 
 >[!VIDEO](https://video.tv.adobe.com/v/24926?quality=12&learn=on)
 
-要了解有关个性化的更多信息，请参阅 [产品文档](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/personalizing-deliveries/about-personalization.html?lang=en).
+若要進一步瞭解個人化，請參閱 [產品檔案](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/personalizing-deliveries/about-personalization.html?lang=en).

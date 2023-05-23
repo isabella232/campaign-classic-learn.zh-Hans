@@ -20,6 +20,6 @@ ht-degree: 84%
 
 Adobe Campaign 包含一个工作流模块，允许您在应用程序服务器的不同模块之间编排所有流程和任务。您可以利用这个全面的图形环境设计各式流程，包括部分划分、活动执行、文件处理、人员参与等。工作流引擎会执行并跟踪这些流程。
 
-以下视频介绍如何在Adobe Campaign Classic中创建工作流。
+此影片說明如何在Adobe Campaign Classic中建立工作流程。
 
 >[!VIDEO](https://video.tv.adobe.com/v/25559?quality=12&learn=on)

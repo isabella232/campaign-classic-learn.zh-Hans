@@ -1,6 +1,6 @@
 ---
 title: 查询数据
-description: 了解如何使用查询编辑器查询数据。
+description: 瞭解如何使用查詢編輯器查詢資料。
 kt: 11924
 doc-type: feature video
 activity: use
@@ -19,6 +19,6 @@ ht-degree: 18%
 
 # 查询数据
 
-了解如何使用查询编辑器查询数据。
+瞭解如何使用查詢編輯器查詢資料。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3415814?quality=12&learn=on)

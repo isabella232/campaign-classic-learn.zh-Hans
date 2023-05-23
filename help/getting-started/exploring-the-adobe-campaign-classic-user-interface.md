@@ -1,6 +1,6 @@
 ---
 title: 浏览 Adobe Campaign Classic 用户界面
-description: 了解Adobe Campaign Classic的主用户界面，并向您展示如何导航主要功能。
+description: 瞭解Adobe Campaign Classic的主要使用者介面，並示範如何導覽至主要功能。
 feature: Overview
 kt: 5009
 thumbnail: 35130.jpg

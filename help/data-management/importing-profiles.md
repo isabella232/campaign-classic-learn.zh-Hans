@@ -1,6 +1,6 @@
 ---
 title: 如何导入用户档案
-description: 了解如何在Adobe Campaign Classic中导入用户档案
+description: 瞭解如何在Adobe Campaign Classic中匯入設定檔
 feature: Profiles
 kt: 2176
 doc-type: feature video
@@ -18,6 +18,6 @@ ht-degree: 28%
 
 # 如何导入用户档案
 
-以下视频介绍如何在Adobe Campaign Classic中导入用户档案。
+此影片說明如何在Adobe Campaign Classic中匯入設定檔。
 
 >[!VIDEO](https://video.tv.adobe.com/v/25608?quality=12&learn=on)

@@ -17,12 +17,12 @@ ht-degree: 45%
 
 ---
 
-# 扩展 [!UICONTROL app subscription] 个性化推送通知的架构
+# 擴充 [!UICONTROL app subscription] 個人化推播通知的綱要
 
-了解如何扩展 [!UICONTROL app subscription] 架构来存储个性化值 [!DNL Campaign] 接收。
+瞭解如何延伸 [!UICONTROL app subscription] 能夠儲存個人化值的結構描述 [!DNL Campaign] 從行動應用程式接收。
 
 >[!VIDEO](https://video.tv.adobe.com/v/327306?quality=12&learn=on)
 
 **下一步**
 
-步骤2: [在Campaign中配置Android服务并创建Android移动应用程序](/help/tutorial-getting-started-with-push-notifications-for-android/configuring-an-android-service-in-campaign.md)
+步驟2： [在Campaign中設定Android服務及建立Android行動應用程式](/help/tutorial-getting-started-with-push-notifications-for-android/configuring-an-android-service-in-campaign.md)

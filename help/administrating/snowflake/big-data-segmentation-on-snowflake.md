@@ -1,6 +1,6 @@
 ---
 title: Snowflake 的大数据管理
-description: 了解如何在Adobe Campaign Classic中利用Snowflake连接器
+description: 瞭解如何在Adobe Campaign Classic中善用Snowflake聯結器
 feature: Federated Data Access, Data Management
 kt: 4405
 doc-type: feature video
@@ -18,7 +18,7 @@ ht-degree: 56%
 
 # Snowflake 的大数据管理
 
-本教程介绍如何利用 [!DNL Snowflake] 连接器。Adobe Campaign Classic
+本教學課程說明如何運用 [!DNL Snowflake] Adobe Campaign Classic中的聯結器。
 您将学习如何
 
 * 连接到 Snowflake
@@ -32,4 +32,4 @@ ht-degree: 56%
 
 >[!VIDEO](https://video.tv.adobe.com/v/31588?quality=12&learn=on)
 
-有关如何配置对Snowflake的访问权限的更多信息，请参阅 [产品文档](https://experienceleague.adobe.com/docs/campaign-classic/using/installing-campaign-classic/accessing-external-database/configure-fda/config-databases/configure-fda-snowflake.html?lang=en#installing-campaign-classic).
+如需如何設定Snowflake存取許可權的詳細資訊，請參閱 [產品檔案](https://experienceleague.adobe.com/docs/campaign-classic/using/installing-campaign-classic/accessing-external-database/configure-fda/config-databases/configure-fda-snowflake.html?lang=en#installing-campaign-classic).

@@ -23,4 +23,4 @@ ht-degree: 65%
 
 >[!VIDEO](https://video.tv.adobe.com/v/326544?quality=12&learn=on)
 
-要了解有关移动应用程序渠道配置的更多信息，请参阅 [产品文档](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/sending-push-notifications/configure-the-mobile-app/get-started-app-config.html?lang=en#installing-package-ios).
+若要進一步瞭解行動應用程式頻道設定，請參閱 [產品檔案](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/sending-push-notifications/configure-the-mobile-app/get-started-app-config.html?lang=en#installing-package-ios).

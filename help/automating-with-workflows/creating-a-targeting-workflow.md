@@ -18,9 +18,9 @@ ht-degree: 53%
 
 # 创建定位工作流
 
-Adobe Campaign 使用工作流来执行定位活动、构建活动或执行 Adobe Campaign 技术流程。在此视频中，我们将重点介绍定位工作流。 定位工作流允许您构建多个投放目标。
+Adobe Campaign 使用工作流来执行定位活动、构建活动或执行 Adobe Campaign 技术流程。在本影片中，我們將著重於目標定位工作流程。 目標工作流程可讓您建立多個傳遞目標。
 
 >[!VIDEO](https://video.tv.adobe.com/v/25605?quality=12&learn=on)
 
-请参阅此文档 [关于工作流](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/introduction/about-workflows.html?lang=zh-Hans)
-和 [关于定位活动](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/targeting-activities/about-targeting-activities.html) 以了解更多信息。
+請參閱檔案 [關於工作流程](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/introduction/about-workflows.html?lang=zh-Hans)
+和 [關於目標定位活動](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/targeting-activities/about-targeting-activities.html) 以取得詳細資訊。

@@ -1,6 +1,6 @@
 ---
-title: 在Adobe Campaign Classic中部署临时电子邮件投放模板
-description: 了解如何部署临时电子邮件投放模板，并了解电子邮件投放与投放工作流之间的区别。
+title: 在Adobe Campaign Classic中部署隨選電子郵件傳遞範本
+description: 瞭解如何部署隨選電子郵件傳遞範本，並瞭解電子郵件傳遞與傳遞工作流程之間的差異。
 feature: Delivery Templates
 kt: 1565
 thumbnail: 24065.jpg
@@ -19,6 +19,6 @@ ht-degree: 9%
 
 # 部署临时电子邮件投放模板 {#deploying-a-delivery-template}
 
-此视频介绍如何部署临时电子邮件投放模板，并说明电子邮件投放与投放工作流之间的区别。
+此影片說明如何部署隨選電子郵件傳遞範本，並說明電子郵件傳遞與傳遞工作流程之間的差異。
 
 >[!VIDEO](https://video.tv.adobe.com/v/24065?quality=12&learn=on)
