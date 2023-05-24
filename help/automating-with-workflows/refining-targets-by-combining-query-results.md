@@ -19,6 +19,6 @@ ht-degree: 64%
 
 # 通过组合查询结果优化目标
 
-瞭解如何使用在工作流程中結合查詢結果，以縮小目標範圍 **[!UICONTROL intersection]** 或 **[!UICONTROL union]** 活動。
+了解如何通过使用组合工作流中的查询结果来优化目标 **[!UICONTROL intersection]** 或 **[!UICONTROL union]** 活动。
 
 >[!VIDEO](https://video.tv.adobe.com/v/36832?quality=12&learn=on)

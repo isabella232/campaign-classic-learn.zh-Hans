@@ -1,6 +1,6 @@
 ---
-title: Adobe Campaign Classic中的資料細分
-description: 瞭解整合式客戶設定檔、如何建立和更新設定檔，以及如何根據這些設定檔建立客戶區段。
+title: Adobe Campaign Classic中的数据分段
+description: 了解集成的客户用户档案，如何创建和更新用户档案，以及如何根据这些用户档案创建客户区段。
 feature: Profiles, Data Management Activity
 kt: 1656
 doc-type: feature video
@@ -18,25 +18,25 @@ ht-degree: 0%
 
 # 数据分段
 
-Adobe Campaign可讓您透過對常見消費者屬性和其他資料來源的深層查詢進行進階分段，讓您建立可重複使用的清單、根據資料的即時變更動態更新清單，甚至可以對任何這些資料點執行更複雜的活動，例如多變數測試。 本教學課程說明整合式客戶設定檔、如何建立和更新設定檔，以及如何根據這些設定檔建立客戶區段。
+Adobe Campaign允许您通过对常见使用者属性和其他数据源的深度查询来执行高级分段，从而允许您创建可重复使用的列表、基于对数据的实时更改动态更新列表，甚至可以对这些数据点中的任意数据点执行更复杂的活动，例如多变量测试。 本教程介绍了集成的客户用户档案、如何创建和更新用户档案，以及如何根据这些用户档案创建客户区段。
 
 ## Integrated Customer Profile {#integrated-customer-profile}
 
-客戶透過每個管道產生資料，而且操作方式一律相同，例如讓客戶嘗試購買商品或只是與品牌互動。
+客户在尝试做出购买决定或只是与您的品牌互动时，他们会执行人们执行的所有操作，与此同时，他们通过每个渠道都可以指尖生成数据。
 
-Adobe Campaign的整合式客戶設定檔可讓行銷人員大規模擷取及管理該資料；從人口統計詳細資料「郵遞區號」、「地址」、「性別」等設定檔屬性，到互動資料、「開啟訊息」、「按一下電子郵件」、「網站造訪」，轉換為轉換資料，甚至離線資料。
+Adobe Campaign的集成客户配置文件使营销人员能够大规模捕获和管理这些数据；从人口统计详细信息、邮政编码、地址、性别等配置文件属性到交互数据、“打开消息”、“点击电子邮件”、“网站访问”，再到转化数据甚至离线数据。
 
 >[!VIDEO](https://video.tv.adobe.com/v/23629?quality=12&learn=on)
 
-## 客戶設定檔建立和更新 {#customer-profile-creation-and-update}
+## 客户个人资料的创建和更新 {#customer-profile-creation-and-update}
 
 >[!VIDEO](https://video.tv.adobe.com/v/23632?quality=12&learn=on)
 
-## 客戶細分  {#customer-segmentation}
+## 客户分段  {#customer-segmentation}
 
-瞭解設定檔後，您就可以透過對常見消費者屬性和其他資料來源的深層查詢，進行進階分段。 可讓您建立可重複使用的清單、根據資料的即時變更動態更新清單，甚至可對任何這些資料點執行更複雜的活動，例如多變數測試。
+了解配置文件后，您就可以通过对常见消费者属性和其他数据源的深层查询执行高级分段了。 允许您创建可重复使用的列表，根据数据的实时更改动态更新列表，甚至可以执行更复杂的活动，例如对任何这些数据点进行多变量测试。
 
-請注意：此影片是錄製在Adobe Campaign Classic V6中，功能完全相同，但工作流程圖示已變更。
+请注意：此视频记录在Adobe Campaign Classic V6中，其功能完全相同，但工作流图标已更改。
 
 >[!VIDEO](https://video.tv.adobe.com/v/23635?quality=12&learn=on)
 

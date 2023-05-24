@@ -1,6 +1,6 @@
 ---
 title: 使用压力规则管理营销疲劳度
-description: 瞭解如何使用篩選器在Adobe Campaign Classic中實施疲勞管理。
+description: 了解如何使用过滤器在Adobe Campaign Classic中实施疲劳管理。
 feature: Fatigue Management, Typology Rules
 kt: 2148
 doc-type: feature video
@@ -18,10 +18,10 @@ ht-degree: 34%
 
 # 使用预定义过滤器设置疲劳管理
 
-疲劳管理控制消息传送的频度和数量，以避免过度招徕收件人。如果您的行銷活動執行個體中沒有行銷活動最佳化模組，您可以設定預先定義的篩選器，以依據收到的訊息數量篩選目標母體。
+疲劳管理控制消息传送的频度和数量，以避免过度招徕收件人。如果您的营销活动实例中没有营销活动优化模块，则可以配置一个预定义过滤器，以收到的消息数过滤目标群体。
 
-此影片說明如何使用篩選器在Adobe Campaign Classic中實施疲勞管理。
+此视频介绍如何使用过滤器在Adobe Campaign Classic中实施疲劳管理。
 
 >[!VIDEO](https://video.tv.adobe.com/v/25091?quality=12&learn=on)
 
-請瀏覽產品檔案以進一步瞭解 [行銷活動型別](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/campaign-optimization/about-campaign-typologies.html?lang=zh-Hans).
+请访问产品文档以了解有关 [活动类型](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/campaign-optimization/about-campaign-typologies.html?lang=zh-Hans).

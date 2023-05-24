@@ -1,5 +1,5 @@
 ---
-title: 在Adobe Campaign Classic中設定傳遞範本屬性
+title: 在Adobe Campaign Classic中设置投放模板属性
 description: 了解如何配置投放模板属性。
 feature: Delivery Templates
 kt: 1981
@@ -19,6 +19,6 @@ ht-degree: 32%
 
 # 设置投放模板属性 {#setting-the-delivery-template-properties}
 
-以下影片說明如何設定傳遞範本屬性，並詳細說明每個屬性。
+以下视频演示了如何设置投放模板属性，并详细说明每个属性。
 
 >[!VIDEO](https://video.tv.adobe.com/v/24067?quality=12&learn=on)

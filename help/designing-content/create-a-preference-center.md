@@ -1,6 +1,6 @@
 ---
 title: 创建首选项中心
-description: 瞭解如何使用Adobe Campaign的網頁應用程式編輯器建立偏好設定中心。
+description: 了解如何使用Adobe Campaign的Web应用程序编辑器创建首选项中心。
 feature: Landing Pages
 kt: 1562
 thumbnail: 25041.jpg
@@ -20,8 +20,8 @@ ht-degree: 14%
 
 # 创建首选项中心
 
-瞭解如何使用Adobe Campaign的網頁應用程式編輯器建立偏好設定中心。
+了解如何使用Adobe Campaign的Web应用程序编辑器创建首选项中心。
 
 >[!VIDEO](https://video.tv.adobe.com/v/25041?quality=12&learn=on)
 
-如需詳細資訊，請參閱以下專案的詳細檔案： [建立登入頁面](https://experienceleague.adobe.com/docs/campaign-classic/using/designing-content/editing-html-content/creating-a-landing-page.html).
+有关详细信息，请参阅有关以下内容的详细文档： [创建登陆页面](https://experienceleague.adobe.com/docs/campaign-classic/using/designing-content/editing-html-content/creating-a-landing-page.html).

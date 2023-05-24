@@ -1,6 +1,6 @@
 ---
-title: 設定和傳送推播通知
-description: 瞭解如何設定推播通知並傳送給Android應用程式使用者。
+title: 配置和发送推送通知
+description: 了解如何配置推送通知并将其发送给Android应用程序用户。
 feature: Push
 kt: 6579
 thumbnail: 328154.jpg
@@ -17,13 +17,13 @@ ht-degree: 3%
 
 ---
 
-# 設定和傳送推播通知
+# 配置和发送推送通知
 
-瞭解如何設定和傳送 [!DNL push] 通知使用者 [!DNL Android] 應用程式。
+了解如何配置和发送 [!DNL push] 通知用户 [!DNL Android] 应用程序。
 
 >[!VIDEO](https://video.tv.adobe.com/v/328154?quality=12&learn=on)
 
 **上一步**
 
-步驟2： [在Campaign中設定Android服務及建立Android行動應用程式](/help/tutorial-getting-started-with-push-notifications-for-android/configuring-an-android-service-in-campaign.md)
+第2步： [在Campaign中配置Android服务并创建Android移动应用程序](/help/tutorial-getting-started-with-push-notifications-for-android/configuring-an-android-service-in-campaign.md)
 

@@ -1,5 +1,5 @@
 ---
-title: 在Adobe Campaign Classic中設定傳遞範本
+title: 在Adobe Campaign Classic中配置投放模板
 description: 了解如何为临时投放配置模板。
 feature: Delivery Templates
 kt: 1980
@@ -28,7 +28,7 @@ ht-degree: 84%
 * 发件人和回复地址
 * 基本的个性化块
 * 镜像页面和退订的链接
-* 內容、公司標誌或簽名
+* 内容、公司徽标或签名
 * 其他投放属性，如资源有效性、批次数量…
 
 以下视频演示了如何为临时投放配置模板。

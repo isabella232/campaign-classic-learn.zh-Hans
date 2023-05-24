@@ -1,6 +1,6 @@
 ---
 title: 故障排除控制面板
-description: 「控制面板」可以讓您依執行個體和允許清單IP位址監控及管理SFTP儲存。
+description: 控制面板允许列表允许您按实例监视和管理SFTP存储并管理IP地址。
 feature: Control Panel
 kt: 2938
 doc-type: article
@@ -29,12 +29,12 @@ ht-degree: 80%
 用户只有在产品用户档案 _Campaign-xxx-Administrators/Admin_ 中将其添加为用户后，才会看到这些链接。
 
 **要做什么：**
-管理员须将用户添加到要管理的每个实例的产品用户档案 _Campaign-xxx-Admins_ 中。如果使用者是所有執行個體的管理員，則他們仍需將自己新增為使用者。
+管理员须将用户添加到要管理的每个实例的产品用户档案 _Campaign-xxx-Admins_ 中。如果用户是所有实例的管理员，则他们必须将自己添加为“用户”。
 
 ### 症状：实例未列在 [!UICONTROL Control Panel] 中
 
 **原因：**
-最有可能的使用者必須新增為「使用者」產品設定檔 _Campaign-xxx-Administrators/Admin_ 針對遺失的執行個體
+最可能的原因是用户必须添加为“用户”产品配置文件 _Campaign-xxx-Administrators/Admin_ 对于缺少的实例
 
 **要做什么：**
 管理员须将用户添加到要管理的每个实例的产品用户档案 _Campaign-xxx-Admins_ 中。如果用户是所有实例的管理员，他们须将自己添加为“用户”。
@@ -60,7 +60,7 @@ ht-degree: 80%
 
 * [!UICONTROL Allow listing] 您连接到 SFTP 服务器的 IP 地址
 * 必须向 Adobe Campaign 注册的私钥/公钥对
-* 如果直接連線到SFTP伺服器，您需要SFTP使用者端軟體
+* 如果直接连接到SFTP服务器，则需要SFTP客户端软件
 
 ### 帮助文档 {#helpful-docs}
 

@@ -21,4 +21,4 @@ ht-degree: 61%
 >[!VIDEO](https://video.tv.adobe.com/v/341030?quality=12&learn=on)
 
 >[!NOTE]
-> 此影片已在Campaign V8中錄製，其功能與Campaign Classic V7和Campaign V8相同。
+> 该视频已在Campaign V8中录制，其功能对于Campaign ClassicV7和Campaign V8都是相同的。

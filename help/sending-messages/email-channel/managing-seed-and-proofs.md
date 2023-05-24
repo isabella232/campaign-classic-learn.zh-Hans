@@ -1,6 +1,6 @@
 ---
 title: 如何在电子邮件中管理种子和验证
-description: 瞭解如何將種子和校樣新增到現有電子郵件以及如何傳送。
+description: 了解如何向现有电子邮件添加种子和验证以及如何发送该电子邮件。
 feature: Email, Seed Address, Proofs
 kt: 2178
 thumbnail: 25606.jpg
@@ -19,6 +19,6 @@ ht-degree: 36%
 
 # 如何在电子邮件中管理种子和验证
 
-瞭解如何將種子和校樣新增到現有電子郵件以及如何傳送。
+了解如何向现有电子邮件添加种子和验证以及如何发送该电子邮件。
 
 >[!VIDEO](https://video.tv.adobe.com/v/25606?quality=12&learn=on)

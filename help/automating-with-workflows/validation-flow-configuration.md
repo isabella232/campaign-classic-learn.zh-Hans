@@ -1,5 +1,5 @@
 ---
-title: 如何在Adobe Campaign Classic中設定驗證工作流程
+title: 如何在Adobe Campaign Classic中配置验证工作流
 description: 了解如何配置不同的批准验证工作流。
 feature: Workflows, Approvals
 kt: 1566

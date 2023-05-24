@@ -19,6 +19,6 @@ ht-degree: 57%
 
 # 创建直邮投放
 
-瞭解如何 [!UICONTROL direct mail] 工作位置 [!UICONTROL Adobe Campaign] 並瞭解如何建立、格式化及執行 [!UICONTROL direct mail ]傳遞。
+了解如何 [!UICONTROL direct mail] 工作位置 [!UICONTROL Adobe Campaign] 并了解如何创建、设置和执行 [!UICONTROL direct mail ]投放。
 
 >[!VIDEO](https://video.tv.adobe.com/v/21377?quality=12&learn=on)

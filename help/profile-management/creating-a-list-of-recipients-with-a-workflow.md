@@ -1,6 +1,6 @@
 ---
 title: 使用工作流创建收件人列表
-description: 瞭解如何透過從檔案總管設定收件者清單來建立對象。
+description: 了解如何通过从Explorer配置收件人列表来创建受众。
 feature: Audiences, Profiles
 kt: 2173
 thumbnail: 25603.jpg
@@ -19,6 +19,6 @@ ht-degree: 29%
 
 # 使用工作流创建收件人列表
 
-瞭解如何在電子郵件目標中使用清單之前，建立工作流程以定位收件者，以及如何使其重複發生。
+了解如何创建工作流以定位收件人，以及如何在电子邮件目标中使用列表之前使其重复执行。
 
 >[!VIDEO](https://video.tv.adobe.com/v/25603?quality=12&learn=on)
