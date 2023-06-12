@@ -10,10 +10,10 @@ team: WWFRE
 role: User
 level: Beginner
 exl-id: e0128b5f-3f09-460b-8524-624edeb27c4f
-source-git-commit: 0b52f82b3047b47ef46342811fa0d42cc574b7d8
+source-git-commit: 7b0de7bdd401b0b036ae704061549203851396a7
 workflow-type: tm+mt
-source-wordcount: '109'
-ht-degree: 38%
+source-wordcount: '104'
+ht-degree: 40%
 
 ---
 
@@ -25,5 +25,4 @@ ht-degree: 38%
 
 >[!IMPORTANT]
 >如果定位工作流中有多个投放，则需要在投放级别和营销活动设置中启用控制组设置。
->请参阅产品文档，了解有关以下内容的更多信息 [如何定义对照组](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/orchestrate-campaigns/marketing-campaign-target.html?lang=en#defining-a-control-group){target="_blank"}
-和 [投放目标人群](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/key-steps-when-creating-a-delivery/steps-defining-the-target-population.html?lang=en){target="_blank"}
+>请参阅产品文档，了解有关以下内容的更多信息 [如何定义对照组](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/orchestrate-campaigns/marketing-campaign-target.html?lang=en#defining-a-control-group){target="_blank"} and [the delivery target population](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/key-steps-when-creating-a-delivery/steps-defining-the-target-population.html?lang=en){target="_blank"}
