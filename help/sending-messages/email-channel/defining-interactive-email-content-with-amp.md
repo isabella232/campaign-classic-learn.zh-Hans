@@ -2,7 +2,7 @@
 title: 使用 AMP 定义交互式电子邮件内容
 description: 了解如何以 AMP 格式配置电子邮件内容。
 feature: Email, Email Design
-kt: 3475
+jira: KT-3475
 thumbnail: 29940.jpg
 doc-type: feature video
 activity: set-up
@@ -10,8 +10,8 @@ team: TM
 role: User, Developer
 level: Experienced
 exl-id: 824f62dc-accb-4b3a-aaed-9b4e11b807f3
-source-git-commit: 7d63f43c26182bd7ffb618392463283da0b3d307
-workflow-type: tm+mt
+source-git-commit: f4e86b933660ced199c30d318445363b74c51c4b
+workflow-type: ht
 source-wordcount: '116'
 ht-degree: 100%
 
