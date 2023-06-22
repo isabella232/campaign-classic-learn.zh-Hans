@@ -4,10 +4,10 @@ description: 了解如何使用 Adobe Target 提供的动态内容对投放进�
 feature: Target Integration
 role: User
 level: Beginner, Intermediate, Experienced
-kt: 9601
+jira: KT-9601
 thumbnail: 341030.jpg
 exl-id: 1338427d-d75e-4480-9377-f8e68e067364
-source-git-commit: 818dc5bb697ce70182ecee936c22a26730201337
+source-git-commit: f4e86b933660ced199c30d318445363b74c51c4b
 workflow-type: tm+mt
 source-wordcount: '55'
 ht-degree: 61%

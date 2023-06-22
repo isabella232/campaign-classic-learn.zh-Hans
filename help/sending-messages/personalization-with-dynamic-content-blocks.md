@@ -2,11 +2,11 @@
 title: 如何使用动态内容块个性化电子邮件
 description: 本教程演示了如何个性化投放内容、在投放模板中使用JavaScript代码，以及在不同投放模板中标准化和共享内容块。
 feature: Personalization
-kt: 1559
+jira: KT-1559
 doc-type: feature video
 activity: use
 team: TM
-source-git-commit: f155a48a2eea11867a217051741941d57ad54915
+source-git-commit: f4e86b933660ced199c30d318445363b74c51c4b
 workflow-type: tm+mt
 source-wordcount: '257'
 ht-degree: 67%

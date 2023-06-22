@@ -2,14 +2,14 @@
 title: Snowflake 的大数据管理
 description: 了解如何在Adobe Campaign Classic中利用Snowflake连接器
 feature: Federated Data Access, Data Management
-kt: 4405
+jira: KT-4405
 doc-type: feature video
 activity: use
 team: PM
 role: Admin, Developer
 level: Experienced
 exl-id: e46560c3-d911-4cd9-8be2-8057c70d7881
-source-git-commit: 7d63f43c26182bd7ffb618392463283da0b3d307
+source-git-commit: f4e86b933660ced199c30d318445363b74c51c4b
 workflow-type: tm+mt
 source-wordcount: '115'
 ht-degree: 56%
