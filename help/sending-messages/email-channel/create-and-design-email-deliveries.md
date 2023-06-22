@@ -2,7 +2,7 @@
 title: 如何创建和设计电子邮件投放
 description: 了解创建电子邮件投放的过程，并了解如何设计和个性化电子邮件内容。
 feature: Email, Email Design, Personalization
-kt: 5096
+jira: KT-5096
 thumbnail: 330941.jpg
 doc-type: feature video
 activity: use
@@ -10,9 +10,9 @@ team: WWFRE
 role: User
 level: Beginner
 exl-id: 018e36bc-1afc-42c0-a459-4d51775ff6f8
-source-git-commit: 13f7ab2dd41216a603a22f181dc4d06302c5918a
-workflow-type: tm+mt
-source-wordcount: '62'
+source-git-commit: f4e86b933660ced199c30d318445363b74c51c4b
+workflow-type: ht
+source-wordcount: '0'
 ht-degree: 100%
 
 ---
