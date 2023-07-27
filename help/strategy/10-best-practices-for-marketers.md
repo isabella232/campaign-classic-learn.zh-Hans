@@ -50,7 +50,7 @@ I added that second paragraph about 760% revenue and broke up the rest of the se
 
 例如，如果客户习惯在早上通过手机查看是否有合适的商品，那么可以考虑向他们发送促销短信。如果客户习惯在晚上浏览下一个热门趋势，可以考虑发送一封包含促销代码（用于免除运费）的后续电子邮件。在执行工作流和发送时，使用 [!DNL Campaign] 中的热图工具进行跟踪非常重要。协调和推进跨多个品牌的通信可能非常具有挑战性。[重视并了解进行电子邮件营销的节奏、节律和时机](https://experienceleaguecommunities.adobe.com/t5/adobe-campaign-classic-blogs/predictive-send-time-optimization-with-adobe-campaign/ba-p/561554)，这对消息和 Campaign 实例的整体稳定性和强度来说非常重要。
 
-## 4.在重要时使用个性化
+## 4.在需要个性化时，使用个性化
 
 如今，消费者希望收到的消息具有一定程度的个性化设计。[80% 的客户更有可能从提供个性化体验的品牌购买产品](https://us.epsilon.com/power-of-me)。在主题行中显示他们的名字会带来很好的效果。但是，个性化设计远不止于此。您可以纳入他们浏览过的产品，为其推荐类似的产品，或继续增强品牌的整体统一体验和观感。每个细节都很重要，都有助于提高消息的互动率和打开率。
 
