@@ -1,6 +1,6 @@
 ---
 title: 故障排除控制面板
-description: 控制面板允许列表允许您按实例监视和管理SFTP存储并管理IP地址。
+description: 控制面板列入允许列表允许您按实例监视和管理SFTP存储并管理IP地址。
 feature: Control Panel
 jira: KT-2938
 doc-type: article
@@ -29,12 +29,12 @@ ht-degree: 80%
 用户只有在产品用户档案 _Campaign-xxx-Administrators/Admin_ 中将其添加为用户后，才会看到这些链接。
 
 **要做什么：**
-管理员须将用户添加到要管理的每个实例的产品用户档案 _Campaign-xxx-Admins_ 中。如果用户是所有实例的管理员，则他们必须将自己添加为“用户”。
+管理员须将用户添加到要管理的每个实例的产品用户档案 _Campaign-xxx-Admins_ 中。如果用户是所有实例的管理员，他们必须将自己添加为“用户”。
 
 ### 症状：实例未列在 [!UICONTROL Control Panel] 中
 
 **原因：**
-最可能的原因是用户必须添加为“用户”产品配置文件 _Campaign-xxx-Administrators/Admin_ 对于缺少的实例
+最可能的用户必须添加为“用户”产品配置文件 _Campaign-xxx-Administrators/Admin_ 对于缺少的实例
 
 **要做什么：**
 管理员须将用户添加到要管理的每个实例的产品用户档案 _Campaign-xxx-Admins_ 中。如果用户是所有实例的管理员，他们须将自己添加为“用户”。

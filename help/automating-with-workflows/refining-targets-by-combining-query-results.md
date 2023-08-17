@@ -19,6 +19,6 @@ ht-degree: 64%
 
 # 通过组合查询结果优化目标
 
-了解如何通过使用组合工作流中的查询结果来优化目标 **[!UICONTROL intersection]** 或 **[!UICONTROL union]** 活动。
+了解如何使用来组合工作流中的查询结果，从而优化目标 **[!UICONTROL intersection]** 或 **[!UICONTROL union]** 活动。
 
 >[!VIDEO](https://video.tv.adobe.com/v/36832?quality=12&learn=on)

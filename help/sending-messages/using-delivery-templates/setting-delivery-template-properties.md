@@ -19,6 +19,6 @@ ht-degree: 32%
 
 # 设置投放模板属性 {#setting-the-delivery-template-properties}
 
-以下视频演示了如何设置投放模板属性，并详细说明每个属性。
+以下视频介绍了如何设置投放模板属性，并详细说明每个属性。
 
 >[!VIDEO](https://video.tv.adobe.com/v/24067?quality=12&learn=on)

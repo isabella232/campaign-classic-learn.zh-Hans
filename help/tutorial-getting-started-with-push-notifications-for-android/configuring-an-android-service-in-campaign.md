@@ -1,6 +1,6 @@
 ---
 title: 在Campaign中配置Android服务并创建Android移动应用程序
-description: 了解如何在Campaign中配置Android Services和创建Android移动应用程序。 我们需要使用该参数将Neotrip应用程序定义为推送通知的目标。
+description: 了解如何在Campaign中配置Android服务并创建Android移动应用程序。 我们将Neotrip应用程序定义为推送通知目标时需要此信息。
 feature: Push
 jira: KT-6554
 thumbnail: 327788.jpg
@@ -25,7 +25,7 @@ ht-degree: 32%
 
 **上一步**
 
-步骤1： [扩展应用程序订阅模式以个性化推送通知](/help/tutorial-getting-started-with-push-notifications-for-android/extending-the-app-subscription-schema.md)
+第1步： [扩展应用程序订阅模式以个性化推送通知](/help/tutorial-getting-started-with-push-notifications-for-android/extending-the-app-subscription-schema.md)
 
 **下一步**
 

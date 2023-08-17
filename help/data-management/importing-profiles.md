@@ -18,6 +18,6 @@ ht-degree: 28%
 
 # 如何导入用户档案
 
-此视频介绍如何在Adobe Campaign Classic中导入用户档案。
+以下视频介绍了如何在Adobe Campaign Classic中导入用户档案。
 
 >[!VIDEO](https://video.tv.adobe.com/v/25608?quality=12&learn=on)

@@ -1,6 +1,6 @@
 ---
 title: 浏览 Adobe Campaign Classic 用户界面
-description: 了解Adobe Campaign Classic的主用户界面，并展示如何导航主要功能。
+description: 了解Adobe Campaign Classic的主用户界面，并介绍如何导航主要功能。
 feature: Overview
 jira: KT-5009
 thumbnail: 35130.jpg
