@@ -10,10 +10,10 @@ team: WWFRE
 role: User
 level: Beginner
 exl-id: c078146c-f59c-4de6-90de-4f5c6e31c096
-source-git-commit: f4e86b933660ced199c30d318445363b74c51c4b
+source-git-commit: 35e036486c5b533b54b3f626d88734e9a9fc3b8a
 workflow-type: tm+mt
-source-wordcount: '84'
-ht-degree: 91%
+source-wordcount: '86'
+ht-degree: 89%
 
 ---
 
@@ -21,7 +21,7 @@ ht-degree: 91%
 
 了解活动工作流的使用情况，并了解如何使用过滤条件在工作流中创建工作流和定位用户档案。
 
->[!VIDEO](https://video.tv.adobe.com/v/35614?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/35614?quality=12&learn=on){transcript=true}
 
 ## 观看下一个教程
 

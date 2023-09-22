@@ -10,9 +10,9 @@ team: TM
 role: Admin, Developer
 level: Experienced
 exl-id: 47e66991-fbc4-4cbf-ad36-144a430ea62a
-source-git-commit: f4e86b933660ced199c30d318445363b74c51c4b
+source-git-commit: 35e036486c5b533b54b3f626d88734e9a9fc3b8a
 workflow-type: tm+mt
-source-wordcount: '104'
+source-wordcount: '106'
 ht-degree: 32%
 
 ---
@@ -21,7 +21,7 @@ ht-degree: 32%
 
 了解如何在 Campaign 中配置 [!DNL Android] 服务并创建 [!DNL Android] 移动应用程序。此步骤是必需的，这样您能够为推送通知定义目标移动应用程序。
 
->[!VIDEO](https://video.tv.adobe.com/v/327788?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/327788?quality=12&learn=on){transcript=true}
 
 **上一步**
 

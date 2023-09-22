@@ -9,9 +9,9 @@ team: evangelist
 role: User
 level: Beginner
 exl-id: d31023ca-aa81-4a65-a4c7-ddbf0d0a4a99
-source-git-commit: f4e86b933660ced199c30d318445363b74c51c4b
+source-git-commit: 35e036486c5b533b54b3f626d88734e9a9fc3b8a
 workflow-type: tm+mt
-source-wordcount: '276'
+source-wordcount: '282'
 ht-degree: 0%
 
 ---
@@ -26,11 +26,11 @@ Adobe Campaign允许您通过对常见消费者属性和其他数据源的深层
 
 Adobe Campaign的集成客户配置文件使营销人员能够大规模捕获和管理这些数据；从人口统计详细信息、邮政编码、地址、性别等配置文件属性到交互数据、“打开消息”、“点击电子邮件”、“网站访问”，的一切信息都可转换为转化数据，甚至可转换为离线数据。
 
->[!VIDEO](https://video.tv.adobe.com/v/23629?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/23629?quality=12&learn=on){transcript=true}
 
 ## 客户个人资料的创建和更新 {#customer-profile-creation-and-update}
 
->[!VIDEO](https://video.tv.adobe.com/v/23632?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/23632?quality=12&learn=on){transcript=true}
 
 ## 客户分段  {#customer-segmentation}
 
@@ -38,5 +38,5 @@ Adobe Campaign的集成客户配置文件使营销人员能够大规模捕获和
 
 请注意：此视频是在Adobe Campaign Classic V6中录制的，虽然功能完全相同，但工作流图标发生了变化。
 
->[!VIDEO](https://video.tv.adobe.com/v/23635?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/23635?quality=12&learn=on){transcript=true}
 

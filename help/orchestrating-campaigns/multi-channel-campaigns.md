@@ -10,10 +10,10 @@ team: TM
 role: User
 level: Beginner
 exl-id: 5f71cea8-aa13-4b89-a1c5-10c97a8992c8
-source-git-commit: f4e86b933660ced199c30d318445363b74c51c4b
+source-git-commit: 35e036486c5b533b54b3f626d88734e9a9fc3b8a
 workflow-type: tm+mt
-source-wordcount: '84'
-ht-degree: 77%
+source-wordcount: '86'
+ht-degree: 75%
 
 ---
 
@@ -23,4 +23,4 @@ ht-degree: 77%
 
 了解如何根据收件人的首选渠道，使用电子邮件、短信和直邮投放创建多渠道营销活动。
 
->[!VIDEO](https://video.tv.adobe.com/v/24981?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/24981?quality=12&learn=on){transcript=true}
