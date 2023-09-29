@@ -10,10 +10,10 @@ team: TM
 role: User, Developer
 level: Experienced
 exl-id: 824f62dc-accb-4b3a-aaed-9b4e11b807f3
-source-git-commit: 35e036486c5b533b54b3f626d88734e9a9fc3b8a
+source-git-commit: 9dd7b0769153f2632880458534eb4c1689969caa
 workflow-type: tm+mt
-source-wordcount: '118'
-ht-degree: 98%
+source-wordcount: '119'
+ht-degree: 89%
 
 ---
 
@@ -21,7 +21,7 @@ ht-degree: 98%
 
 AMP for Email 是一新型开放源码格式，它使开发人员能够创建动态的和交互式的电子邮件。借助电子邮件中直接提供的现代应用程序功能，收件人可以动态地与消息本身中的内容进行交互。
 
-目前，只有 Gmail、Outlook 和 Mail.ru 支持 AMP 格式。
+目前，只有Gmail、Yahoo、FairEmail和Mail.ru支持AMP格式。
 
 以下视频介绍如何在 Adobe Campaign Classic 中激活 AMP 并展示了使用方法。
 
