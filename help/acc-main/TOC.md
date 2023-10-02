@@ -6,7 +6,7 @@ user-guide-description: 借助 Adobe Campaign Classic，营销人员可以设计
 breadcrumb-title: 教程
 auto-video-transcripts: true
 source-git-commit: 770c1b87b9be4f6fdf753b8b0d33e8feea5c9cb9
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '460'
 ht-degree: 100%
 
