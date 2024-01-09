@@ -2,13 +2,13 @@
 product: adobe campaign
 sub-product: Campaign Classic
 user-guide-title: Adobe Campaign Classic v7Tutorials
-user-guide-description: 借助Adobe Campaign Classic v7，营销人员可以设计跨渠道客户体验并提供可视活动编排、实时互动管理和跨渠道执行的环境。
+user-guide-description: Adobe Campaign Classic v7的视频和教程。
 breadcrumb-title: Campaign Classicv7Tutorials
 auto-video-transcripts: true
-source-git-commit: 11fa8be0e1ea218fa46647b2bee30adbd3352e7f
+source-git-commit: 1dc9c2423e3643e8d73719f5813ea99e14414f9c
 workflow-type: tm+mt
-source-wordcount: '434'
-ht-degree: 89%
+source-wordcount: '415'
+ht-degree: 93%
 
 ---
 
